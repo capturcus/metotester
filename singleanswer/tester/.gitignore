@@ -43,3 +43,6 @@ testem.log
 Thumbs.db
 
 node_modules
+pytania.txt
+src/app/pytania.ts
+

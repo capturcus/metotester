@@ -53,6 +53,7 @@ with io.open("pytania.txt", "r", encoding="utf-8") as f:
             line += 1
         if trueAnswers != 1:
             print "line " + str(line) + ": wrong number of correct answers: " + str(trueAnswers)
+            sys.exit(0)
         if line < len(content) and content[line].strip() != "":
             print "line " + str(line) + " should be empty"
             sys.exit(0)

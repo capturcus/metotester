@@ -1,1735 +1,349 @@
-﻿1.test psychologiczny to:
-
-a) jedynie zbiór zadań, który osoby badane rozwiązują w trakcie badania
-b)pomiar próbki i zachowania się
-c)rodzaj badania eksperymentalnego
-d) narzędzie składające się z pozycji testowych, sposobu ich wykorzystania i reguł obliczania wynikówx
-
-2.Każdy dobry test psychologiczny powinien cechować się:
-
-a) wyłącznie wysoką trafnością prognostyczną
-b) wyłącznie wysoką rzetelnością i trafnością
-c) wysoką rzetelnością, trafnością oraz aktualnymi pomiaramix
-d) wyłącznie wysoką rzetelnością
-
-3. Celem standaryzacji procedury testowania jest:
-
-a) możliwość porównywania wyników różnych osóbx
-b) możliwość porównywania wyników osoby badanej ze standardem wykonania
-c) przestrzeganie standardów etycznych postępowania psychologa
-d) dostosowanie testu do obowiązujących w społeczeństwie standardów postępowania
-
-4. Czy w indywidualnej diagnozie testowej zawsze konieczne jest wyznaczenie przedziału ufności dla wyniku prawdziwego?
-
-a) tak, zawszex
-b) tylko w przypadkach szczególnych jest to konieczne
-c) przedział ufności oblicza się tylko wtedy, gdy badany o to popros
-d) nie, nie jest to nigdy konieczne
-
-5. Pozycje testowe w narzędziu o wysokiej rzetelności szacowania na podstawie zgodności wewnętrznej są:
-
-a) nieskorelowane ze sobą
-b) w przeważającej mierze łatwe
-c) skorelowane ze sobąx
-d) w przeważającej mierze trudne
-
-6. Błąd systematyczny
-
-a) obniża korelację dwóch pomiarów wykonanych tych samym narzędziem na tej samej grupie osób
-b) nie ma nic wspólnego z mierzoną cechą psychiczną i wynika ze stałych cech narzędziax
-c) pojawia się zwykle w testach stosowanych w systemie oświaty
-d) dotyczy wyłącznie testów inteligencji
-
-7. Błąd losowy:
-
-a) wpływa na trafność narzędzia
-b) wynika z losowego doboru badanych do próby standaryzacyjnej
-c) nie zmienia swej wielkości dla różnych wartości wyniku prawdziwego
-d) wpływa na rzetelność narzędzia (obniża)x
-
-8. Duża wartość standardowego błędu pomiaru (SEM) wskazuje na:
-
-a) niską trafność testu
-b) wysoką trafność testu
-c) niską rzetelność testux
-d) wysoką rzetelność testu
-
-9. Rzetelność testu to:
-
-a) stopień, w jakim test jest zdolny mierzyć to, co w założeniu miał mierzyć
-b) stopień, w jakim można polegać na psychologu przeprowadzającym badanie
-c) stopień, w jakim można polegać na osobie badanej
-d) stopień dokładności, z jaką określony test dokonuje pomiarówx
-
-10. Jeżeli test jest trafny to wynika stąd, że jest również
-
-a) rzetelnyx
-b) znormalizowany
-c) wystandaryzowany
-d) obiektywny
-
-11. Według klasycznej teorii testów średnia arytmetyczna błędów pomiaru nieskończenie wielkiej liczby pomiarów wynosi 0. Oznacza to, że:
-
-a) wpływ błędu na pomiar jest równy 0
-b) wyniki testu nie są obciążone żadnym błędem
-c) niemożliwe jest oszacowanie wielkości popełnianego błędu
-d) popełniany błąd, w każdym pomiarze ma charakter losowy i może z równym prawdopodobieństwem zarówno zawyżać jak i zaniżać wynikx
-
-12. Wynik prawdziwy to:
-
-a) suma punktów uzyskanych w danym teście
-b) średnia nieskończonej liczby pomiarów jednej osoby tym samym testemx
-c) wynik obciążony błędem pomiaru
-d) każdy wynik testowy uzyskany w badaniu, w którym badany udzielał szczerych odpowiedzi
-
-13. Wynik otrzymany:
-
-a) to według klasycznej teorii testów suma wyniku prawdziwego i błędu pomiarux
-b) zawsze równa się wynikowi prawdziwemu
-c) jest zawsze mniejszy od wyniku prawdziwego
-d) jest zawsze większy od wyniku prawdziwego
-
-14. W trakcie opracowywania psychometrycznego kwestionariusza objawów nerwicowych przeprowadzono badanie, w którym jego uczestnicy dwukrotnie w odstępie sześciu miesięcy wypełniali opracowywany kwestionariusz. W ten sposób określano:
-
-a) stabilność bezwzględną kwestionariuszax
-b) zgodność wewnętrzną kwestionariusza
-c) trafność teoretyczną kwestionariusza
-d) trafność kryterialną kwestionariusza
-
-15. Im większa rzetelność testu tym szerokość przedziału ufności obliczonego dla dowolnego wyniku otrzymanego:
-
-a) jest większax
-b) jest mniejsza
-c) rzetelność i przedział ufności nie są ze sobą powiązane
-d) zależy od wielkości wyniku otrzymanego
-
-16. Który z poniższych testów obciążony jest najmniejszym błędem pomiaru przy założeniu, że wariancje wyników prawdziwych i otrzymanych są jednakowe we wszystkich przypadkach:
-
-a) test o rzetelności 0,50
-b) test o rzetelności 0,77
-c) test o rzetelności 0,93x
-d) test o rzetelności 0,73
-
-17. W której z poniższych sytuacji informacja o trafności prognostycznej testu jest szczególnie istotna?
-
-a) przewidywanie powodzenia kandydatów w przyszłej pracyx
-b) diagnoza zaburzeń psychicznych
-c) określenie aktualnego poziomu możliwości intelektualnych
-d) diagnoza przyczyn trudności w nauce szkolnej
-
-18. Jednym ze sposobów określenia trafności diagnostycznej pewnego testu jest:
-
-a) zbadanie korelacji tego testu z innym testem mierzącym tę samą cechęx
-b) zbadania jak dobrze test przewiduje przyszłe funkcjonowanie osób badanych
-c) oszacowanie zgodności wewnętrznej testu
-d) wykorzystanie ocen sędziów kompetentnych
-
-19. Wyobraź sobie, że w teście wiadomości, który właśnie rozwiązujesz znajdują się jedynie pytania dotyczące trafności. Taki test ma niewystarczającą trafność:
-
-a) teoretyczną
-b) treściowąx
-c) prognostyczną
-d) diagnostyczną
-
-20. Jaki sposób szacowania trafności teoretycznej dotyczy liczby wymiarów opisujących dane zjawisko psychologiczne:
-
-a) analiza różnic międzygrupowych
-b) analiza zmian nieprzypadkowych
-c) analiza procesu rozwiązywania testu
-d) analiza struktury czynnikowej testux
-
-21. Jeżeli wyniki uzyskane na podstawie danego testu pozostają w silnym związku z wynikami uzyskanymi w innym teście przeznaczonym do pomiaru podobnej cechy, wówczas można przypuszczać, że test ma wysoką:
-
-a) rzetelnośćx
-b) trafność prognostyczną
-c) trafność dyskryminacyjną
-d) trafność zbieżną
-
-22. Stronniczość testów psychologicznych:
-
-a) powoduje, że grupy o niskim statusie społecznym (np. mniejszości narodowe) uzyskują przeciętnie niższe wyniki w danym teście w porównaniu z grupami uprzywilejowanymi
-b) oznacza, że grupy wyodrębnione ze względu na pochodzenie społeczne różnią się między sobą ze względu na przeciętne wyniki otrzymane w danym teście podczas, gdy przeciętne wynikiprawdziwe tych grup nie różnią się
-c) przejawia się w tym, że pewne testy, nawet po odpowiedniej adaptacji kulturowej, nie nadają się dla wszystkich badanychx
-d) jest zjawiskiem pożądanym, bo wskazuje na odmienne funkcjonowanie psychiczne różnych grup społecznych
-
-23. Jakie własności ma rozkład standaryzowany z?
-
-a) jest to rozkład normalny o dowolnej średniej i dowolnym odchyleniu standardowym
-b) jest to rozkład normalny o średniej 0 i dowolnym odchyleniu standardowym
-c) jest to rozkład normalny o dowolnej średniej i odchyleniu standardowym 0
-d) jest to rozkład normalny o średniej 0 i odchyleniu standardowym 1x
-
-24. Wykonałeś pewien test inteligencji, a twój wynik wyniósł 43 punkty. Liczba ta nie ma żadnego znaczenia bez znajomości:
-
-a) wskaźnika trafności fasadowej testu
-b) wskaźnika trafności teoretycznej
-c) standardu statystycznego, czyli normyx
-d) wyniku równoległej formy testu
-
-25. Średni wynik wyrażony w skali stenowej pewnego testu inteligencji
-
-a) jest różny dla populacji Polaków i Niemców
-b) jest taki sam dla populacji Polaków i Niemców
-c) może być zarówno różny jak i taki sam dla populacji Polaków i Niemców - zależy to od właściwości danej populacjix
-d) jest niższy dla populacji Polaków w porównaniu do Niemców, gdyż przeciętny Polak jest mniej inteligentny niż przeciętny Niemiec
-
-26. Skala stenowa składa się z:
-
-a) 10 jednostek (stenów)x
-b) 9 jednostek (stenów)
-c) 100 jednostek (stenów)
-d) 11 jednostek (stenów)
-
-27. Normy empiryczne:
-
-a) ukazują pozycję jednostki w próbie normalizacyjnej i pozwalają na ocenę jej wyników z innymi osobamix
-b) ustalane są na podstawie wiedzy ekspertów
-c) dotyczą stopnia zgodności wyniku osoby badanej z oczekiwaniami społecznymi
-d) są odzwierciedleniem norm etycznych postępowania
-
-28. W diagnozie indywidualnej konieczne jest:
-
-a) wyrażenie wyniku osoby badanej odwołując się do aktualnych norm dla określonej populacjix
-b) wyrażenie wyniku osoby badanej odwołując się do dowolnych norm (np. opracowanych w innym kraju niż kraj, w którym przeprowadzono dane badanie) jeśli normy te są aktualne
-c) przestawienie wyniku osoby badanej jako wyniku surowego
-d) porównanie wyniku osoby badanej z maksymalną liczbą punktów jaką można otrzymać w danym teście
-
-29. Rezultat IQ = 115 oznacza, że:
-
-a) 115% badanych osiągnęło wynik lepszy od osoby badanej
-b) 115% badanych osiągnęło wynik gorszy od osoby badanej
-c) jest to wynik o jedno odchylenie standardowe lepszy od wyniku średniegox
-d) jest to wynik o jedno odchylenie standardowe gorszy od wyniku średniego
-
-30. W którym odchyleniu standardowym znajduje się wynik równy 3 stenowi?
-
-a) w pierwszym powyżej średniej
-b) w drugim powyżej średniej
-c) w pierwszym poniżej średniej
-d) w drugim poniżej średniejx
-
-31. Krzywa charakterystyczna pozycji, która jest wyjątkowo stroma:
-
-a) obrazuje taką pozycję testową, która dobrze różnicuje badanych
-b) wskazuje na obecność wariancji, związanej z zastosowaną metodą
-c) jest typowa dla pozycji testowej, która jest praktycznie bezużytecznax
-d) wskazuje na dużą trudność pozycji testowej
-
-32. Test mocy to:
-
-a) test fizycznej siły
-b) test wytrzymałości intelektualnej
-c) test składający się z pozycji testowych o rosnącej trudności; często bez ograniczenia czasowegox
-d) test siły temperamentu
-
-33. Które z poniższych pojęć odnosi się do korelacji pomiędzy daną pozycją testową a wynikiem ogólnym testu?
-
-a) moc dyskryminacyjnax
-b) wskaźnik rzetelności
-c) trafność pozycji testowej
-d) wskaźnik trafności
-
-34. Czy w Polsce osoba nie będąca psychologiem może stosować testy psychologiczne?
-
-a) tak
-b) nie
-c) tak, ale pod warunkiem, że w trakcie studiów uczestniczyła w jakiś (dowolnych) zajęciach z psychologii
-d) to zależy od okoliczności badaniax
-
-35. Przekonanie badanych na temat tego, co test mierzy to:
-
-a) rzetelność testu
-b) trafność testowa
-c) trafność fasadowax
-d) trafność teoretyczna
-
-36. Trafność testu to:
-
-a) pojęcie bliskoznaczne trafności testu, czyli jego niskiej wartości diagnostycznej
-b) stopień, w jakim test jest zdolny mierzyć to, co w założeniu miał mierzyćx
-c) wielkość standardowego błędu pomiaru
-d) układ odniesienia dla wyników testowych
-
-37. W strategi zewnętrznej tworzenia kwestionariuszy kryterium danej cechy może stanowić:
-
-a) wysoki wynik w tworzonym kwestionariuszux
-b) arbitralnie ustalony punkt odcięcie wyników kwestionariusza
-c) poziom trudności kwestionariusza
-d) inna zmienna zewnętrzna względem tworzonego kwestionariusza
-
-38. Określenie specyfiki osobowości jednostki przez wyodrębnienie cech, charakterystycznych tylko dla niej i wskutek tego wyróżniających ją z populacji jest charakterystyczne dla podejścia:
-
-a) idiograficznegox
-b) nomotetycznego
-c) demograficznego
-d) poznawczego
-
-39. Rozkład wyników kwestionariusza do przesiewowej diagnozy objawów zaburzeń lękowych (wstępnego różnicowania osób zdrowych i chorych) w grupie osób zdrowych będzie miał kształt:
-
-a) platokurtyczny (z uwagi na duże zróżnicowanie objawów zaburzenia w każdej grupie osób, także u osób zdrowych)
-b) dwumodalny (ze względu na obecność osób o niskim - zdrowych i wysokim, czyli chorych - nasileniu objawów w każdej z badanych prób)
-c) normalny (z uwagi na dużą zmienność nasilenia objawów zaburzenia, ale też dominujące średnie nasilenie objawów w każdej grupie)x
-d) prawoskośny (z uwagi na to, że nasilenie objawów zaburzenia jest zasadniczo niskie u osób zdrowych)
-
-40. Relacja między ilościowym wynikiem testu oraz latentnym typem jest w założeniu:
-
-a) prostoliniowa
-b) krzywoliniowa (w formie krzywej „esowatej”)
-c) krzywoliniowa (w formie litery „U”)
-d) krzywoliniowa (w formie odwróconej litery „U”)x
-
-41. Średnia wyników testu jest sumą:
-
-a) średnich poszczególnych pozycji testowychx
-b) wariancji poszczególnych pozycji testowych
-c) interkorelacji poszczególnych pozycji testowych
-d) średnich i podwójnych średnich poszczególnych pozycji testowych
-
-42. Ograniczenie indterindywidualnej zmienności wyników testowych w próbie, np. w efekcie wyboru kandydatów o najwyższych osiągnięciach zawodowych, stanowiących kryterium testowe, prowadzi do:
-
-a) obniżenia rzetelności i trafności pomiaru testemx
-b) poprawy rzetelności i trafności pomiaru testem
-c) obniżenia rzetelności, ale jednocześnie poprawy trafności pomiaru testem
-d) obniżenia trafności, ale jednocześnie poprawy rzetelności pomiaru testem
-
-43. Wskaźnik trudności pozycji wyliczony w ramach IRT, równy niskiemu poziomowi cechy (poniżej dwóch odchyleń standardowych) wskazuje, że:
-
-a) pozycja dobrze różnicuje osoby o poziomie cechy znacznie przewyższającej przeciętną
-b) pozycje może być zastosowana jedynie do różnicowania osób o poziomie cechy znacznie powyżej przeciętnejx
-c) pozycja dobrze różnicuje jedynie osoby o poziomie cechy zbliżonej do przeciętnej
-d) pozycja dobrze różnicuje osoby badane w całym kontinuum badanej cechy
-
-44. Pozycje testowe, których wyniki są wysoko skorelowane, ale wykazują nierówności średnich, to:
-
-a) pozycje oboczne
-b) pozycje quasi-równoważnex
-c) pozycje równoważne
-d) pozycje równoległe
-
-45. W teście wiadomości zawierającym 30 zadań badana grupa rozwiązała prawidłowo średnio 15 zadań (wskaźnik trudności testu wynosi zatem 0,50), a średnio 15 rozwiązała błędnie. Jaki jest wskaźnik trudności tego testu pod względem poprawki na zgadywanie (we wszystkich zadaniach zastosowano cztery opcje odpowiedzi):
-
-a) 0,25
-b) 0,33x
-c) 0,75
-d) 0,90
-
-46. Istnienie prostoliniowej relacji między ilościowym wynikiem testu a nasileniem latentnej cechy można założyć:
-
-a) dla wszystkich rozkładów wyników testowych
-b) tylko dla rozkładów wyników o niezaburzonej skośności
-c) tylko dla rozkładów wyników o niezaburzonej kurtozie
-d) tylko dla rozkładu normalnego wyników testowychx
-
-47. Dodanie do testu nowego zadania o przeciętnej trudności, które jest ujemnie skorelowane z pozostałymi zadaniami, powoduje:
-
-a) wzrost średniej i wzrost wariancji wyników testu
-b) wzrost średniej i obniżenie wariancji wyników testux
-c) obniżenie średniej i wzrost wariancji wyników testu
-d) obniżenie średniej i obniżenie wariancji wyników testu
-
-48. Wskaźnik trafności diagnoz kryterialnych (klasyfikacji na podstawie progu odsiewowego) bazujący na proporcji osób chorych trafnie ocenionych jako chore na podstawie wyników testu w stosunku do ogólnej liczny faktycznie chorych, jest określany mianem:
-
-a) specyficzności (swoistości)
-b) wrażliwości (czułości)x
-c) pozytywnej wartości predykacyjnej
-d) negatywnej wartości predykacyjnej
-
-49. Wykazanie odpowiedniej trafności różnicowej pomiaru w macierzy Wielu-Cech-WieluMetod(MTMM) wymaga stwierdzenia, że:
-
-a) korelacje skal różnych narzędzi mierzących daną cechę są nieistotne statystycznie
-b) wyłącznie korelacje skal różnych narzędzi mierzących daną cechę są istotnie statystycznie
-c) wyłącznie korelacje skal różnych narzędzi mierzących różne cechy są nieistotne statystycznie
-d) korelacje skal różnych narzędzi mierzących daną cechę są istotnie wyższe niż zarówno korelacje pomiędzy skalami w obrębie danego testu, jak i korelacje skal różnych narzędzi mierzących różne cechyx
-
-50. Wydłużenie przerwy między pierwszym a drugim badaniem dany testem:
-
-a) prowadzi do zwiększenia współczynnika stabilności czasowej
-b) nie ma wpływu na wielkość współczynnika stabilności czasowej
-c) prowadzi do znacznego obniżenia współczynnika stabilności czasowej w obrębie jednego roku długości przerwyx
-d) prowadzi do znacznego obniżenia współczynnika stabilności czasowej dopiero po przekroczeniu dziesięciu lat długości przerwy
-
-51. Jeśli współczynnik rzetelności pomiaru wzrasta, to wielkość standardowego błędu pomiaru wyników otrzymanych:
-
-a) malejex
-b) wzrasta
-c) pozostaje bez zmian
-d) niekiedy maleje, ale niekiedy też wzrasta 
-
-52. Badanie grupy osób dwukulturowych i dwujęzycznych jest metodą stosowaną do udokumentowania:
-
-a) wierności procesu rekonstruowania testu
-b) wierności tłumaczenia pozycji testowychx
-c) wierności procesu tworzenia pozycji testowych w nowych warunkach kulturowych
-d) wierności procedury badania testem w nowych warunkach kulturowych
-
-53. Wymóg jednolitej i stałej procedury obliczania oraz interpretowania wyników badania testem jest określany mianem:
-
-a) rzetelności
-b) trafności
-c) standaryzacjix
-d) obiektywności
-
-54. Tendencja osoby badanej do zniekształcania podanej informacji o sobie przez pokazywanie się w nieprawdziwie niekorzystnym świetle jest określana mianem:
-
-a) potakiwania
-b) symulowaniax
-c) dysymulowania
-d) zgadywania
-
-55. Wydłużenie testu o zadanie, które zostało rozwiązane poprawnie przez wszystkie osoby badane powoduje:
-
-a) wzrost średniej wyników testux
-b) obniżenie średniej wyników testu
-c) brak zmiany średniej wyników testu
-d) niekiedy wzrost, a niekiedy obniżenie średniej wyników testu
-
-56. W celu uzyskania testu o dużej trafności kryterialnej pomiaru należy:
-
-a) włączyć do skali pozycje o dużej trafności fasadowej
-b) włączyć do skali pozycje o dużej trudności
-c) włączyć do skali pozycje wysoko skorelowane z kryteriumx
-d) włączyć do skali pozycje o dużej mocy dyskryminacyjnej
-
-57. Rozkład platokurtyczny wyników testu wskazuje, że:
-
-a) wiele pozycji wykazuje zbyt niskie dodatnie skorelowanie
-b) pozycje wskazują zbyt wysokie dodatnie skorelowaniex
-c) wiele pozycji wykazuje ujemne skorelowanie
-d) pozycje są nieskorelowane
-
-58. Staniny to jednostki skali znormalizowanej o średniej równej:
-
-a) 6x
-b) 5,5
-c) 10
-d) 5
-
-59. Rozkład leptokurtyczny wyników testu zdolności wskazuje, że zawiera on za dużo:
-
-a) wyłącznie pozycji o dużej trudności
-b) wyłącznie pozycji o małej trudności
-c) wyłącznie pozycji o przeciętnej trudności
-d) zarówno pozycji o dużej i małej trudnościx
-
-60. Najwyższe korelacje danej pozycji testowej z innymi pozycji testowej z innymi pozycjami są potencjalnie możliwe do uzyskania, gdy wykazuje ona:
-
-a) dużą wariancjęx
-b) małą wariancję
-c) „zerową” wariancję
-d) „ujemną” wariancję
-
-61. Zastosowanie wzorów „połówkowych” do oszacowania rzetelności pomiaru testem wymaga spełnienia założenia:
-
-a) o równoległości połówek testowychx
-b) o równoległości pozycji testowych
-c) o quasi-równoważności połówek testowych
-d) o quasi-równoważności pozycji testowych
-
-62. Analiza tzw. zmian nieprzypadkowych jest stosowana do szacowania:
-
-a) trafności fasadowej pomiaru testem
-b) trafności teoretycznej pomiaru testemx
-c) trafności treściowej pomiaru testem
-d) rzetelności pomiaru testem
-
-63. Skale, które rejestrują liczbę odpowiedzi negujących w kwestionariuszach, służą do kontroli:
-
-a) indywidualnej tendencji do symulowania
-b) indywidualnej tendencji do dysymulowania
-c) indywidualnej tendencji do zgadywania
-d) indywidualnego stylu odpowiadaniax
-
-64. Zgodnie z klasyczną teorią testów, źródłem wariancji prawdziwej są:
-
-a) wariancje pozycji testowych
-b) kowariancje pozycji testowychx
-c) średnie pozycji testowych
-d) wskaźniki trudności pozycji testowych
-
-65. U podstaw translacji jako metody adaptacji kulturowej testów leży założenie o kulturowej:
-
-a) równoważności konstruktu teoretycznego i równoważności pozycji testowych
-b) równoważności konstruktu teoretycznego, ale nierównoważności pozycji testowychx
-c) nierównoważności konstruktu teoretycznego, ale równoważności pozycji testowych
-d) nierównoważności konstruktu teoretycznego i nierównoważności pozycji testowych
-
-66. Badanie zmiany odpowiedzi w stronę „dobrego profilu” w efekcie manipulowania instrukcją, służy do oceny stopnia podatności pozycji na tendencję do:
-
-a) symulowania
-b) dysymulowaniax
-c) tendencji do negowania
-d) tendencji do potakiwania
-
-67. Korelacja między wynikiem pozycji a wynikiem testu jest określana mianem:
-
-a) trudności pozycji
-b) stronniczości pozycji
-c) mocy dyskryminacyjnej pozycjix
-d) podatności pozycji na dysymulację
-
-68. Wariancja całego testu wynosi 100,0 zaś suma wariancji pięciu pozycji testowych wynosi 40,0. Ile wynosi rzetelność pomiaru testem oszacowania za pomocą współczynnika alfa Cronbacha:
-
-a) 0,50
-b) 0,60
-c) 0,70x
-d) 0,80
-
-69. Osoba badana uzyskała w teście inteligencji, wynik na poziomie 99 centyla. Ile wynosi wynik tej osoby wyrażony w skali stenowej?
-
-a) 8 sten
-b) 9 sten
-c) 10 sten
-d) 11 stenx
-
-70. Pewna osoba uzyskała w teście inteligencji wyrażony w skali stenowej równy 6. Wartośc ta wynosi w skali dewiacyjnego ilorazu inteligencji:
-
-a) 100
-b) 105
-c) 110
-d) nie da się jej precyzyjnie wyliczyć na podstawie dostarczonych danychx
-
-71. Współczynnik rzetelności pomiaru testem zdolności wynosi 0,92. Ile wynosi standardowy błąd różnicy wyników otrzymanych dwóch osób badanych, wyznaczony w skali dewiacyjnego ilorazu inteligencji:
-
-a) 6x
-b) 9
-c) 15
-d) 18
-
-72. Współczynnik korelacji skali klinicznej z kryterium w postaci diagnozy medycznej jest równy 0,35, przy współczynniku rzetelności diagnozy medycznej zaledwie 0,49. Ile wynosi korelacja wyników tego testu, po uwzględnieniu poprawni na nierzetelność kryterium:
-
-a) 0,00
-b) 0,25
-c) 0,50x
-d) 1,00
-
-73. Pewien test podzielono na dwie równoległe części, uzyskując interkorelacje 0,50. Ile wynosi rzetelność testu jako całości, oszacowana wzorem „proroczym” Spearmana-Browna:
-
-a) 0,47
-b) 0,67x
-c) 0,75
-d) 0,85
-
-74. Rzetelność pomiaru testem zdolności, oszacowana wzorem KR-20, wynosi 0,91. Ile wynosi półprzedział ufności, wyznaczony w skali staninowej, na podstawie standardowego błędu wyników otrzymanych przy założeniu 5% błędu estymacji (dla poziomu pewności 95% z=1,96)
-
-a) ~1x
-b) ~2
-c) ~3
-d) ~4
-
-75. Stwierdzono, że wariancja każdej z połówek testowych wynosi 9.0, zaś ich interkorelacja jest równa 0,50. Ile wynosi wariancja całkowita wyników testu:
-
-a) 18.0
-b) 27,0x
-c) 36,0
-d) 45,0
-
-76. Wariancja różnic połówek wynosi 3.5, zaś wariancja wyników otrzymanych testu 10,0. Ile wynosi rzetelność pomiaru testem, oszacowana wzorem Rulona:
-
-a) 0,60
-b) 0,65x
-c) 0,70
-d) 0,75
-
-77. Standardowy błąd estymacji wyniku prawdziwego ma rozkład:
-
-a) symetryczny zarówno wokół wyniku prawdziwego i otrzymanego
-b) asymetryczny wokół wyniku prawdziwego i otrzymanego
-c) asymetryczny wokół wyniku prawdziwego i symetryczny wokół wyniku otrzymanego
-d) symetryczny wokół wyniku prawdziwego i asymetryczny wokół wyniku otrzymanegox
-
-78. W przypadku, gdy wszystkie pozycje testowe wykazują bardzo dużą specyfikę kulturową, najbardziej adekwatną strategią adaptacji kulturowej testu jest:
-
-a) transkrypcja
-b) translacja
-c) transwersja
-d) rekonstrukcjax
-
-79. Wzrost korelacji między pozycjami prowadzi do:
-
-a) obniżenia rzetelności, ale wzrostu trafności teoretycznej pomiaru testem
-b) wzrostu rzetelności, ale obniżenia trafności teoretycznej pomiaru testem
-c) wzrostu zarówno rzetelności jak i trafności teoretycznej pomiaru testemx
-d) obniżenie zarówno rzetelności jak i trudności teoretycznej pomiaru testem
-
-80. Warunkiem wystarczającym do wykazania odpowiedniej trafności zbieżnej pomiaru macierzy Wielu-Cech-Wielu-Metod (MTMM) jest stwierdzenie, że:
-
-a) korelacje skal różnych narzędzi mierzących daną cechę są istotne statystyczniex
-b) korelacje skal różnych narzędzi mierzących różne cechy są nieistotne statystycznie
-c) korelacje skal różnych narzędzi mierzących daną cechą są istotnie wyższe niż korelacje pomiędzy skalami w obrębie danego testu
-d) korelacja skal różnych narzędzi mierzących daną cechą są istotnie wyższe niż korelacje skal różnych narzędzi mierzących różne cechy
-
-81. Analiza zgodności pozycji testowych z konstruktem teoretycznym, na podstawie opinii ekspertów, jest wykorzystywane do oceny:
-
-a) trafności fasadowej testu
-b) trafności treściowej testux
-c) trafności teoretycznej testu
-d) trafności kryterialnej testu
-
-82. Wymóg jednolitej i stałej procedury badania testem jest określony mianem:
-
-a) rzetelności
-b) trafności
-c) standaryzacjix
-d) obiektywności
-
-83. W skali tenowej odchylenie standardowe wynosi:
-
-a) 2
-b) 4x
-c) 10
-d) 15
-
-84. Wydłużenie testu o nowe zadanie o przeciętnej trudności, które jest nieskorelowane z pozostałymi zadaniami powoduje:
-
-a) wzrost wariancji wyników testux
-b) obniżenie wariancji wyników testu
-c) brak zmiany wariancji wyników testu
-d) niekiedy wzrost, a niekiedy obniżenie wariancji wyników testu
-
-85. Dodanie do testu zadania, które nie zostało rozwiązane poprawnie przez żadną z badanych osób powoduje:
-
-a) wzrost wariancji wyników testux
-b) obniżenie wariancji wyników testu
-c) brak zmiany wariancji wyników testu
-d) czasami wzrost, a czasami obniżenie wariancji wyników testu
-
-86. Rozkład platokurtyczny wyników testu zdolności wskazuje, że zawiera on za dużo:
-
-a) wyłącznie pozycji o dużej trudności
-b) wyłącznie pozycji o małej trudności
-c) wyłącznie pozycji o przeciętnej trudnościx
-d) zarówno pozycji o dużej i małej trudności
-
-87. Najwyższe korelacje danej pozycji testowej z innymi pozycjami są potencjalnie możliwe do uzyskania, gdy wykazuje ona:
-
-a) minimalną trudność
-b) dużą trudność
-c) małą trudność
-d) przeciętną trudnośćx
-
-88. Zastosowanie wzoru Rulona do oszacowania rzetelności pomiaru testem wymaga spełnienia założenia:
-
-a) o równoległości połówek testowychx
-b) o równoległości pozycji testowych
-c) o quasi-równoważności połówek testowych
-d) o quasi-równoważności pozycji testowych
-
-89. Na mocy twierdzeń klasycznej teorii testów, korelacja dwóch testów wynika ze:
-
-a) skorelowania błędów pomiaru
-b) skorelowania wyników prawdziwychx
-c) skorelowania błędów pomiaru i wyników prawdziwych
-d) skorelowania wyników otrzymanych i błędów pomiaru
-
-90. Stabilność bezwzględna pomiaru testem szacuje się poprzez badanie:
-
-a) tym samym testem raz po razie
-b) tym samym testem po dłuższej przerwiex
-c) wersją równoległą testu po dłuższej przerwie
-d) testem przeznaczonym do diagnozy innej cechy, po dłuższej przerwie
-
-91. Badanie zmiany odpowiedzi w stronę „złego profilu” w efekcie manipulowania instrukcją służy do oceny stopnia podatności pozycji na tendencję do:
-
-a) symulowaniax
-b) dysymulowania
-c) tendencji do negowania
-d) tendencji do potakiwania
-
-92. Wariancja wyników testu jest sumą
-
-a) średnich poszczególnych pozycji
-b) wariancji poszczególnych pozycji testowychx
-c) interkorelacji poszczególnych pozycji testowych
-d) wariancji i podwójnej kowariancji poszczególnych pozycji testowych
-
-93. Zgodnie z klasyczną teorią testów źródłem wariancji prawdziwej są:
-
-a) wariancje pozycji testowych
-b) kowariancje pozycji testowychx
-c) średnie pozycji testowych
-d) wskaźnik trudności pozycji testowych
-
-94. Rzetelność pomiaru testem jest w klasycznej teorii testów definiowana jako:
-
-a) stosunek wariancji wyników prawdziwych do wariancji wyników otrzymanychx
-b) stosunek średnich wyników prawdziwych do średniej wyników otrzymanych
-c) stosunek wariancji błędu do wariancji wyników otrzymanych
-d) stosunek średniej błędu do średniej wyników otrzymanych
-
-95. Celem podejścia idiograficznego diagnozy psychologicznej jest:
-
-a) uchwycenie specyfiki jednostki poprzez wskazania charakterystycznego dla niej nasilenia cech, wspólnych dla określonej populacji
-b) uchwycenia specyfiki jednostki poprzez wskazanie cech charakterystycznych tylko dla niej i wskutek tego wyróżniających ją z populacjix
-c) wykazanie, że jednostka w zasadzie nie różni się od innych jednostek w populacji (realizacja zasady „równości społecznej”
-d) wykazanie, że różnice międzyosobnicze są tak powszechne, że ich zasada „równości społecznej” nie ma żadnego stanu empirycznego
-
-96. W przypadku diagnozowania cech osobowości oczekujemy, aby wyniki testowe wykazywały:
-
-a) zmienność międzyosobnicząx
-b) indywidualną zmienność czasową
-c) zmienność indywidualną
-d) indywidualną zmienność sytuacyjną
-
-97. Wymóg obiektywności testu odnosi się do:
-
-a) stałej reguły obliczenia i interpretowania wynikówx
-b) jednolitej i stałej procedury badania testem
-c) procedury ustalania trafności pomiaru testem
-d) braku demograficznej stronniczości testu
-
-98. Moc dyskryminacyjnej pozycji testowej to:
-
-a) wskaźnik zmienności odpowiedzi osób badanych na tą pozycję
-b) wskaźnik tego, jak dobrze różnicuje osoby badane pod względem określonego kryterium zewnętrznego, użytego do badania trafności testu
-c) wskaźnik tego, jak dobrze pozycja różnicuje osoby badane pod względem tendencji do „potakiwania”
-d) wskaźnik tego, jak dobrze pozycja różnicuje osoby badane pod względem cechy mierzonej przez testx
-
-99. Współczynniki zgodności wewnętrznej zazwyczaj maleją, gdy:
-
-a) zróżnicowanie demograficzne próby wzrasta
-b) liczba pozycji testowych malejex
-c) moc dyskryminacyjna pozycji testowych wzrasta
-d) badanie odbywa się w warunkach standardowych
-
-100. Symulowanie to:
-
-a) przedstawianie się w nieprawdziwie korzystnym świetle
-b) bezpodstawne przedstawianie się w niekorzystnym świetlex
-c) wybieranie określonej opcji odpowiedzi, niezależnie od treści pytania
-d) zgadywanie, jeśli osoba badana nie zna prawidłowej odpowiedzi
-
-101. Wyniki testów zdolności są podatne na zniekształcenia, związane:
-
-a) wyłącznie z tendencją do symulowaniax
-b) wyłącznie z tendencją do dysymulowania
-c) zarówno z tendencją do symulowania, jak i dysymulowania
-d) żadna z tych tendencji
-
-102. Tendencja do „negowania” jest traktowana jako przejaw:
-
-a) dysymulowania
-b) symulowania
-c) stylu odpowiadaniax
-d) oportunizmu osoby badanej
-
-103. W celu wykrycia podstawowych wymiarów (cech) określonej próby zachowań (pozycji) najbardziej adekwatną strategią konstrukcji testu jest:
-
-a) strategia ladukcyjna (wewnętrzna)
-b) strategia teoretyczna (edukacyjna)
-c) strategia kryterialna (zewnętrzna)x
-d) strategia kryterialno-teoretyczna
-
-104. Do strategii adaptacji kulturowej testów zaliczamy:
-
-a) transgresje
-b) translacjęx
-c) translokację
-d) transdukcję
-
-105. Metoda tłumaczenia zwrotnego (ang. back translation) jest stosowana do udokumentowania:
-
-a) wierności procesu rekonstruowania testu
-b) wierności procesu tworzenia pozycji testowych w nowych warunkach kulturowych
-c) wierności procedury badania testem w nowych warunkach kulturowych
-d) wierności tłumaczenia pozycji tekstowychx
-
-106. Normy najmniej obciążone błędem systematycznym, gwarantuje dobór osób badanych:
-
-a) losowyx
-b) celowy
-c) przypadkowy
-d) próba złożona z ochotników
-
-107. Skale normalizacyjne o rozkładzie prostokątnym (np. decylowa) są stosowane, gdy:
-
-a) liczba możliwych do uzyskania wyników w teście jest mniejsza od liczby stopni skali
-b) statystyki rozkładu wyników surowych znacznie odbiegają od parametrów rozkładu normalnegox
-c) trafność kryterialna pomiaru testem jest mała (tj. korelacja z kryterium nie przekracza wartościwspółczynnika 0,30)
-d) wartość standardowego błędu pomiaru jest większa od wartości standardowego błędu przewidywania
-
-108. Skale procentowe (decylowa lub centylowa) prowadzą do uzyskania rozkładu wyników, który:
-
-a) zmniejsza zróżnicowanie międzyosobnicze wokół średniej
-b) zwiększa asymetrię rozkładu
-c) zmniejsza zróżnicowanie międzyosobnicze na krańcach rozkładux
-d) wykazuje własności rozkładu dwumodalnego
-
-109. W skali dewiacyjnego ilorazu inteligencji przyjęto, że odchylenie standardowe wynosi:
-
-a) 2
-b) 4
-c) 10
-d) 15x
-
-110. Pewna osoba uzyskała w teście wiadomości wynik, który w jednostkach znormalizowanych był równy z = 3,65. Ile wynosi ten wynik w staninach, przyjmując średnią stanin równą 0,5, oraz odchylenie standardowe równe 2,0:
-
-a) 0 stanin
-b) 1 stanin
-c) 2 staninx
-d) 3 stanin
-
-1. Rzetelność pomiaru testem jest klasycznej teorii testów definiowania jako:
-
-a) stosunek wariancji wyników otrzymanych
-b) stosunek średniej wyników otrzymanychx
-c) stosunek wariancji błędu do wariancji wyników otrzymanych
-d) stosunek średniej błędu do średniej wyników otrzymanych
-
-2. Zgodnie z klasyczną teorią testów źródłem wariancji prawdziwej są:
-
-a) wariancje pozycji testowych
-b) kowariancje pozycji testowychx
-c) wskaźniki trudności pozycji testowych
-d) średnie pozycji testowych
-
-3. Zastosowanie wzoru Rullona do oszacowania rzetelności pomiaru testem wymaga spełnienia założenia:
-
-a) o równoległości połówek testowychx
-b) o równoważności połówek testowych
-c) o quasi-równoważności połówek testowych
-d) o quasi połówek testowych
-
-4. Rozkład wyników kwestionariusza do przesiewowej diagnozy objawów zaburzeń depresyjnych (wstępnego różnicowania osób zdrowych i chorych) w grupie osób zdrowych bedzie miał kształt:
-
-a) platokurtyczny ( z uwagi na duże zróżnicowanie objawów zaburzenia w każdej grupie osób, także u osób zdrowych)
-b) dwumodalny (ze względu na obecność osób o niskim-zdrowyh i wysokim, czyli chorych-nasileniu objawów w każdej z badanych osób
-c) normalny ( z uwagi na dużą zmienność nasilenia objawów zaburzenia, ale też dominujące średnie nasielenie objawów w każdej grupie
-d) prawoskośny ( z uwagi na to, że nasilenie objawów zaburzenia jest zasadniczo niskie u osób zdrowych)x
-
-5. Wariancja wyników testu jest sumą:
-
-a) średnich poszczególnych pozycji testowych
-b) wariancji poszczególych pozycji testowychx
-c) interkorelacji poszczególnych pozycji testowych
-d) wariancji i podwojonych kowariancji poszczególnych pozycji testowych
-
-6. Wydłużenie testu o nowe zadanie o przeciętnej trudności, które jest nieskorelowane z pozostałymii zadaniami, powoduje:
-
-a) wzrost wariancji wyników testux
-b) obniżenie wariancji wyników testu
-c) brak zmiany wariancji wyników testu
-d) niekiedy wzrost, a niekiedy obniżenie wariancji wyników testu
-
-7. Dodanie do testu zadania, które nie zostało rozwiązane poprawnie przez żadną z badanych osób powoduje:
-
-a) wzrost wariancji wyników testu
-b) obniżenie wariancji wyników testu
-c) brak zmiany wariancji wyników testux
-d) czasami wzrost a czasami obniżenie wariancji wyników testu
-
-8. Rozkład platokurtyczny wyników testu zdolności wskazuje, że zawiera on za dużo:
-
-a) wyłączenie pozycji o dużej trudności
-b) wyłączenie pozycji o małej trudności
-c) wyłączenie pozycji o przeciętnej trudnościx
-d) zarówno pozycji o dużej i małej trudności
-
-9. Badanie zmiany odpowiedzi w stronę ,,złego profilu,, w efekcie manipulowania instrukcją służy do oceny stopnia podatności pozycji na tendejcę do:
-
-a) symulowaniax
-b) dysymulowania
-c) tendencji do negowania
-d) tendencji do potakiwania
-
-10. Stabilnością bezwzględną pomiaru testem szacuje się poprzez badanie:
-
-a) tym samym testem raz po razie
-b) tym samym testem po dłuższej przerwiex
-c) wersją równoległą testu po dłuższej przerwie
-d) testem przeznaczonym do diagnozy innej cechy po dłuższej przerwie
-
-11. Na mocy twierdzeń klasycznejj teorii testów, korelacja dwóch testów wynika ze:
-
-a) skorelowania błędów pomiaru
-b) skorelowania wyników prawdziwychx
-c) skorelowania błędów pomiaru i wyników prawdziwych
-d) skorelowanie wyników otrzymanych i błędów pomiaru
-
-12. Zastosowanie wzoru Rulona do oszacowania rzetelności pomiaru testem wymaga spełnienia założenia:
-
-a) o równoległości połówek testowychx
-b) o równoległości pozycji testowych
-c) o quasi równoważności połówek testowych
-d) o quasi równoważności pozycji testowych
-
-13. Najwyższe korelacje danej pozycji testowej z innymi pozycjami są potencjalnie możliwe do uzyskania, gdy wykazuje ona:
- 
-a) minimalną trudność
-b) dużą trudność
-c) małą trudność
-d) przeciętną trudnośćx
-
-1.Określenie specyfiki osobowości jednostki poprzez określenie specyficznego dlaniej nasilenia cech, wspolnych dla określonej populacji jest charakterystyczne dla podejścia:
-
-a) inograficznego
-b) nomotetycznegox
-c) demograficznego
-d) poznawczego
-
-2. Wymóg jednolitej i stałej procedury badania testem określany mianem:
-
-a) rzetelności
-b) trafności
-c) standaryzacjix
-d) obiektywności
-
-3. Ograniczenie inteindywidualnej zmienności wyników testowych w próbie, np. w efekcie doboru kandydatów dopracy o najlepszych wyikach testowych, prowadzi do:
-
-a) obniżenia rzetelności, ale jednocześnie poprawy trafności pomiaru testemx
-b) obniżenia trafności, ale jednocześnie poprawy rzetelności pomiaru testem
-c) obniżenia rzetelności i trafności pomiaru testem
-d) poprawy rzetelności i trafności pomiaru testem
-
-4. Istnienie prostoliniowej relacji między ilościowym wynikiem testu a nasileniem latentnej cechy można założyć:
-
-a) dla wszystkich rozkładów wyników testowych
-b) tylko dla rozkładów wyników o niezaburzalnej skośności
-c) tylko dla rozkładów wyników o niezaburzonej kurtozie
-d) tylko dla rozkładu normalnego wyników testowychx
-
-5. W skali tetronowej odchylenie standardowe wynosi:
-
-a) 2
-b) 4x
-c) 10
-d) 15
-
-6.Wskaźnik trudności pozycji, wyliczony w ramach IRT, równy średniemu poziomowi cechy wskazuje, że:
-
-a) pozycja dobrze różniucuje osoby o poziomie cechy znacznie przewyższającej przeciętną
-b) pozycja może być zastosowana jedynie do zróżnicowania osób o poziomie cechy znacznie poniżej przeciętnej
-c) pozycja dobrze różnicuje jedynie osoby o poziomie cechy zbliżonemu do przeciętnejx
-d) pozycja dobrze różnicuje osoby badane w całym kontinuum badanej cechy
-
-7. Testy, których wyniki są wysoko skorelowane i wykazują równość średnich, ale nierówność wariancji, to:
-
-a) testy oboczne
-b) testy quasi równoważne
-c) testy równoważnex
-d) testy równoległe
-
-8. Rozkład standardowego błędu wyników otrzymanych jest:
-
-a) symetryczny zarówno wokół wyników prawdziwego i otrzymanego
-b) asymetryczny wokół wyniku prawdziwego i otrzymanego
-c) symetryczny wokół wyniku prawdziwego i asymetrycznego wokół wyniku otrzymanegox
-d) asymetryczny wokół wyniku prawdziwego i symetryczny wokół wyniku otrzymanego
-
-9. Jeśli współczynnik rzetelności pomiaru maleje to wielkość standarowego błędu pomairu wyników otrzymanych:
-
-a) maleje
-b) wzrastax
-c)pozostaje bez zmian
-d) niekiedy maleje ale niekiedy tez wzrasta
-
-10.Analiza procecu rozwiązywania testu jest stosowana do szacowania:
-
-a) trafności fasadowej pomiaru testem
-b) trafności treściowej pomiaru testem
-c) trafności teoretycznej pomiaru testemx
-d) rzetelności pomiaru testem
-
-11.Wariancja całego testu wynosi 48,0 zaś suma wariancji sześciu pozycji testowych wynosi 24,0. Ile wynosi rzetelność pomiaru testem oszacowania za pomocą współczynnika alfa Cronhacha:
-
-a) 0,40
-b) 0,50
-c) 0,60x
-d) 0,80
-
-12. Osoba badana uzyskała w teście zdolności wynik na poziomie 1 centyla. Ile wynosi wynik tej osoy wyrażony w skali stenowej:
-
-a) 0 sten
-b) 1 stenx
-c) 2 sten
-d) 5 sten
-
-13. Pewna osoba uzyskała w kwestionariuszu osobowości wynik wyrażony w skali staninowej równy 5. Wartość ta wynosi w skali tenowej:
-
-a) 50x
-b) 45
-c) 40
-d) nie da się jej prezyzyjnie wyliczyć na podstawie dostarczonych danych
-
-14. Współczynniki rzetelności pomair dwóch testów wynoszą po 0,92. ile wynosi standardowy błąd różnicy wyników otrzymanych tych testów wyznaczony w skali tenowej:
-
-a) 3 teny
-b) 4 tenyx
-c) 5 tenów
-d) 6 tenów
-
-15. W teście wiadomości zawierającym 40 zadań badana grupa rozwiązała prawidłowo średnio 20 zadań ( wskaźnik trudności testu wynosi zatem 0,50)a średnio 20 rowiązała błędnie. Jaki jest wskaźnik trudności tego testu po uwzględnieniu poprawki na zgadywanie (we wszytskich zadanaich zastosowano trzy opcje odpwiedzi):
-
-a) 0,25x
-b) 0,60
-c) 0,75
-d) 0,82
-
-16. Współczynnik korelacji skali kwestionariusza osobowości z kryterium powodzenia zawodowego jest równy 0,35. Stwierdzono jednocześnie, że współczynniki rzetelności diagnozy kryterium oraz pomiaru testem są równe 0,70. Ile wynosi skorygowana korelacja wyników tego testu, po uwzględnieniu poprawki na nierzetelność testu i kryterium:
-
-a) 0,00
-b) 0,25
-c) 0,50x
-d) 1,00
-
-17. Test podzielono na trzy równoległe części uzyskając średnią interkorelacji 0,50. Ile wynosi rzetelność testu jako całości, oszacowana wzrorem,, proroczym,, 	Spearmana Browna:
-
-a) 0,55
-b) 0,67
-c) 0,75x
-d) 0,90
-
-18. Rzetelność pomiaru testem oszacowania współczynnikiem KR-20 wynosi 0,84. Ile wynosi standardowy błąd wyników otrzymanych, wyznaczony w skali tenowej:
-
-a) 2 teny
-b) 3 teny
-c) 4 tenyx
-d) 5 tenów
-
-19. W teście po podzieleniu go na równoległe połowy stwierdzono, że odchylenie standardowe każdej z połówej jest równe 2,0 a ich interkorelacja 0,50. Ile wynosi wariancja całego testu:
-
-a) 9.0
-b) 12.0x
-c) 14,0
-d) 16,0
-
-20) wariancja różnic połówek testowych wynosi 4,0 zaś wariancja wyników otrzymanych testu 20.0.Ile wynosi rzetelność pomiaru testem, oszacowana wzorem Rulona:
-
-a) 0,60
-b) 0,76
-c) 0,75
-d) 0,80x
-
-21.W celu uzyskania testu o dużej trafności teoretycznej pomairy należy:
-
-a) włączyć do skali pozycje o dużej trafności
-b) włączyć do skali pozycje o małej trafności
-c) właczyć do skali pozycje wysoko skorelowane z kryteriumx
-d) włączyć do skali pozycje o dużej mocy dyskryminacyjnej
-
-22. Analiza zgodności pozycji testowcyh z konstruktem teoretycznym na podstawie opinni ekspertów jest wykorzystywanan do oceny:
-
-a) trafności fasadowej testu
-b) trafności treściowej testux
-c) trafności teoretycznej testu
-d) trafności kryterialnej testu
-
-23. Wzrost korelacji między pozycjami testu prowadzi do:
-
-a) obniżeia rzetelności ale wzrostu trafności teoretycznej pomiaru testem
-b) wzrostu rzetelności ale obnizenia trafnosci teoretycznej pomiaru testem
-c) wzrostu zarówno rzetelności pomiaru testem jak i trafnosci teoretycznej pomiaru testemx
-d) obnizenia zarówno rzetelnosci jak i trafnosci teoretycznej pomiaru testem
-
-24. W przypadku gdy wszystkie pozycje testowe wykazuja bardzo duzą specyfikę kulturową, najbardziej adekwatną strategią adaptacji kulturowej testu jest:
-
-a) transkrypcja
-b) translacja
-c) tranwerse
-d) rekonstrukcjax
-
-1. Rozkład piatokurystyczny wyników testu wskazuje ,że:
-
-a) wiele pozycji wykazuje zbyt niskie dodatnie skorelowane
-b) pozycje wykazują zbyt wysokie dodatnie skorelowaniex
-c) wiele pozycji wykazuje ujemne skorelowanie
-d) pozycje są nieskorelowane
-
-2. staniny to jednostki skali znormalizowanej o średniej równej:
-
-a) 6x
-b) 5,5
-c) 10
-d) 50
-
-3. Rozkład leptokurtyczny wyników testu zdolności wskazuje że zawiera on za dużo:
-
-a) wyłącznie pozycji o dużej trudności
-b) wyłącznie pozycji o małej trudności
-c) wyłącznie pozycji o przeciętnej trudności
-d) zarówno pozycji o dużej i małej trudnościx
-
-4. Największe korelacje danej pozycji testowej z innymi pozycjami są potecjalnie możliwe do uzyskania, gdy wykazuje ona:
-
-a) dużą wariancjęx
-b) małą wariancję
-c) ,,zerową,, wariancję
-d) ,, ujemną,, wariancję
-
-5. Zastosowanie wzorów ,, połówkowych do oszacowania rzetelności pomiaru testem wymaga spełnienia założenia:
-
-a) o równoległości połówek testowych
-b) o równoległości pozycji testowych
-c) o quasi równoważności połówek testowychx
-d) o quasi równoważnosci pozycji testowych
-
-6. Analiza tzw. zmian nieprzypadkowych jest stosowana do szacowania:
-
-a) trafności fasadowej pomiaru testem
-b) trafności teooretycznej pomiaru testem
-c) trafności treściowej pomairu testemx
-d) rzetelności pomiaru testem
-
-7. Skale, które rejestrują liczbę odpowiedzi negujących w kwestionariuszu służa do kontroli:
-
-a) indywidualnej tendencji do symulowania
-b) indywidualnej tendencji do dysymulowaniax
-c) indywidualnej tendencji do zgadywania
-d) indywidualnego stylu odpowiadania
-
-8. Zgodnie z klasyczną teorią testów, źródłem wariancji prawdziwej są:
-
-a) wariancje pozycji testowych
-b) kowariancje pozycji testowychx
-c) średnie pozycji testowych
-d) wskaźniki trudności pozycji testowych
-
-9. U podstaw translacji jako metody adaptacji kulturowej testów leży założenie o kulturowej:
-
-a) równoważności konstruktu teoretycznego i równoważności pozycji testowych
-b) równoważnosci konstruktu teoretycznego ale równoważnosci pozycji testowychx
-c) nierównoważności konstruktu teoretycznego ale rownowaznosci pozycji testowych
-d) nierówoważności konstruktu teoretycznego i nierównoważnosci pozycji testowych
-
-10. Badanie zmiany odpowiedzi w stronę ,, dobrego profilu,, w efekcie manipulowania instrukcją służy do oceny na tendecję do:
-
-a) symulowania
-b) dysymulowaniax
-c) tendencji do negowania
-d) tendencji do potakiwania
-
-11. Korelacja między wynikiem pozycji a wynikiem testu jest określana mianem:
-
-a) trudności pozycji
-b) stronnizości pozycji
-c) mocy dyskryminacji pozycjix
-d) podatności pozycji na dyskryminację
-
-12. Wariancję całego testu wynosi 100,0 zaś suma wariancji pięciu pozycji testowych wynosi 40,0. Ile wynosi rzetelność pomiaru testem oszacowania alfa Cronbacha:
-
-a) 0,50
-b) 0,60x
-c) 0,70
-d) 0.80
-
-13. Dodanie do testu nowego zadania o przeciętnej trudności które jest ujemnie skorelowane z pozostałymi zadaniami powoduje:
-
-a) wzrost średniej i wzrost wariancji wyniów testu
-b) wzrost średniej i obniżenie wariancji wyników testux
-c) obniżenie średniej i wzrost wariancji wyików testu
-d) obniżenie średniej i obniżenie wariancji wyników testu
-
-14. Wskaźniki trafności diagnoz kryterialnych (klasyfikacji) na podstawie progu odsiewowego bazujący na proporcji osób chorych trafnie ocenianych jako chore na postawie wyników osób faktycznie chorych, jest określany mianem:
-
-a) specyficzości ( swoistości)x
-b) wrażliwości ( czułości)
-c) pozytywnej wartości predykcujnej
-d) egatywnej wartości predykcujnej
-
-15. Wykazywanie odpowiedniej trafności różnicowej pomiaru w macierzy Wielu-Cech-Wielu Metod (MYMM) wymaga stierdzenia, że:
-
-a) korelacje skal różnych narzędzi mierzących daną cechę są nieistotnie statystycznie
-b) wyłącznie korelacje skal różnych narzędzi mierzących nadą cechę są istotnie statystycznie
-c) wyłącznie korelacje skal różnych narzędzi mierzących różne cechy są nieistotie statystycznie
-d) korelacje skal różnych narzędzi mierzących daną dechę są istotnie wyższe niż zarówno korelacje pomiedzy skalami w obrębie danego testu jak i korelacje skal różnych narzędzi mierzących różne cechyx
-
-16. Wydłużenie przerwy między pierwszym a drugim badaniem danym testem:
-
-a) prowadzi do zwiękrzenia współczynnika stabilności czasowej
-b) nie ma wpływu na wielkość współczynnika stabilności czasowej
-c) prowadzi do znaczącego obniżenia współczynnika stabilności czasowej w obrębie jednego roku długości przerwyx
-d) prowadzi do znacznego obniżenia współczynnika stabilności czasowej dopiero po przekroczeniu dziecieciu lat długosci przerwy
-
-17. Jeśli współczynnik rzetelności pomiaru wzrasta, to wielkość standardowego błędu pomairu wyników otrzymanych:
-
-a) malejex
-b) wzrasta
-c) pozostaje bez zmian
-d) niekiedy maleje ale niekiedy tez wzrasta
-
-18. Badanie grupy osób dwukulturowych i dwujęzycznych jest metodą stosowaną do udokumentowania:
-
-a) wierność procesu rekonstruowania testux
-b) wierność tłumaczenia pozycji testowych
-c) wierność procesu tworzenia pozycji testowych w nowych warunakch kulturowych
-d) wierność procedury badania testem w nowych warunakch kulturowych
-
-19. Wymóg jednolitej i stałej procedury obliczenia progu oraz interpretowania wyników badania testemjest określany mianem:
-
-a) rzetelności
-b) trafności
-c) standaryzacjix
-d) obiektywności
-
-20. Tendencja osoby badanej do zniekształcenia podawanej informacji o sobie przez pokazywanie się w nieprawdziwie niekorzystnym świetle jest okreslana mianem:
-
-a) potakiwania
-b) symulowania
-c) dysymulowaniax
-d) zgadywania
-
-21. Wydłużenie testu o zdanie , które zostało rozwiązne porawnie przez wszytskie osoby badane powoduje:
-
-a) wzrost średniej wyników testux
-b) obniżenie średniej wyników testu
-c) brak zmiany średniej wyników testu
-d) niekiedy wzrost a niekiedy obnizenie średniej wynikow testu
-
-22. W celu uzyskania testu o duzej trafności kryterialnej pomairu nalezy:
-
-a) właczyć do skali pozycje o duzej fasadowej
-b) właczyć do skali pozycje o duzej trudności
-c) właczyc do skali pozycje wysoko skorelowane z kryteriumx
-d) włączyć do skali pozycje o dużej mocy dyskryminacyjnej
-
-23. Określenie specyfiki osobowości jednostki poprzez wyodrebnienie cech charakterystycznych tylko dla niej i wskutek tego wyrózniajacych ją z populacji jest charakterystyczne dla podejścia:
-
-a) indiograficznegox
-b) nomotetycznego
-c) demograficznego
-d) poznawczego
-
-24.Rozkład wyników kwesrionariusza do przesiewowej diagnozy objawów zaburzeń lękowych( wstępnego różnicowania osób zdowych i chorych) w grupie osób zdrowych bedzie mial kształt:
-
-a) platokurtyczny z uwagi na duze zróżnicowanie objawów zaburzenia w kazdej grupie osob takze u osob zdrowych
-b) dwumodalny- ze względu na obecność osób o niskim- zdrowych i wysokich czyli chorych-nasileniu objawów w kazdej z badanych próbx
-c) normalny z uwagi na duża zmiennosc nasilenia objawów zaburzenia ale tez dominujące srednie nasilenie objawów w kazdej grupie
-d) prawoskośny z uwagi na to ze nasilenie objawow zaburzenia jest zasadniczo niskie u osob zdrowych
-
-25. relacja między iliściowym wynikiem testu oraz latentnym typem jest w założeniu:
-
-a) prostoliniowa
-b) krzywoliniowa w formie krzywej esowatej
-c) krzywoliniowa w formie litery Ux
-d) krzywoliniowa w formie odwróconej litery U
-
-26. Średnia wyników testu jest sumą:
-
-a) średnich poszczególnych pozycji testowychx
-b) wariancji poszczegółnych pozycji testowych
-c) interkorelacji poszczególnych pozycji testowych
-d) średnich i podwojonych średnich poszczególnych pozycji testowych
-
-27. Ograniczenie interindywidualnej zmienności wyników testowych w próbie, np w efekcie wyboru kandydatów o najwyzszych osiągnieciach zawodowych stanowiących kryterium testowe prowadzi do:
-
-a) obnizenie rzetelności i trafnosci pomiaru testemx
-b) poprawy rzetelnosci i trafnoci pomiaru testem
-c) obizenie rzetelności ale jednoczesnie poprawy trafnosoci pomiaru testem
-d) obnizenie trafnosci ale jednoczesnie poprawy rzetelnosci pomiaru testem
-
-28. Wskaźnik trudności pozycji wyliczony w ramach IRT równy niskiemu poziomowi cechy( ponizej dwóch odchyleń standardowych wskazuje ze) :
-
-a) pozycja dobrze róznicuje osoby o poziomie cechy znacznie
-b) pozycja moze byc zastosowana jedynie do zróżnicowania osób o poziomie cechy znacznie poniżej przeciętnejx
-c) pozycja dobrze różnicuje jedynie osoby o poziomie cechy zblizonej do przecietnej
-d) pozycja dobrze róznicuje osoby badane w całym kontinnum badanej cechy
-
-29. Pozycje testowe ktorych wyniki są wysoko skorelowane ale wykazują nierówność średnich to:
-
-a) pozycje oboczne
-b) pozycje quasi rownoważnex
-c) pozycje rownoważne
-d) pozycje równoległe
-
-30. W teście wiadomości zawierającym 30 zadań badana grupa rozwiązywała prawidłowo średnio 15 zadań( wskaźnik trudosci testu wynosi zatem 0,50) a srednio 15 rozwiazala błędnie.Jaki jest wskaźnik trudnosci tego testu po uwzględnieniu poprawki na zgadywaie ( we wszystkich zadanaich zastosowano cztery opcje odpowiedzi):
-
-a)0,25
-b) 0,33
-c) 0,75x
-d) 0,90
-
-1. Poziom iteligencji znanej aktorki amerykańskiej oceniany w skali dewiacyjnego ilorazu inteligencji wynosi podobno 150. Jakiej wartości w jednostkach zmoralizowanych ,, z,, odpowiada ten iloraz inteligencji:
-
-a) 1
-b) 2,55
-c) 3,33x
-d) 4,25
-
-2. Pewna osoba uzyskała w teście wiadomości wynik który w jednostkach zmoralizowanych był równy 3,65. Ile wynosi ten wynik w staninach przyjmując średnią stanin równą 5,0 oraz odchylenie standardowe równe 2,0:
-
-a) 0 stanin
-b) 1 stanin
-c) 2 staninx
-d) 3 stanin
-
-3. W teście wiadomości składającym się z 10 zadań pewna osoba rozwiązała prawidłowo 5 zadań a 2 rozwiązała błędnie. Ile wynosi wynik tej osoby po uwzględnieniu poprawki na zgadywanie ( we wszytskich zadaniach zastosowano dwie opcje odpowiedzi):
-
-a) 5x
-b) 6
-c) 7
-d) 8
-
-4. Symulowanie to:
-
-a) przedstawienie się w nieprawdziwie korzystnym świetle
-b) bezpodstawne przedstawienie się w niekorzystnym świetlex
-c) wybieranie określonej opcji odpowiedź niezkależnie od tresci pytania
-d) zgadywanie jesli osoba badana nie zna prawdilowej odpowiedzi
-
-5. Wyniki testów zdolności są podatne na zniekształcenia związane:
-
-a) wyłącznie z tendencją do symulowaniax
-b) wyłącznie z tendencja do dysymulowania
-c) zarówno z tendencja do symulowania jak i dysymulowania
-d) zadą z tych tendencji
-
-6. Tendencja do ,, negowania ,, jest traktowana jako przejaw :
-
-a) dysymulowania
-b) symulowania
-c) stylu odpowiadaniax
-d) oportunizmu osoby badanej
-
-7. W celu wykrycia podstawowych wyników ( cech) określonej próby zachowań ( pozycji) najbardziej adekwatną strategią konkluzji jest:
-
-a) transgresja
-b) stranslacjax
-c) translokacja
-d) transdukcja
-
-8. W przypadku gdy wszystkie pozycje testowe wykazują bardzo duzą specyfikę kulturową najbardziej adekwatną strategia adaptacji kulturowej testu jest:
-
-a) transkrypcja
-b) transwersja
-c) parafraza
-d) rekonsrukcjax
-
-9. Tetrony  to jednostki zmoralizowanej skali standardowej o średniej równej:
-
-a) 5
-b) 5,5
-c) 10x
-d) 50
-
-10. Metoda tłumaczenia zwolnego z ang back transilation jest stosowana do udokumentowania:
-
-a) wierności procesu rekonstruowania testu
-b) wierności procesu tworzenia pozycji testowych w warunkach kuturowych
-c) wierności procedury badania testem w nowych warunkach kulrurowych
-d) wierności tlumaczeniach pozycji testowychx
-
-11. Normy najmniej obciążona błędem systematycznym gwarantuje dobór osób badanych:
-
-a) losowyx
-b) celowy
-c) przypadkowy
-d) próba złożona z osobników
-
-12. Skale normalizacyjne o rozkładzie prostokątnym np decylowa są stosowane gdy:
-
-a) liczba możliwych do uzyskania wyników w teście jest mniejsza od liczby stopni skali
-b) statystyki rozkładu wyników surowych znacznie odbiegają od parametrów rozkładu normalegox
-c) trafności kryterialne pomiaru testem jest mała tj korelacja z kryterium nie przekracza wartości współczynnika 0,30
-d) wierność standardowego błędu pomiaru jest większa od wartosci standardowego błędu przewidywania
-
-13. Skale procentowe ( decylowe lub centylowe) prowadzą do uzyskania rozkładu wyników który:
-
-a) zmniejsza zróżnicowanie miedzyosobnicze wokół średniej
-b) zwiększa asymetrię rozkładu
-c) zmniejsza zróżnicowanie miedzyosobnicze na krańcach rozkładux
-d) wykazuje własność rozkładu dwumodalnego
-
-14. W latach służących do tzw diagnozy przesiewowej czyli do różnicowania osób zdrowych i chorych najbardziej adekwatną formą normalizacji wyników jest:
-
-a) wyrażenia wyników oby grup łącznie na skali procentowej o rozkładzie prostokątnym np decylowejx
-b) wyrażenie wyników obu grup łącznie na skali standaryzowanej o rozkładzie normalym np tenowej
-c) wyznaczenie progów odnowionych czyli takich wynikow testu ktore maksymalizują rozłączną klasyfukacje badanych osob do obu grup na podstawie wyników testów
-d) sporządzanie odrębnych norm dla obu grup kryterialnych
-
-15. Współczynnik zgodności wewnętrznej zazwyczaj maleją gdy:
-
-a) zróżnicowanie demograficzne wzrasta
-b) liczba pozycji testowych malejex
-c) moc dyskryminacji pozycji testowych wzrusza
-d) badanie odbywa się w warunkach standardowych
-
-16. Rzetelność pomiaru testem zdolności oszacowana współczynnikiem alfa Cronbacha wynosi 0,51. Ile wynosi standardowy bład wynikow otrzymancyh w tym tescie przy skali tanowej do normalizacji wyników:
-
-a) 0,5
-b) 0,67
-c) 0,75x
-d) 0,8
-
-17. Gdy interkorelacje pozycji testowych wzrastrają to rzetelność pomiaru:
-
-a) wzrastax
-b) maleje
-c) pozostaje bez zmian
-d) najpierw wzrasta potem maleje
-
-18. Rozkład standardowego błędu estymacji wyników prawdziwego jest:
-
-a) symetrycznym zarówno wokół wyniku prawdziwego i otrzymanego
-b) asymetryczny wokół wyniku prawdziwego i otrzymanego
-c) asymetryczny wokół wyniku prawdziwego i symetrycznego wokół wyniku otrzymanego
-d) symetrycznt wokół wyniku prawdziwego i asymetryczny wokół wyniku otrzymanegox
-
-19. Trafność pomairu testem to:
-
-a) wskaźnik dokłaności z jaką test pozwala na oszacowanie indywidualnego nasila cechy
-b) wskaźnik tego w jakim stopniu test mierzy cechę którą ma mierzyćx
-c) wskaźnik zróźnicowania wyników testowych w dnaej grupie osob badanych
-d) wskaźnik zmienności indywidualy wyników stanowych
-
-20.Wielkość wariancji wyników testu nie zależy od:
-
-a) wielkości wariancji poszczególnych pozycji testowych
-b) znaku interkolrelacji pozycji testowychx
-c) wielkości interkorelacji pozycji testowych
-d) korelacji pozycji testu z kryterium zewnętrznym
-
-21.W teście zdolności składającym się z 25 zadań, pięć osób rozwiązała poprawnie następującą liczbę zadań: 10 plus 15 plus 20 plus 25. Ile wynosi średnia wyników tego testu:
-
-a) 10
-b) 12
-c) 13x
-d) 17
-
-22. W teście wiadomości składającym sie z 5 zadan ( ocenianych zadanie rozwiązane poprawnie =1 punkt , rozwiązanie błędnie=0 punktów) stwierdzono że wskaźniki trudności pozycji są następnie 0,45 plus 0,35 plus 0,50 plus 0,80 plus 0,40. Ile wynosi średnia wyników całego testu:
-
-a) 1,5
-b) 3
-c) 2,5x
-d) 3
-
-23. Zgodnie z klasyczną teorią testów wariancją błędów jest efektem:
-
-a) małego zróżnicowania wyników prawdziwych osób badanych
-b) systematycznego wpływu innych cech indywidualnych
-c) wpływu na wyniki testowe czynników zakłócających które mają charakter losowyx
+﻿1. Działania wykonane na materiałach
+
+a) są objętne dla uczenia sięx
+b) pogarszają efekty uczenia się
+c) zwiekszają efekty uczenią sie i ukierunkowują proceces uczenia się
 d)
 
-24. Warunkiem które nie spełniają wersje rownoważne testu w odróżnieniu od wersji równoległych jest:
+2. Amnzesja pourazowa odnosi się przede wszystkim do pamięci:
 
-a) wysokie skorelowanie wyników oby wersji testów
-b) równość śrenich obu wersji testu
-c) indetyczna trudność obu wersji testu
-d) równość wariancji obu wersji testux
+a) semantycznej
+b) długotrwałejx
+c) obrazowej
+d) krótkotrwałej
 
-25. Stabilność względną pomiaru szacują się poprzez badanie:
+3. Włyp nowych doświadczeń na pamiętanie poprzednich nosi nazwę:
 
-a) tym samym testem raz po razie
-b) tym samym testem po dłuższej przerwie
-c) wersją rownoległą testu po dłuższej przerwiex
-d) testem przeznaczonym do diagnozy innej cechy, po dłuższej przerwie
+a) transferu pozytywnego
+b) transferu zasad
+c) interferencji proaktywnej
+d) interferencji tetroaktynwejx
 
-26. Które z poniższych pojęc odnosi się do korelacji pomiędzy daną pozychę testową a wynikiem ogólnym testu?
+4. Kod semantyczny nie występuje:
 
-a) moc dyskryminacyjnax
-b) wskaźnik rzetelności
-c) trudność pozycji testowej
-d) wskaźnik trafności
+a) w pamięci ultrakrótkotrwałejx
+b) w pamięci krótkotrwałej
+c) w zapamiętywaniu obrazów
+d) w zapamiętywaniu zdarzeń 
 
-27. Czy w Polsce osoba nie będąca psychologiem może stosować testy psychologiczne?
+5. W rozwoju strategii pamięciowych
 
-a) tak
-b) nie
-c) tak, ale pod warunkiem że w trakcie studiów uczestniczyła w jakiś zajęciach z psychologii
-d) to zalezy od okoliczności badaniax
+a) strategie organizowania wyprzedza stratrgia powtarzania
+b) obserwujemy coraz lepsze doszacowanie strategii do rodzaju zadania pamięciowegox
+c) strategie wewnętrzną wyprzedzają strategie zawiedzenia
+d) posługiwanie się strategiami staje się coraz bardziej niezależna od rodzaju zadania pamieciowego
 
-28. Przekonanie badanych na temat tego co test mierzy to:
+6. Michał nie zdał egzaminu z fizyki i nie pamięta pytania na które nie odpowiedział. Fakt ten można wyjasnic:
 
-a) rzetelność testu
-b) trafność treściowa
-c) trafność fasadowax
-d) trafność teoretyczna
+a) efektem Zeigarnik
+b) efektem lampy błyskowej
+c) Osłupieniemx
+d) prawem śiweżości
 
-29. Trafność testu to:
+7.Według koncpepcji poziomów powtarzania Graika i Lockeara siła śladu pamięciowego zalezy od:
 
-a) pojęcie bliskoznaczne trafności testu czyli jego niskiej wartości diagnostycznej
-b) stopień w jakim test jest zdolny mierzyć to co w założeniu miał mierzyćx
-c) wielkość standardowego błędu pomiaru
-d) układ odniesienia dla wyników testowych
+a) czasu analizy bodźca
+b) cech bodźca
+c) czasy i rodzaju analizy bodźca
+d) rodzaju dokonywanej analizy bodźcax
 
-30. W strategii zewnetrznej tworzenia kwestionariuszy kryterium danej cechy może stanowić:
+8. Czas przechowywania informacji w pamięci ikonicznej jest:
 
-a) wysoki wynik w tworzonym kwestionariuszux
-b) arbitralnie ustalony ounkt odcięcia wyników kwestionariusza
-c) poziom trudności kwestionariusza
-d) inna zależna zewnętrzną względem twrzonego kwestionariusza
+a) taki sma jak w pamięci echoicznejx
+b) dłuższy niz w pamieci echoicznej
+c) krótszy niz w pamieci echoicznej
+d) niemożliwy do określenia
 
-31. W diagnozie indywidualnej koniecznie jest:
+9. Występowanie uczenia sie utajonego
 
-a) wyrażenie wyniku osoby badanej odwołując się do aktualnych norm dla określonej populacjix
-b) wyrażenie wyniku osoby badanej odwołując się do dowolnych norm np opracowanych w innym kraju niz kraj w którym przeprowadzono dane badanie jesli normy te są aktualne
-c) przedstawienie wyniku osoby badanej jako wyniku surowego
-d) porównanie wyniku osoby badanej z maksymalna liczbą punktów jaką moza otrzymać w danym tescie
+a) dowodzi iniwersalności prawa efektu
+b) wskazuje na ograniczenia prawa efektux
+c) dowodzi uniwerslaności prawa efektu
+d)wskazuje na ograniczenia prawa świeżości
 
-32.Rezultat IQ=115 oznacza,że:
+10. nazywanie przedmiotów spostrzeżeń obrazowych jest jednym z przejawów:
 
-a) 115 % badanych osiągnęło wynik lepszy od osoby badanej
-b) 115 % badanych osiągnęło wynik gorszy od osoby badanej
-c) jest to wynik o jedno odchylenie standardowe lepszy od wyniku  średniegox
-d) jest to wynik o jedno odchylenie standardowe gorszy od wyniku średniego
+a) dwojakiego charakteru ludzkiej percpecjix
+b) trudności w koncetracji uwagi
+c) patologii pamięci
+d) nadzywajnych zdolności jednostki
 
-33. W którym odchyleniu stan. znajduje się wynik równy 3 stenowi?
+11. Zjawisko maskowania wstecznego odnosi się do:
 
-a) w pierwszym powyżej średniej
-b) w drugim powyżej średniej
-c) w pierwszym poniżej średniej
-d) w drugim poniżej średniejx
+a) pamięci sensorycznej
+b) pamięci ultrakrótkotrwałejx
+c) pamięci krótkotrwałej
+d) pamieci epizodycznej
 
-34. Krzywa charakterysryczna pozycji która jest wyjątkowo stronna:
+12. Kryterium różnicowania transferu i proakcjii stanowi:
 
-a) obrazuje taką pozycję testową która dobrze różnicuje badanych
-b) wskazuje na obecność wariancji związanej z zastosowaną metodą
-c) jest typowa dla pozycji testowej ktora jest praktycznie bezuzytecznax
-d) wskazuje na duzą trudnosc pozycji testowej
+a) siła wpływu wcześniejszego uczenia się na późniejsze
+b) rodzaj kontrolowanego wskaźnikax
+c) kierunek wpływu wcześniejszego uczenia na sie późniejsze
+d) rodzaj materiału wykorzystywanego w badaniu
 
-35. Test mocy to:
+13. Charakterystyczne dla podaczku zaburzenie pamięci to:
 
-a) test fizycznej siły
-b) test wytrzymałości intelektualnej
-c) test składjący się z pozycji testowych o rosnącj trudnosci często bez ograniczenia czasowegox
-d) test siły temperamentu
+a) amnezja pourazowa
+b) niepamięć wydarzeń z okresu napadux
+c) konfabulacja
+d) zmniejszenie zakresu pamięci bezpośredniej
 
-36. Wykonałes pewien test inteligenccji a twoj wynik wyniósł 43 pkt. Liczba ta nie ma zadnego znaczenia bez znajomosci:
+14. Organizowanie treści w procesie uczenia się wiąze się z nastepstwami:
 
-a) wskaźnika trafnosci fasadowej testu
-b) wskaznika trafnosci teooretycznej
-c) standartu statystycznego czyli normyx
-d) wyniku równoległej formy testu
+a) nie wywiera żadnego wpływu na efekty pamieciowe
+b) utrudnia zrozumienie materiału
+c) zazwyczaj podwyzsza efekty pamieciowex
+d) stanowi przeszkodę w trwałym pamiętaniu
 
-37.średni wynik wyrażony w skali stenowej pewnego testu inteligencji:
+15. W rozwoju warunkowania:
 
-a) jest różny dla populacji Polaków i Niemców
-b) jest taki sma dla populacji Polaków i Niemców
-c) moze byc zarówno rózny jak i taki sam dla populacji Polaków i Niemców - zalezy to od własciwosci danej populacjix
-d) jest nizszy dla populacji Polakow w porownaniu do Niemcow gdyz przecietny Polak jest mniej inteligenty niz przecietny Niemiec
+a) związki pierwszosygnałowe wytwarzają się wcześniej niż związki długosygnałowex
+b) związki hamulcowe wytwarzają się wcześniej niż związki pobudzeniowe
+c) związki oparte na odruchu orientacyjnego wytwarzane są wczesniej niz zwiazki oparte na odruchu pokarmowyn
+d)
 
-38. Skala stenowa składa sie z :
+15. Zgodnie z podejściem asocjacjinistycznym :
 
-a) 10 jednostek ( stenów)x
-b) 9 jednostek( stenów)
-c) 100 stenów
-d) 11 stenów
+a) zapamiętywanie ma charakter strategiczny
+b) zapamiętywanie polega na zapamietywaniu elementów
+c) trwałości śladu pamięciowego zależy od powtarzania
+d) prawidłowe ,,b,, i ,,c,,x
 
-39. Normy empiryczne:
+16. Najszbsze efekty uczenia się są osiągane:
 
-a) ukazują pozucje jednostki w próbie normalizacyjnej i pozwajalają na ocenę jej wyników z innymi osobamix
-b) ustalane sa na podstawie wiedzy ekspertów
-c) dotyczą stopnia zgodnosci wyniku osoby badanej z oczekiwaniami społecznymi
-d) sa odzwierciedleniem norm etycznych postepowania
+a) niezależne od poziomu aspiracji jednostki
+b) przy niskich aspiracjach jednostki
+c) przy umiarkowanych aspiracjach jednostkix
+d) przy wysokich aspiracjach jednostki
 
-40. Jaki sposob szacowania trafnosci teoretycznej dotycy liczby wymiarów opisujących duże zjawisko psychologiczne?
+17. Prawo ćwiczenia informuje nas o tym że:
 
-a) analiza różnic miedzygrupowych
-b) analiza zmian nieprzypadkowych
-c) analiza procesu rozwiązywania testu
-d) analiza struktury czynnikowej testux
+a) człowiek może nauczyń się wszystkiego
+b) dzięki powtarzaniu zmniejsza się prawdopodobieństwo zapomnieniax
+c) dzięki powtarzaniu ulegają osłabieniu ślady pamięciowe
+d) bez powtarzania nie można trwale zapamiętać
 
-41. Jeżeli wyniki uzyskane na podstawie danego testu w silnym związku z wynikami uzyskanymi w innym tescie przeznaczonym do pomiaru podobnej cechy wowczas można przypuszczac ze test ma wysoką:
+18. Hipoteza deficytów mediacyjnych odnosi się do:
 
-a) rzetelnośćx
-b) trafność prognostyczną
-c) trafność dyskryminacyjną
-d) trafność zbieżną
+a) rozwoju metapamięci
+b) rozwoju strategii pamieciowychx
+c) rozwoju kodowania
+d) rozwoju metapamięci i kodowania
 
-42. Stronniczość testów psychologiczych:
+19. Zgodnie z teorią ACTJ. R. Andersona pamięć dewlaratywna i proceduralna :
 
-a) powoduje że grupy o niskim statusie społecznym np mniejszosci narodowe uzyskują przeciętnie nizsze wyniki w danym tescie w porównaniu z grupami uprzewilejowanymi
-b) oznacza że grupy wyodrebnione ze względu na pochodzenie społeczne różnią się między sobą ze względu na przeciętne wyniki otrzymane w danym teście podczas gdy przecietne wyniki prawdziwe tych grup nie roznia sie
-c) przejawia sie w tym że pewne testy nawet po odpowiedniej adaptacji kulturowej nie nadają sie dla wszystkich badanychx
-d) jest zjawiskiem pożądanym bo wskazuje na odmienne funkcjonowanie psychiczne różnych grup społecznych
+a) sa powiązane poprzez pamięć operacyjnąx
+b) są tym samym rodzajem pamieci
+c) są powiązane poprzrz pamięc krótkotrwała
+d) nie mają powiązań
 
-43. Jakie własności ma rozkład standaryzowany?
+20. Które z podanych niżej jest fałszywe
 
-a) jest to rozkład normalny o dowolnej średniej i dowolnym odchyleniu standardowym
-b) jest to rozkład normalny o średniej 0 i dowolnym odchyleniu standardowym
-c) jest to rozkład normalny o dowolnej średniej i odchyleniu standardowym 0
-d) jest to rozkład normalny o średniej 0  i odchyleniu standardowym 1x
+a) jeśli po uczeniu się następuje sen, ślady pamięciowe konsolidują się i nie dochodzi do hamowania retroaktywnego
+b) przeuczenie się jest niekorzystne gdyż powoduje hamowanie retroaktywnex
+c) podanie informacji o czynnikach sprzyja  dalszemu uczeniu się
+d) stosowanie wzmocnień pozytywnych jest korzystniejsze niż stosowanie wzmocnień negatywnych
 
-44. Im większa rzetelność testu tym szerokość przedziału ufności obliczonego dla dowolnego wyniku otrzymanego:
+21. W warunkowaniu klasycznym:
 
-a) jest większax
-b) jest mniejsza
-c) rzetelność i przedział ufności nie są ze sobą powiązane
-d) zależy od wielkości wyniku otrzymanego
+a) wystepują procesy posredniczące i wgląd
+b) nie występują procesy posredniczące i wglądx
+c) nie występują procesy pośredniczące i występujące
+d) występują procesy pośredniczące i wgląd nie występuje
 
-45. Który z poniższych testów obciążony jest najmniejszym błędem pomairu przy założeniu, że wariancja wyników prawdziwych i otrzymanych są jednakowe we wszytskicg przypadkach:
+22. Efekt Humpgreysa odnosi się do:
 
-a) test o rzetelności 0,50
-b) test o rzetelności 0,77
-c) test o rzetelności 0,93x
-d) test o rzetelności 0,73
+a) następstw nieregularnego wzmocnieniax
+b) przebiegu zapominania w czasie
+c) roli indormacji zwrotnej i czynnikach
+d) motywacyjnej funkcji nagród i kar
 
-46. W której z poniższych sytuacji informacja o trafności prognostycznej testu jest szczególnie istotna?
+23. Która z poniższych twierdzeń jest prawdziwe:
 
-a) przewidywanie powodzenia kandydatów w przyszłej pracyx
-b) diagnoza zaburzeń psychicznych
-c) określenie aktualnego poziomu możliwości intelektualnych
-d) diagnoza przyczyn trudności w nauce szkolnej
+a) reminiscencja nie zależy od sposobu powtarzania
+b) reminiscencja jest efektem powtarzania materiału częściami
+c) reminiscencja jest efektem uczenia się rozłożonego w czasiex
+d) reminiscencja występuje przede wszystkim w warunkach uczenia sie skomasowanego
 
-47. Jedynym ze sposobów określenia trafności diagnostycznej pewnego testu jest:
+24. Uniemożliwienie powtarzania meteriału:
 
-a) zbadanie korelacji tego testu z innym testem mierzącym tę samą cechęx
-b) zbadania jak dobrze test przewiduje przyszłe funkcjonowanie osób badanych
-c) oszacowanie zgodności wewnetrznej testu
-d) wykorzystanie ocen sędziów kompentnych
+a) obniża bezspośrednie efekty pamięciowe
+b) obniza długotrwałe efekty pamieciowe
+c) obniza bezposrednie i długotrwałe efekty pamieciowex
+d) nie obniza efektów pamieciowych
 
-48. Wobraź sobie, że w teście wiadomości który rowiązujesz znajdują się jedynie pytania dotyczące trafności. Taki test niewystarczającą trafność:
+25. Cechą wspólna warunkowania klasycznego i instrumentalnego jest:
 
-a) teoretyczną
-b) treściowąx
-c) prognostyczną
-d) diagnostyczną
+a) fakt powstawania nowych reakcjix
+b) bezpośrednie kojarzenie bodźców i reakcji
+c) sposób wytwarzania reakcji
+d) trwałość zmian zachowania
 
-49. Jeżeli test jest trafny to wynika stąd, że jest również:
+26. Zgodnie z podejściem asocjacjonistcznym :
 
-a) rzetelnyx
-b) znormalizowany
-c) wystandaryzowany
-d) obiektywny
+a) zapamietywanie ma charakter strategiczny
+b) zapamietywanie polega na zapamietywaniu elementów
+c) trwałośc sladu pamieciowego zalezy od powtarzania
+d) prawidłowe b i cx
 
-50. Według klasycznej teorii testów średnia arytmetyczna błędów pomiaru nieskończenie wielkiej liczby wynosi 0 oznacza to, że:
+27. Nagroda... zachowanie po którym następuje. Co sprawia kara?
 
-a) wpływ błędu na pomiar jest równy 0
-b) wyniki testu nie są obciążone żadnym błędem
-c) niemożliwe jest oszacowanie wielkościi popełnionego błędu
-d) popełniany błąd w każdym pomiarze ma charalter losowy i może z równym prawdopodobieństwem zarówno zawyżać jak i zaniżać wynikx
+a) osłabia zachowanie po którym następuje
+b) znosi atrakcyjność czynu po którym następuje
+c) hamuje okresowo zachowanie po którym następujex
+d) wzmacnia tendencje do wykonywania zachowania po ktorym następuje
 
-51. Wynik prawdziwy to:
+28. Co wykorzystuje się w nauczaniu programowym?
 
-a) suma punktów uzyskanych w danym teście
-b) średnia nieskończonej liczby pomiarów jednej osoby tym samym testemx
-c) wynik obciążony błędem pomiaru
-d) każdy wynik testowy uzyskany w badaniu, w którym badany udzielał szczerych odpowiedzi
+a) warunkowanie klasyczne
+b) warunkowanie instrumentalnex
+c) psychologię postaci
+d)
 
-52. Wynik otrzymany:
+29. Jakie częsci mózgu odpowiedzialne są za pamięc operacyjna?
 
-a) to według klasycznej teorii testów suma wyniku prawdziwego i błędu pomiarux
-b) zawsze równa się wynikowi prawdziwemu
-c) jest zawsze mniejszy od wyniku prawdziwego
-d) jest zawsze większy od wyniku prawdziwego
+a) płaty skroniowe
+b) czołowex
+c) ciemieniowe
+d) potyliczne
 
-53. W trakcie opracowania psychometrycznego kwestionariusza objawów nerwicowych przeprowadzono badanie, w którym jego uczestnicy dwukrotnie w odstępie szcześciu miesięcy wypełniali opracowany kwestionariusz.  W ten sposób określono:
+30. Informacje podwójnie kodowane są:
 
-a) stabilność bezwzględną kwestionariuszax
-b) zgodność wewnętrzną kwestionariusza
-c) trafność teoretyczną kwestionariusza
-d) trafność kryterialną kwestionariusza
+a) łatwiej wydobywanex
+b) maskowane
+c) niemożliwe do wydobycia
+d)
 
-54. Pozycje testowe w narzędziu o wysokiej rzetelności szacowanej na podstawie zgodności wewnętrznej są:
+31. Badania wykazał że w eksperckości najwazniejsze jest:
 
-a) nieskorelowane ze sobą
-b) w preważającej mierze łatwe
-c) skorelowane ze sobąx
-d) w przeważającej mierze trudne
+a) ćwiczeniex
+b) talent
+c) tylko wybitne jednostki mogą wznieść się ku eksperckości
+d)
 
-55. Błąd symetryczny:
+32. Do trwałego zapamiętywania niezbędne jest:
 
-a) obniża korelację dwóch pomiarów wykonanych tym samym narzędziem na tej samem grupie osób
-b) nie ma nic wspólnego z mierzoną cechą psychiczną i wynika ze stałych cech narzędziax
-c) pojawia się zwykle w testach stosowanych w systemie oświaty
-d) dotyczy wyłącznie testów inteligencji
+a) wzgórze
+b) hipokampx
+c) podwzgórze
+d)
 
-56. Błąd losowy:
+33. Co możemy powiedzieć o dzieciach które na polecenie zapamiętania słow powtarzają je?
 
-a) wpływa na trafność narzędzia
-b) wynika z losowego doboru  badanych do próby standaryzowanej
-c) nie zmienia swej wielkości dla różnych wartości wyniku prawdziwegox
-d) wpływa na rzetelność narzędzia
+a) ze sa upośledzone
+b) mają rozwiniętą wrażliwosc metapamieciowąx
+c)maja problem z percepcja
+d)
 
-57. Duża wartość standardowego błędu pomiaru SEM wskazuje na:
+34. cechy wspólne osób z nadzyczajną pamięcią:
 
-a) niską trafność testu
-b) wysoką trafność testu
-c) niską rzetelność testux
-d) wysoką rzetelność testu
+a) synestezjax
+b) poziom inteligencji
+c) brak wspólnych cech
+d)
 
-58. Rzetelność testu to:
+35. Najszybsze efekty uczenia się osiągane:
 
-a) stopień w jakim test jest zdolny mierzyć to co w założeniu miał mierzyć
-b) stopień w jakim można polegać na psychologu przeprowadzającym badanie
-c) stopień w jakim można polegać na osobie badanej
-d) stopień dokładności z jaką określony test dokonuje pomiarówx
+a) niezależnie od poziomu aspiracji jednostki
+b) przy niskich aspiracjach jednostki
+c) przy umiarkowanych aspiracjach jednostkix
+d) przy wysokich aspiacjach jednostki
 
-59. Test psychologiczny to:
+36. Metoda oszczędności jest:
 
-a) jedynie zbiór który osoby badane rowiązują w trakcie badania
-b) pomiar próbki zachowania się
-c) rodzaj badania eksperymentalnego
-d) narzędzie składające się z pozycji testowych, sposobu ich wykorzystania i reguł obliczenia wynikówx
+a) jedną z metod badania rekacji odroczonych
+b) jedną z metod badania proceców warunkowania
+c) bardzo czułą metodą pomiaru efektów uczenia sięx
+d) metodą pomairu zakresu pamięci bezpośredniej
 
-60. Każdy dobry test psychologiczny powinien cechować się:
+37. Występowanie uczenia się utajonego:
 
-a) wyłącznie wysoką trafnością prognostyczną
-b) wyłącznie wysoką rzetelnością i trafnością
-c) wysoką rzetelnością, trafnością oraz aktualnymi normamix
-d) wyłącznie wysoką rzetelnością
+a) dowodzi uniwersalność prawa efektu
+b) wskazuje na ograniczenia prawa efektux
+c) dowodzi uniwersalności prawa świeżości
+d) wskazuje na ograniczenie prawa świeżości
 
-61. Celem standaryzacji procedury testowania jest:
+38. kod semantyczny nie występuje:
 
-a) możliwość porównania wyników różnych osób
-b) możliwość porównywania wyników osoby badanej ze standartem wykonaniax
-c) przestrzeganie standardów etycznych postępowania psychologa
-d) dostosowanie testu do obowiązujących w społeczeństwie standardów postępowania
+a) w pamięci ultrakrótkotrwałejx
+b) w pamiecu krótkotrwałej
+c) w zapamietywaniu obrazów
+d) w zapamietywaniu zdarzeń
 
-62. Czy w indywidualnej diagnozie testowej zawsze konieczne jest wyznaczenie przedziału ufności dla wyniku prawdziwego?
+39. amnezja pourazowa odnisi się przede wszystkim do pamięci:
 
-a) tak zawszex
-b) tylko w przypadkach szczególnych jest to konieczne
-c) przedział ufości oblicza się tylko wtedy gdy badany o to poprosi
-d) nie, nie jest to nigdy konieczne
+a) semantycznej
+b) długotrwałejx
+c) obrazowej
+d) długotrwałej
 
-63. Osoba badana uzyskała w teście inteligencji wynik na poziomie  99 centyla. Ile wynosi wynik tej osoby wyrażony w skali stenowej:
+40. podział na pamięc epizodyczną i semantyczna odnosi sie do:
 
-a) 8 sten
-b) 9 sten
-c) 10 sten
-d) 11 stenx
+a) pamieci długotrwałej ( deklaratywnej)x
+b) operacyjnej
+c) obrazkowej
+d)
 
-64. Pewna osoba uzyskała w teście inteligencji wynik wyrażony w skali stenowej równy 6. Wartość ta wynosi w skali dewiacyjnego ilorazu inteligencji:
+41. CZas przechowywania informacji w pamięci ikonicznej jest:
 
-a) 100
-b) 105
-c) 110
-d) nie da się jej precyzyjnie wyliczyć  na podstawie dostarczoncych danychx
+a) taki sam jak w pamieci echoicznej
+b) dłuższy niz w pamieci echoicznej
+c) krótszy niz w pamiecu echoicznejx
+d) niemozliwy do okreslenia
 
-65. Współczynnik rzetelności pomiaru testem zdolności wynosi 0,92 . iLE wynosi standardowy błąd różnicy wyników otrzymanych dwóch osób badanych, wyznaczony w skali dewiacyjngo ilorazu inteligencji:
+42. Zgodnie z teoria ACT Andersona pamięc deklaratywna i proceduralna:
 
-a) 6x
-b) 9
-c) 15
-d) 18
+a) są powiązane poprzez pamięc operacyjnąx
+b) nie mają powiązań
+c) są powiazane poprzez pamiec krótkotrwala
+d) sa tym samym rodzajem pamieci
 
-66. Współczynnik korelacji skali klinicznej z kryterium postaci diagnozy medycznej jest równy 0,35, przy współczynniku rzetelności diagnozy medycznej zaledwie 0,49. Ile wynosi korelacja wyników tego testu po uwzględnieniu poprawki na nierzetelność kryterium:
+43. efekt Humphreya odnosi sie do:
 
-a) 0.00
-b) 0,25
-c) 0,50x
-d) 1,00
+a) następstw nieregularnego wzmocnieniax
+b) przebiegu zapominania w czasie
+c) roli informacji o czynnikach
+c) motywacjnwj funkcji nagród i kar
 
-67. Pewien test podzielono na dwie równoległe części uzyskując interkorelację 0,50. Ile wynosi rzetelność testu jako całości oszacowania wzorem ,, proroczym,, Spearmana Browna:
+44. w rozwoju warunkowania:
 
-a) 0,47
-b) 0,67x
-c) 0,75
-d) 0,85
+a) związki pierwszosygnałowe wytwarzają się wczesniej niz zwiazki dłygosygnałowex
+b) zwiazki hamulcowe wytwarzają się wczesniej niz zwiazki pobudzeniowe
+c) zwiazku oparte na odruchu orientacyjnym wyttwarzane są wczesniej niz związki oparte na odruchu pokarmowym
+d)
 
-68. Rzetelność pomiaru testem zdolności oszacowania wzorem KR=20 wynosi 0,91. Ile wynosi półprzedział ufności wyznaczony w skali staninowej na podstawie standardowego błędu wyników otrzymanych przy założeniu 5% błędu estymacji ( dla poziomu pewności 95% z= 1,96):
+45.  cechą wspólną warunkowania klasycznego i instrumentalnego jest:
 
-a) =1x
-b) =2
-c) =3
-d) =4
+a) fakt powstawania nowych reakcji
+b) bezpośrednie kojarzenie bodźca z reakcjax
+c) sposob wytwarzania reakcji
+d) twałość zmian w zachowaniu
 
-69. Stwierdzono że wariancja każdej z połówek testowych wynosi 9,0, zaś ich interkorelacja jest równa 0,50. Ile wynosi wariacja całkowita wyników testu:
+46. w warunkowaniu klasycznym:
 
-a) 18,0
-b) 27,0
-c) 36,0x
-d) 45,70
+a) występują procesy pośredniczące i wgląd
+b) nie występują procesy posredniczące i wglądx
+c) nie wystepują procesy posredniczące a wglad występuje
+d)
 
-70. Wariancja różnic połówek testowych wynosi 3,5 zaś wariancja wyników otrzymanych testu 10,0. Ile wynosi rzetelność pomiaru testem oszacowania wzrorem Rulona:
+47. według koncepcji poziomów przetwarzania Cralka  i Lockharta siła śladu pamięciowego zależy od:
 
-a) 0,60
-b) 0,65x
-c) 0,70
-d) 0,75
+a) czasu analizy bodźca
+b) cech bodźca
+c) czasu reakcji i analizy bodźca
+d) rodzaju dokonanej analizy bodźcax
 
-71. Standardowy błąd estymacji wyniku prawdziwego ma rozkład:
+48. organizowanie treści w procesie uczenia się wiąże się z następstwami:
 
-a) symetryczny zarówno wokół wyniku prawdziwego i otrzymanego
-b) asymetryczny wokół wyniku prawdziwego i otrzymanego
-c) asymetryczny wokół wyniku prawdziwego i symetryczny wokół wyniku otrzymanego
-d) symetryczny wokół wyniku prawdziwego i symetryczny wokół wyniku otrzymanegox
+a) nie wywiera zadnego wpływu na efekty pamieciowe
+b) utrudnia zrozumieie materiału
+c) zazwyczaj podwyzsza efekty pamieciowex
+d) stanowi przeszkodę w trwałym pamietaniu
+
+49. W rozwoju strategii pamęciowych:
+
+a) strategia organizowania wyprzedza strategia powtarzania
+b) obserwujemy coraz lepsze dostosowanie strategii do rodzaju zadania pamieciowegox
+c) strategie wewnetrzne wyprzedzaja zewnetrzne
+d) poslugiwanie sie strategiami staje sie coraz bardziej niezalezne od rodzaju zadania pamieciowego
