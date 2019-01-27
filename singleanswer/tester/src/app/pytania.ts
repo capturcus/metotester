@@ -1,9 +1,9 @@
 export default class Questions { public static QUESTIONS = [
     {
-        "prompt": "﻿1. Działania wykonane na materiałach", 
+        "prompt": "﻿1. Działania wykonane na materiałach:", 
         "options": [
             [
-                "a) są objętne dla uczenia się", 
+                "a) są obojętne dla uczenia się", 
                 true
             ], 
             [
@@ -11,7 +11,7 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "c) zwiekszają efekty uczenią sie i ukierunkowują proceces uczenia się", 
+                "c) zwiększają efekty uczenia się i ukierunkowują procesy uczenia się", 
                 false
             ], 
             [
@@ -21,7 +21,7 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "2. Amnzesja pourazowa odnosi się przede wszystkim do pamięci:", 
+        "prompt": "2. Amnezja pourazowa odnosi się przede wszystkim do pamięci:", 
         "options": [
             [
                 "a) semantycznej", 
@@ -42,7 +42,7 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "3. Włyp nowych doświadczeń na pamiętanie poprzednich nosi nazwę:", 
+        "prompt": "3. Wpływ nowych doświadczeń na pamiętanie poprzednich nosi nazwę:", 
         "options": [
             [
                 "a) transferu pozytywnego", 
@@ -87,7 +87,7 @@ export default class Questions { public static QUESTIONS = [
         "prompt": "5. W rozwoju strategii pamięciowych", 
         "options": [
             [
-                "a) strategie organizowania wyprzedza stratrgia powtarzania", 
+                "a) strategie organizowania wyprzedza strategia powtarzania", 
                 false
             ], 
             [
@@ -95,17 +95,17 @@ export default class Questions { public static QUESTIONS = [
                 true
             ], 
             [
-                "c) strategie wewnętrzną wyprzedzają strategie zawiedzenia", 
+                "c) strategie wewnętrzne wyprzedzają strategie zawiedzenia", 
                 false
             ], 
             [
-                "d) posługiwanie się strategiami staje się coraz bardziej niezależna od rodzaju zadania pamieciowego", 
+                "d) posługiwanie się strategiami staje się coraz bardziej niezależne od rodzaju zadania pamięciowego", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "6. Michał nie zdał egzaminu z fizyki i nie pamięta pytania na które nie odpowiedział. Fakt ten można wyjasnic:", 
+        "prompt": "6. Michał nie zdał egzaminu z fizyki i nie pamięta pytania, na które nie odpowiedział. Fakt ten można wyjaśnić:", 
         "options": [
             [
                 "a) efektem Zeigarnik", 
@@ -116,17 +116,17 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "c) Osłupieniem", 
+                "c) osłupieniem", 
                 true
             ], 
             [
-                "d) prawem śiweżości", 
+                "d) prawem świeżości", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "7.Według koncpepcji poziomów powtarzania Graika i Lockeara siła śladu pamięciowego zalezy od:", 
+        "prompt": "7. Według koncepcji poziomów powtarzania Graika i Lockeara siła śladu pamięciowego zależy od:", 
         "options": [
             [
                 "a) czasu analizy bodźca", 
@@ -137,7 +137,7 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "c) czasy i rodzaju analizy bodźca", 
+                "c) czasu i rodzaju analizy bodźca", 
                 false
             ], 
             [
@@ -150,15 +150,15 @@ export default class Questions { public static QUESTIONS = [
         "prompt": "8. Czas przechowywania informacji w pamięci ikonicznej jest:", 
         "options": [
             [
-                "a) taki sma jak w pamięci echoicznej", 
+                "a) taki sam jak w pamięci echoicznej", 
                 true
             ], 
             [
-                "b) dłuższy niz w pamieci echoicznej", 
+                "b) dłuższy niż w pamięci echoicznej", 
                 false
             ], 
             [
-                "c) krótszy niz w pamieci echoicznej", 
+                "c) krótszy niż w pamięci echoicznej", 
                 false
             ], 
             [
@@ -168,10 +168,10 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "9. Występowanie uczenia sie utajonego", 
+        "prompt": "9. Występowanie uczenia się utajonego", 
         "options": [
             [
-                "a) dowodzi iniwersalności prawa efektu", 
+                "a) dowodzi uniwersalności prawa efektu", 
                 false
             ], 
             [
@@ -179,24 +179,24 @@ export default class Questions { public static QUESTIONS = [
                 true
             ], 
             [
-                "c) dowodzi uniwerslaności prawa efektu", 
+                "c) dowodzi uniwersalności prawa efektu", 
                 false
             ], 
             [
-                "d)wskazuje na ograniczenia prawa świeżości", 
+                "d) wskazuje na ograniczenia prawa świeżości", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "10. nazywanie przedmiotów spostrzeżeń obrazowych jest jednym z przejawów:", 
+        "prompt": "10. Nazywanie przedmiotów spostrzeżeń obrazowych jest jednym z przejawów:", 
         "options": [
             [
-                "a) dwojakiego charakteru ludzkiej percpecji", 
+                "a) dwojakiego charakteru ludzkiej percepcji", 
                 true
             ], 
             [
-                "b) trudności w koncetracji uwagi", 
+                "b) trudności w koncentracji uwagi", 
                 false
             ], 
             [
@@ -204,7 +204,7 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "d) nadzywajnych zdolności jednostki", 
+                "d) nadzwyczajnych zdolności jednostki", 
                 false
             ]
         ]
@@ -225,7 +225,7 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "d) pamieci epizodycznej", 
+                "d) pamięci epizodycznej", 
                 false
             ]
         ]
@@ -242,7 +242,7 @@ export default class Questions { public static QUESTIONS = [
                 true
             ], 
             [
-                "c) kierunek wpływu wcześniejszego uczenia na sie późniejsze", 
+                "c) kierunek wpływu wcześniejszego uczenia na się późniejsze", 
                 false
             ], 
             [
@@ -252,7 +252,7 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "13. Charakterystyczne dla podaczku zaburzenie pamięci to:", 
+        "prompt": "13. Charakterystyczne dla padaczki zaburzenie pamięci to:", 
         "options": [
             [
                 "a) amnezja pourazowa", 
@@ -273,10 +273,10 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "14. Organizowanie treści w procesie uczenia się wiąze się z nastepstwami:", 
+        "prompt": "14. Organizowanie treści w procesie uczenia się wiąże się z następstwami:", 
         "options": [
             [
-                "a) nie wywiera żadnego wpływu na efekty pamieciowe", 
+                "a) nie wywiera żadnego wpływu na efekty pamięciowe", 
                 false
             ], 
             [
@@ -284,7 +284,7 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "c) zazwyczaj podwyzsza efekty pamieciowe", 
+                "c) zazwyczaj podwyższa efekty pamięciowe", 
                 true
             ], 
             [
@@ -305,7 +305,7 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "c) związki oparte na odruchu orientacyjnego wytwarzane są wczesniej niz zwiazki oparte na odruchu pokarmowyn", 
+                "c) związki oparte na odruchu orientacyjnego wytwarzane są wcześniej niż związki oparte na odruchu pokarmowym", 
                 false
             ], 
             [
@@ -315,31 +315,31 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "15. Zgodnie z podejściem asocjacjinistycznym :", 
+        "prompt": "16. Zgodnie z podejściem asocjacjonistycznym:", 
         "options": [
             [
                 "a) zapamiętywanie ma charakter strategiczny", 
                 false
             ], 
             [
-                "b) zapamiętywanie polega na zapamietywaniu elementów", 
+                "b) zapamiętywanie polega na zapamiętywaniu elementów", 
                 false
             ], 
             [
-                "c) trwałości śladu pamięciowego zależy od powtarzania", 
+                "c) trwałość śladu pamięciowego zależy od powtarzania", 
                 false
             ], 
             [
-                "d) prawidłowe ,,b,, i ,,c,,", 
+                "d) prawidłowe b i c", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "16. Najszbsze efekty uczenia się są osiągane:", 
+        "prompt": "17. Najszybsze efekty uczenia się są osiągane:", 
         "options": [
             [
-                "a) niezależne od poziomu aspiracji jednostki", 
+                "a) niezależnie od poziomu aspiracji jednostki", 
                 false
             ], 
             [
@@ -357,10 +357,10 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "17. Prawo ćwiczenia informuje nas o tym że:", 
+        "prompt": "18. Prawo ćwiczenia informuje nas o tym, że:", 
         "options": [
             [
-                "a) człowiek może nauczyń się wszystkiego", 
+                "a) człowiek może nauczyć się wszystkiego", 
                 false
             ], 
             [
@@ -378,14 +378,14 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "18. Hipoteza deficytów mediacyjnych odnosi się do:", 
+        "prompt": "19. Hipoteza deficytów mediacyjnych odnosi się do:", 
         "options": [
             [
                 "a) rozwoju metapamięci", 
                 false
             ], 
             [
-                "b) rozwoju strategii pamieciowych", 
+                "b) rozwoju strategii pamięciowych", 
                 true
             ], 
             [
@@ -399,18 +399,18 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "19. Zgodnie z teorią ACTJ. R. Andersona pamięć dewlaratywna i proceduralna :", 
+        "prompt": "20. Zgodnie z teorią ACTJ. R. Andersona pamięć deklaratywna i proceduralna:", 
         "options": [
             [
-                "a) sa powiązane poprzez pamięć operacyjną", 
+                "a) są powiązane poprzez pamięć operacyjną", 
                 true
             ], 
             [
-                "b) są tym samym rodzajem pamieci", 
+                "b) są tym samym rodzajem pamięci", 
                 false
             ], 
             [
-                "c) są powiązane poprzrz pamięc krótkotrwała", 
+                "c) są powiązane poprzez pamięć krótkotrwałą", 
                 false
             ], 
             [
@@ -420,18 +420,18 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "20. Które z podanych niżej jest fałszywe", 
+        "prompt": "21. Które z poniższych twierdzeń jest fałszywe:", 
         "options": [
             [
                 "a) jeśli po uczeniu się następuje sen, ślady pamięciowe konsolidują się i nie dochodzi do hamowania retroaktywnego", 
                 false
             ], 
             [
-                "b) przeuczenie się jest niekorzystne gdyż powoduje hamowanie retroaktywne", 
+                "b) przeuczenie się jest niekorzystne, gdyż powoduje hamowanie retroaktywne", 
                 true
             ], 
             [
-                "c) podanie informacji o czynnikach sprzyja  dalszemu uczeniu się", 
+                "c) podanie informacji o czynnikach sprzyja dalszemu uczeniu się", 
                 false
             ], 
             [
@@ -441,14 +441,14 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "21. W warunkowaniu klasycznym:", 
+        "prompt": "22. W warunkowaniu klasycznym:", 
         "options": [
             [
-                "a) wystepują procesy posredniczące i wgląd", 
+                "a) występują procesy pośredniczące i wgląd", 
                 false
             ], 
             [
-                "b) nie występują procesy posredniczące i wgląd", 
+                "b) nie występują procesy pośredniczące i wgląd", 
                 true
             ], 
             [
@@ -462,7 +462,7 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "22. Efekt Humpgreysa odnosi się do:", 
+        "prompt": "23. Efekt Humpgreysa odnosi się do:", 
         "options": [
             [
                 "a) następstw nieregularnego wzmocnienia", 
@@ -473,7 +473,7 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "c) roli indormacji zwrotnej i czynnikach", 
+                "c) roli informacji zwrotnej i czynnikach", 
                 false
             ], 
             [
@@ -483,7 +483,7 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "23. Która z poniższych twierdzeń jest prawdziwe:", 
+        "prompt": "24. Które z poniższych twierdzeń jest prawdziwe:", 
         "options": [
             [
                 "a) reminiscencja nie zależy od sposobu powtarzania", 
@@ -498,34 +498,34 @@ export default class Questions { public static QUESTIONS = [
                 true
             ], 
             [
-                "d) reminiscencja występuje przede wszystkim w warunkach uczenia sie skomasowanego", 
+                "d) reminiscencja występuje przede wszystkim w warunkach uczenia się skomasowanego", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "24. Uniemożliwienie powtarzania meteriału:", 
+        "prompt": "25. Uniemożliwienie powtarzania materiału:", 
         "options": [
             [
-                "a) obniża bezspośrednie efekty pamięciowe", 
+                "a) obniża bezpośrednie efekty pamięciowe", 
                 false
             ], 
             [
-                "b) obniza długotrwałe efekty pamieciowe", 
+                "b) obniża długotrwałe efekty pamięciowe", 
                 false
             ], 
             [
-                "c) obniza bezposrednie i długotrwałe efekty pamieciowe", 
+                "c) obniża bezpośrednie i długotrwałe efekty pamięciowe", 
                 true
             ], 
             [
-                "d) nie obniza efektów pamieciowych", 
+                "d) nie obniża efektów pamięciowych", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "25. Cechą wspólna warunkowania klasycznego i instrumentalnego jest:", 
+        "prompt": "26. Cechą wspólną warunkowania klasycznego i instrumentalnego jest:", 
         "options": [
             [
                 "a) fakt powstawania nowych reakcji", 
@@ -546,43 +546,22 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "26. Zgodnie z podejściem asocjacjonistcznym :", 
+        "prompt": "27. Nagroda... zachowanie, po którym następuje. Co sprawia kara?", 
         "options": [
             [
-                "a) zapamietywanie ma charakter strategiczny", 
+                "a) osłabia zachowanie, po którym następuje", 
                 false
             ], 
             [
-                "b) zapamietywanie polega na zapamietywaniu elementów", 
+                "b) znosi atrakcyjność czynu, po którym następuje", 
                 false
             ], 
             [
-                "c) trwałośc sladu pamieciowego zalezy od powtarzania", 
-                false
-            ], 
-            [
-                "d) prawidłowe b i c", 
-                true
-            ]
-        ]
-    }, 
-    {
-        "prompt": "27. Nagroda... zachowanie po którym następuje. Co sprawia kara?", 
-        "options": [
-            [
-                "a) osłabia zachowanie po którym następuje", 
-                false
-            ], 
-            [
-                "b) znosi atrakcyjność czynu po którym następuje", 
-                false
-            ], 
-            [
-                "c) hamuje okresowo zachowanie po którym następuje", 
+                "c) hamuje okresowo zachowanie, po którym następuje", 
                 true
             ], 
             [
-                "d) wzmacnia tendencje do wykonywania zachowania po ktorym następuje", 
+                "d) wzmacnia tendencje do wykonywania zachowania, po którym następuje", 
                 false
             ]
         ]
@@ -609,7 +588,7 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "29. Jakie częsci mózgu odpowiedzialne są za pamięc operacyjna?", 
+        "prompt": "29. Jakie części mózgu odpowiedzialne są za pamięć operacyjna?", 
         "options": [
             [
                 "a) płaty skroniowe", 
@@ -651,7 +630,7 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "31. Badania wykazał że w eksperckości najwazniejsze jest:", 
+        "prompt": "31. Badania wykazały, że w eksperckości najważniejsze jest:", 
         "options": [
             [
                 "a) ćwiczenie", 
@@ -693,18 +672,18 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "33. Co możemy powiedzieć o dzieciach które na polecenie zapamiętania słow powtarzają je?", 
+        "prompt": "33. Co możemy powiedzieć o dzieciach, które na polecenie zapamiętania słów powtarzają je?", 
         "options": [
             [
-                "a) ze sa upośledzone", 
+                "a) że są upośledzone", 
                 false
             ], 
             [
-                "b) mają rozwiniętą wrażliwosc metapamieciową", 
+                "b) mają rozwiniętą wrażliwość metapamięciową", 
                 true
             ], 
             [
-                "c)maja problem z percepcja", 
+                "c) maja problem z percepcja", 
                 false
             ], 
             [
@@ -714,7 +693,7 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "34. cechy wspólne osób z nadzyczajną pamięcią:", 
+        "prompt": "34. Cechy wspólne osób z nadzwyczajną pamięcią:", 
         "options": [
             [
                 "a) synestezja", 
@@ -735,35 +714,14 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "35. Najszybsze efekty uczenia się osiągane:", 
+        "prompt": "35. Metoda oszczędności jest:", 
         "options": [
             [
-                "a) niezależnie od poziomu aspiracji jednostki", 
+                "a) jedną z metod badania reakcji odroczonych", 
                 false
             ], 
             [
-                "b) przy niskich aspiracjach jednostki", 
-                false
-            ], 
-            [
-                "c) przy umiarkowanych aspiracjach jednostki", 
-                true
-            ], 
-            [
-                "d) przy wysokich aspiacjach jednostki", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "36. Metoda oszczędności jest:", 
-        "options": [
-            [
-                "a) jedną z metod badania rekacji odroczonych", 
-                false
-            ], 
-            [
-                "b) jedną z metod badania proceców warunkowania", 
+                "b) jedną z metod badania procesów warunkowania", 
                 false
             ], 
             [
@@ -771,79 +729,16 @@ export default class Questions { public static QUESTIONS = [
                 true
             ], 
             [
-                "d) metodą pomairu zakresu pamięci bezpośredniej", 
+                "d) metodą pomiaru zakresu pamięci bezpośredniej", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "37. Występowanie uczenia się utajonego:", 
+        "prompt": "36. Podział na pamięć epizodyczną i semantyczna odnosi się do:", 
         "options": [
             [
-                "a) dowodzi uniwersalność prawa efektu", 
-                false
-            ], 
-            [
-                "b) wskazuje na ograniczenia prawa efektu", 
-                true
-            ], 
-            [
-                "c) dowodzi uniwersalności prawa świeżości", 
-                false
-            ], 
-            [
-                "d) wskazuje na ograniczenie prawa świeżości", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "38. kod semantyczny nie występuje:", 
-        "options": [
-            [
-                "a) w pamięci ultrakrótkotrwałej", 
-                true
-            ], 
-            [
-                "b) w pamiecu krótkotrwałej", 
-                false
-            ], 
-            [
-                "c) w zapamietywaniu obrazów", 
-                false
-            ], 
-            [
-                "d) w zapamietywaniu zdarzeń", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "39. amnezja pourazowa odnisi się przede wszystkim do pamięci:", 
-        "options": [
-            [
-                "a) semantycznej", 
-                false
-            ], 
-            [
-                "b) długotrwałej", 
-                true
-            ], 
-            [
-                "c) obrazowej", 
-                false
-            ], 
-            [
-                "d) długotrwałej", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "40. podział na pamięc epizodyczną i semantyczna odnosi sie do:", 
-        "options": [
-            [
-                "a) pamieci długotrwałej ( deklaratywnej)", 
+                "a) pamięci długotrwałej (deklaratywnej)", 
                 true
             ], 
             [
@@ -856,195 +751,6 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "d)", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "41. CZas przechowywania informacji w pamięci ikonicznej jest:", 
-        "options": [
-            [
-                "a) taki sam jak w pamieci echoicznej", 
-                false
-            ], 
-            [
-                "b) dłuższy niz w pamieci echoicznej", 
-                false
-            ], 
-            [
-                "c) krótszy niz w pamiecu echoicznej", 
-                true
-            ], 
-            [
-                "d) niemozliwy do okreslenia", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "42. Zgodnie z teoria ACT Andersona pamięc deklaratywna i proceduralna:", 
-        "options": [
-            [
-                "a) są powiązane poprzez pamięc operacyjną", 
-                true
-            ], 
-            [
-                "b) nie mają powiązań", 
-                false
-            ], 
-            [
-                "c) są powiazane poprzez pamiec krótkotrwala", 
-                false
-            ], 
-            [
-                "d) sa tym samym rodzajem pamieci", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "43. efekt Humphreya odnosi sie do:", 
-        "options": [
-            [
-                "a) następstw nieregularnego wzmocnienia", 
-                true
-            ], 
-            [
-                "b) przebiegu zapominania w czasie", 
-                false
-            ], 
-            [
-                "c) roli informacji o czynnikach", 
-                false
-            ], 
-            [
-                "c) motywacjnwj funkcji nagród i kar", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "44. w rozwoju warunkowania:", 
-        "options": [
-            [
-                "a) związki pierwszosygnałowe wytwarzają się wczesniej niz zwiazki dłygosygnałowe", 
-                true
-            ], 
-            [
-                "b) zwiazki hamulcowe wytwarzają się wczesniej niz zwiazki pobudzeniowe", 
-                false
-            ], 
-            [
-                "c) zwiazku oparte na odruchu orientacyjnym wyttwarzane są wczesniej niz związki oparte na odruchu pokarmowym", 
-                false
-            ], 
-            [
-                "d)", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "45.  cechą wspólną warunkowania klasycznego i instrumentalnego jest:", 
-        "options": [
-            [
-                "a) fakt powstawania nowych reakcji", 
-                false
-            ], 
-            [
-                "b) bezpośrednie kojarzenie bodźca z reakcja", 
-                true
-            ], 
-            [
-                "c) sposob wytwarzania reakcji", 
-                false
-            ], 
-            [
-                "d) twałość zmian w zachowaniu", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "46. w warunkowaniu klasycznym:", 
-        "options": [
-            [
-                "a) występują procesy pośredniczące i wgląd", 
-                false
-            ], 
-            [
-                "b) nie występują procesy posredniczące i wgląd", 
-                true
-            ], 
-            [
-                "c) nie wystepują procesy posredniczące a wglad występuje", 
-                false
-            ], 
-            [
-                "d)", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "47. według koncepcji poziomów przetwarzania Cralka  i Lockharta siła śladu pamięciowego zależy od:", 
-        "options": [
-            [
-                "a) czasu analizy bodźca", 
-                false
-            ], 
-            [
-                "b) cech bodźca", 
-                false
-            ], 
-            [
-                "c) czasu reakcji i analizy bodźca", 
-                false
-            ], 
-            [
-                "d) rodzaju dokonanej analizy bodźca", 
-                true
-            ]
-        ]
-    }, 
-    {
-        "prompt": "48. organizowanie treści w procesie uczenia się wiąże się z następstwami:", 
-        "options": [
-            [
-                "a) nie wywiera zadnego wpływu na efekty pamieciowe", 
-                false
-            ], 
-            [
-                "b) utrudnia zrozumieie materiału", 
-                false
-            ], 
-            [
-                "c) zazwyczaj podwyzsza efekty pamieciowe", 
-                true
-            ], 
-            [
-                "d) stanowi przeszkodę w trwałym pamietaniu", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "49. W rozwoju strategii pamęciowych:", 
-        "options": [
-            [
-                "a) strategia organizowania wyprzedza strategia powtarzania", 
-                false
-            ], 
-            [
-                "b) obserwujemy coraz lepsze dostosowanie strategii do rodzaju zadania pamieciowego", 
-                true
-            ], 
-            [
-                "c) strategie wewnetrzne wyprzedzaja zewnetrzne", 
-                false
-            ], 
-            [
-                "d) poslugiwanie sie strategiami staje sie coraz bardziej niezalezne od rodzaju zadania pamieciowego", 
                 false
             ]
         ]

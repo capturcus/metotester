@@ -1,0 +1,31 @@
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.option {
+    font-size: 14pt;
+    margin-top: 2%;
+}
+
+.option:hover {
+    /* cursor: pointer; */
+}
+
+.header {
+    font-size: 16pt;
+    border: 3px solid black;
+    padding: 20px;
+    display: block;
+}
+
+.options {
+    margin-top: 5%;
+}

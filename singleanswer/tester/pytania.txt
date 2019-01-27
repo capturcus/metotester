@@ -1,18 +1,18 @@
-﻿1. Działania wykonane na materiałach
+﻿1. Działania wykonane na materiałach:
 
-a) są objętne dla uczenia sięx
+a) są obojętne dla uczenia sięx
 b) pogarszają efekty uczenia się
-c) zwiekszają efekty uczenią sie i ukierunkowują proceces uczenia się
+c) zwiększają efekty uczenia się i ukierunkowują procesy uczenia się
 d)
 
-2. Amnzesja pourazowa odnosi się przede wszystkim do pamięci:
+2. Amnezja pourazowa odnosi się przede wszystkim do pamięci:
 
 a) semantycznej
 b) długotrwałejx
 c) obrazowej
 d) krótkotrwałej
 
-3. Włyp nowych doświadczeń na pamiętanie poprzednich nosi nazwę:
+3. Wpływ nowych doświadczeń na pamiętanie poprzednich nosi nazwę:
 
 a) transferu pozytywnego
 b) transferu zasad
@@ -28,171 +28,164 @@ d) w zapamiętywaniu zdarzeń
 
 5. W rozwoju strategii pamięciowych
 
-a) strategie organizowania wyprzedza stratrgia powtarzania
+a) strategie organizowania wyprzedza strategia powtarzania
 b) obserwujemy coraz lepsze doszacowanie strategii do rodzaju zadania pamięciowegox
-c) strategie wewnętrzną wyprzedzają strategie zawiedzenia
-d) posługiwanie się strategiami staje się coraz bardziej niezależna od rodzaju zadania pamieciowego
+c) strategie wewnętrzne wyprzedzają strategie zawiedzenia
+d) posługiwanie się strategiami staje się coraz bardziej niezależne od rodzaju zadania pamięciowego
 
-6. Michał nie zdał egzaminu z fizyki i nie pamięta pytania na które nie odpowiedział. Fakt ten można wyjasnic:
+6. Michał nie zdał egzaminu z fizyki i nie pamięta pytania, na które nie odpowiedział. Fakt ten można wyjaśnić:
 
 a) efektem Zeigarnik
 b) efektem lampy błyskowej
-c) Osłupieniemx
-d) prawem śiweżości
+c) osłupieniemx
+d) prawem świeżości
 
-7.Według koncpepcji poziomów powtarzania Graika i Lockeara siła śladu pamięciowego zalezy od:
+7. Według koncepcji poziomów powtarzania Graika i Lockeara siła śladu pamięciowego zależy od:
 
 a) czasu analizy bodźca
 b) cech bodźca
-c) czasy i rodzaju analizy bodźca
+c) czasu i rodzaju analizy bodźca
 d) rodzaju dokonywanej analizy bodźcax
 
 8. Czas przechowywania informacji w pamięci ikonicznej jest:
 
-a) taki sma jak w pamięci echoicznejx
-b) dłuższy niz w pamieci echoicznej
-c) krótszy niz w pamieci echoicznej
+a) taki sam jak w pamięci echoicznejx
+b) dłuższy niż w pamięci echoicznej
+c) krótszy niż w pamięci echoicznej
 d) niemożliwy do określenia
 
-9. Występowanie uczenia sie utajonego
+9. Występowanie uczenia się utajonego
 
-a) dowodzi iniwersalności prawa efektu
+a) dowodzi uniwersalności prawa efektu
 b) wskazuje na ograniczenia prawa efektux
-c) dowodzi uniwerslaności prawa efektu
-d)wskazuje na ograniczenia prawa świeżości
+c) dowodzi uniwersalności prawa efektu
+d) wskazuje na ograniczenia prawa świeżości
 
-10. nazywanie przedmiotów spostrzeżeń obrazowych jest jednym z przejawów:
+10. Nazywanie przedmiotów spostrzeżeń obrazowych jest jednym z przejawów:
 
-a) dwojakiego charakteru ludzkiej percpecjix
-b) trudności w koncetracji uwagi
+a) dwojakiego charakteru ludzkiej percepcjix
+b) trudności w koncentracji uwagi
 c) patologii pamięci
-d) nadzywajnych zdolności jednostki
+d) nadzwyczajnych zdolności jednostki
 
 11. Zjawisko maskowania wstecznego odnosi się do:
 
 a) pamięci sensorycznej
 b) pamięci ultrakrótkotrwałejx
 c) pamięci krótkotrwałej
-d) pamieci epizodycznej
+d) pamięci epizodycznej
 
 12. Kryterium różnicowania transferu i proakcjii stanowi:
 
 a) siła wpływu wcześniejszego uczenia się na późniejsze
 b) rodzaj kontrolowanego wskaźnikax
-c) kierunek wpływu wcześniejszego uczenia na sie późniejsze
+c) kierunek wpływu wcześniejszego uczenia na się późniejsze
 d) rodzaj materiału wykorzystywanego w badaniu
 
-13. Charakterystyczne dla podaczku zaburzenie pamięci to:
+13. Charakterystyczne dla padaczki zaburzenie pamięci to:
 
 a) amnezja pourazowa
 b) niepamięć wydarzeń z okresu napadux
 c) konfabulacja
 d) zmniejszenie zakresu pamięci bezpośredniej
 
-14. Organizowanie treści w procesie uczenia się wiąze się z nastepstwami:
+14. Organizowanie treści w procesie uczenia się wiąże się z następstwami:
 
-a) nie wywiera żadnego wpływu na efekty pamieciowe
+a) nie wywiera żadnego wpływu na efekty pamięciowe
 b) utrudnia zrozumienie materiału
-c) zazwyczaj podwyzsza efekty pamieciowex
+c) zazwyczaj podwyższa efekty pamięciowex
 d) stanowi przeszkodę w trwałym pamiętaniu
 
 15. W rozwoju warunkowania:
 
 a) związki pierwszosygnałowe wytwarzają się wcześniej niż związki długosygnałowex
 b) związki hamulcowe wytwarzają się wcześniej niż związki pobudzeniowe
-c) związki oparte na odruchu orientacyjnego wytwarzane są wczesniej niz zwiazki oparte na odruchu pokarmowyn
+c) związki oparte na odruchu orientacyjnego wytwarzane są wcześniej niż związki oparte na odruchu pokarmowym
 d)
 
-15. Zgodnie z podejściem asocjacjinistycznym :
+16. Zgodnie z podejściem asocjacjonistycznym:
 
 a) zapamiętywanie ma charakter strategiczny
-b) zapamiętywanie polega na zapamietywaniu elementów
-c) trwałości śladu pamięciowego zależy od powtarzania
-d) prawidłowe ,,b,, i ,,c,,x
+b) zapamiętywanie polega na zapamiętywaniu elementów
+c) trwałość śladu pamięciowego zależy od powtarzania
+d) prawidłowe b i cx
 
-16. Najszbsze efekty uczenia się są osiągane:
+17. Najszybsze efekty uczenia się są osiągane:
 
-a) niezależne od poziomu aspiracji jednostki
+a) niezależnie od poziomu aspiracji jednostki
 b) przy niskich aspiracjach jednostki
 c) przy umiarkowanych aspiracjach jednostkix
 d) przy wysokich aspiracjach jednostki
 
-17. Prawo ćwiczenia informuje nas o tym że:
+18. Prawo ćwiczenia informuje nas o tym, że:
 
-a) człowiek może nauczyń się wszystkiego
+a) człowiek może nauczyć się wszystkiego
 b) dzięki powtarzaniu zmniejsza się prawdopodobieństwo zapomnieniax
 c) dzięki powtarzaniu ulegają osłabieniu ślady pamięciowe
 d) bez powtarzania nie można trwale zapamiętać
 
-18. Hipoteza deficytów mediacyjnych odnosi się do:
+19. Hipoteza deficytów mediacyjnych odnosi się do:
 
 a) rozwoju metapamięci
-b) rozwoju strategii pamieciowychx
+b) rozwoju strategii pamięciowychx
 c) rozwoju kodowania
 d) rozwoju metapamięci i kodowania
 
-19. Zgodnie z teorią ACTJ. R. Andersona pamięć dewlaratywna i proceduralna :
+20. Zgodnie z teorią ACTJ. R. Andersona pamięć deklaratywna i proceduralna:
 
-a) sa powiązane poprzez pamięć operacyjnąx
-b) są tym samym rodzajem pamieci
-c) są powiązane poprzrz pamięc krótkotrwała
+a) są powiązane poprzez pamięć operacyjnąx
+b) są tym samym rodzajem pamięci
+c) są powiązane poprzez pamięć krótkotrwałą
 d) nie mają powiązań
 
-20. Które z podanych niżej jest fałszywe
+21. Które z poniższych twierdzeń jest fałszywe:
 
 a) jeśli po uczeniu się następuje sen, ślady pamięciowe konsolidują się i nie dochodzi do hamowania retroaktywnego
-b) przeuczenie się jest niekorzystne gdyż powoduje hamowanie retroaktywnex
-c) podanie informacji o czynnikach sprzyja  dalszemu uczeniu się
+b) przeuczenie się jest niekorzystne, gdyż powoduje hamowanie retroaktywnex
+c) podanie informacji o czynnikach sprzyja dalszemu uczeniu się
 d) stosowanie wzmocnień pozytywnych jest korzystniejsze niż stosowanie wzmocnień negatywnych
 
-21. W warunkowaniu klasycznym:
+22. W warunkowaniu klasycznym:
 
-a) wystepują procesy posredniczące i wgląd
-b) nie występują procesy posredniczące i wglądx
+a) występują procesy pośredniczące i wgląd
+b) nie występują procesy pośredniczące i wglądx
 c) nie występują procesy pośredniczące i występujące
 d) występują procesy pośredniczące i wgląd nie występuje
 
-22. Efekt Humpgreysa odnosi się do:
+23. Efekt Humpgreysa odnosi się do:
 
 a) następstw nieregularnego wzmocnieniax
 b) przebiegu zapominania w czasie
-c) roli indormacji zwrotnej i czynnikach
+c) roli informacji zwrotnej i czynnikach
 d) motywacyjnej funkcji nagród i kar
 
-23. Która z poniższych twierdzeń jest prawdziwe:
+24. Które z poniższych twierdzeń jest prawdziwe:
 
 a) reminiscencja nie zależy od sposobu powtarzania
 b) reminiscencja jest efektem powtarzania materiału częściami
 c) reminiscencja jest efektem uczenia się rozłożonego w czasiex
-d) reminiscencja występuje przede wszystkim w warunkach uczenia sie skomasowanego
+d) reminiscencja występuje przede wszystkim w warunkach uczenia się skomasowanego
 
-24. Uniemożliwienie powtarzania meteriału:
+25. Uniemożliwienie powtarzania materiału:
 
-a) obniża bezspośrednie efekty pamięciowe
-b) obniza długotrwałe efekty pamieciowe
-c) obniza bezposrednie i długotrwałe efekty pamieciowex
-d) nie obniza efektów pamieciowych
+a) obniża bezpośrednie efekty pamięciowe
+b) obniża długotrwałe efekty pamięciowe
+c) obniża bezpośrednie i długotrwałe efekty pamięciowex
+d) nie obniża efektów pamięciowych
 
-25. Cechą wspólna warunkowania klasycznego i instrumentalnego jest:
+26. Cechą wspólną warunkowania klasycznego i instrumentalnego jest:
 
 a) fakt powstawania nowych reakcjix
 b) bezpośrednie kojarzenie bodźców i reakcji
 c) sposób wytwarzania reakcji
 d) trwałość zmian zachowania
 
-26. Zgodnie z podejściem asocjacjonistcznym :
+27. Nagroda... zachowanie, po którym następuje. Co sprawia kara?
 
-a) zapamietywanie ma charakter strategiczny
-b) zapamietywanie polega na zapamietywaniu elementów
-c) trwałośc sladu pamieciowego zalezy od powtarzania
-d) prawidłowe b i cx
-
-27. Nagroda... zachowanie po którym następuje. Co sprawia kara?
-
-a) osłabia zachowanie po którym następuje
-b) znosi atrakcyjność czynu po którym następuje
-c) hamuje okresowo zachowanie po którym następujex
-d) wzmacnia tendencje do wykonywania zachowania po ktorym następuje
+a) osłabia zachowanie, po którym następuje
+b) znosi atrakcyjność czynu, po którym następuje
+c) hamuje okresowo zachowanie, po którym następujex
+d) wzmacnia tendencje do wykonywania zachowania, po którym następuje
 
 28. Co wykorzystuje się w nauczaniu programowym?
 
@@ -201,7 +194,7 @@ b) warunkowanie instrumentalnex
 c) psychologię postaci
 d)
 
-29. Jakie częsci mózgu odpowiedzialne są za pamięc operacyjna?
+29. Jakie części mózgu odpowiedzialne są za pamięć operacyjna?
 
 a) płaty skroniowe
 b) czołowex
@@ -215,7 +208,7 @@ b) maskowane
 c) niemożliwe do wydobycia
 d)
 
-31. Badania wykazał że w eksperckości najwazniejsze jest:
+31. Badania wykazały, że w eksperckości najważniejsze jest:
 
 a) ćwiczeniex
 b) talent
@@ -229,121 +222,30 @@ b) hipokampx
 c) podwzgórze
 d)
 
-33. Co możemy powiedzieć o dzieciach które na polecenie zapamiętania słow powtarzają je?
+33. Co możemy powiedzieć o dzieciach, które na polecenie zapamiętania słów powtarzają je?
 
-a) ze sa upośledzone
-b) mają rozwiniętą wrażliwosc metapamieciowąx
-c)maja problem z percepcja
+a) że są upośledzone
+b) mają rozwiniętą wrażliwość metapamięciowąx
+c) maja problem z percepcja
 d)
 
-34. cechy wspólne osób z nadzyczajną pamięcią:
+34. Cechy wspólne osób z nadzwyczajną pamięcią:
 
 a) synestezjax
 b) poziom inteligencji
 c) brak wspólnych cech
 d)
 
-35. Najszybsze efekty uczenia się osiągane:
+35. Metoda oszczędności jest:
 
-a) niezależnie od poziomu aspiracji jednostki
-b) przy niskich aspiracjach jednostki
-c) przy umiarkowanych aspiracjach jednostkix
-d) przy wysokich aspiacjach jednostki
-
-36. Metoda oszczędności jest:
-
-a) jedną z metod badania rekacji odroczonych
-b) jedną z metod badania proceców warunkowania
+a) jedną z metod badania reakcji odroczonych
+b) jedną z metod badania procesów warunkowania
 c) bardzo czułą metodą pomiaru efektów uczenia sięx
-d) metodą pomairu zakresu pamięci bezpośredniej
+d) metodą pomiaru zakresu pamięci bezpośredniej
 
-37. Występowanie uczenia się utajonego:
+36. Podział na pamięć epizodyczną i semantyczna odnosi się do:
 
-a) dowodzi uniwersalność prawa efektu
-b) wskazuje na ograniczenia prawa efektux
-c) dowodzi uniwersalności prawa świeżości
-d) wskazuje na ograniczenie prawa świeżości
-
-38. kod semantyczny nie występuje:
-
-a) w pamięci ultrakrótkotrwałejx
-b) w pamiecu krótkotrwałej
-c) w zapamietywaniu obrazów
-d) w zapamietywaniu zdarzeń
-
-39. amnezja pourazowa odnisi się przede wszystkim do pamięci:
-
-a) semantycznej
-b) długotrwałejx
-c) obrazowej
-d) długotrwałej
-
-40. podział na pamięc epizodyczną i semantyczna odnosi sie do:
-
-a) pamieci długotrwałej ( deklaratywnej)x
+a) pamięci długotrwałej (deklaratywnej)x
 b) operacyjnej
 c) obrazkowej
 d)
-
-41. CZas przechowywania informacji w pamięci ikonicznej jest:
-
-a) taki sam jak w pamieci echoicznej
-b) dłuższy niz w pamieci echoicznej
-c) krótszy niz w pamiecu echoicznejx
-d) niemozliwy do okreslenia
-
-42. Zgodnie z teoria ACT Andersona pamięc deklaratywna i proceduralna:
-
-a) są powiązane poprzez pamięc operacyjnąx
-b) nie mają powiązań
-c) są powiazane poprzez pamiec krótkotrwala
-d) sa tym samym rodzajem pamieci
-
-43. efekt Humphreya odnosi sie do:
-
-a) następstw nieregularnego wzmocnieniax
-b) przebiegu zapominania w czasie
-c) roli informacji o czynnikach
-c) motywacjnwj funkcji nagród i kar
-
-44. w rozwoju warunkowania:
-
-a) związki pierwszosygnałowe wytwarzają się wczesniej niz zwiazki dłygosygnałowex
-b) zwiazki hamulcowe wytwarzają się wczesniej niz zwiazki pobudzeniowe
-c) zwiazku oparte na odruchu orientacyjnym wyttwarzane są wczesniej niz związki oparte na odruchu pokarmowym
-d)
-
-45.  cechą wspólną warunkowania klasycznego i instrumentalnego jest:
-
-a) fakt powstawania nowych reakcji
-b) bezpośrednie kojarzenie bodźca z reakcjax
-c) sposob wytwarzania reakcji
-d) twałość zmian w zachowaniu
-
-46. w warunkowaniu klasycznym:
-
-a) występują procesy pośredniczące i wgląd
-b) nie występują procesy posredniczące i wglądx
-c) nie wystepują procesy posredniczące a wglad występuje
-d)
-
-47. według koncepcji poziomów przetwarzania Cralka  i Lockharta siła śladu pamięciowego zależy od:
-
-a) czasu analizy bodźca
-b) cech bodźca
-c) czasu reakcji i analizy bodźca
-d) rodzaju dokonanej analizy bodźcax
-
-48. organizowanie treści w procesie uczenia się wiąże się z następstwami:
-
-a) nie wywiera zadnego wpływu na efekty pamieciowe
-b) utrudnia zrozumieie materiału
-c) zazwyczaj podwyzsza efekty pamieciowex
-d) stanowi przeszkodę w trwałym pamietaniu
-
-49. W rozwoju strategii pamęciowych:
-
-a) strategia organizowania wyprzedza strategia powtarzania
-b) obserwujemy coraz lepsze dostosowanie strategii do rodzaju zadania pamieciowegox
-c) strategie wewnetrzne wyprzedzaja zewnetrzne
-d) poslugiwanie sie strategiami staje sie coraz bardziej niezalezne od rodzaju zadania pamieciowego
