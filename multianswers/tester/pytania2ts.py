@@ -10,7 +10,7 @@ questions = []
 LINE = 80
 
 def jsonClean(text):
-    return text.replace("\"", "\\\"")
+    return text.replace("\"", "\\\"").strip()
 
 def breakPrompt(text):
     words = text.split(" ")
@@ -35,14 +35,14 @@ with io.open("pytania.txt", "r", encoding="utf-8") as f:
         line += 1
         if content[line].strip() != "":
             print "line " + str(line) + " should be empty"
-            sys.exit(0)
+            sys.exit(1)
         line += 1
         options = []
         trueAnswers = 0
         while content[line].strip() != "":
             try:
                 cleanLine = jsonClean(content[line])
-                if content[line][-1] == "x":
+                if content[line].strip()[-1] == "x":
                     options.append((cleanLine[:-1], True))
                     trueAnswers += 1
                 else:
@@ -54,11 +54,11 @@ with io.open("pytania.txt", "r", encoding="utf-8") as f:
         """
         if trueAnswers == 0:
             print "line " + str(line) + ": no correct answers"
-            sys.exit(0)
+            sys.exit(1)
         """
         if line < len(content) and content[line].strip() != "":
             print "line " + str(line) + " should be empty"
-            sys.exit(0)
+            sys.exit(1)
         line += 1  # skip ---
         questions.append({
             "prompt": questionPrompt,

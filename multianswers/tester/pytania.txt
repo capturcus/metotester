@@ -1,65 +1,65 @@
-﻿33. Czy po roku od poważnego wupadku możemy wrócić do wyjściowego poziomu szczęścia?
+33. Czy po roku od poważnego wupadku możemy wrócić do wyjściowego poziomu szczęścia?
 
-a. Tak, pod warunkiem braku problemów psychicznych x
-b. Tak, badania wykazują, że ludzie z reguły w rok po wypadku są bardziej szczęśliwi niż w okresie przed wypadkiem
+a. Tak, pod warunkiem braku problemów psychicznych
+b. Tak, badania wykazują, że ludzie z reguły w rok po wypadku są bardziej szczęśliwi niż w okresie przed wypadkiemx
 c. Nie, trauma wypadku powoduje, że u większości ludzi obniżone poczucie zadowolenia z życia utrzymuje się przez około 7 lat
 d. Nie, ponieważ trauma związana z wypadkiem trwale obniża satysfakcję z życia
 
 34. Jakie doświadczenia emocjonalne możemy odnaleźć w postulowanej przez Damasio protojaźni?
 
 a. Miłość i nienawiść
-b. Ból i przyjemność x
+b. Ból i przyjemnośćx
 c. Radość i smutek
 d. W protojaźni nie ma miejsca na emocje
 
 35. Które z poniższych mechanizmów lub struktur mogą wywołać empatię emocjonalną?
 
 a. Wyuczona niechęć do innych ludzi
-b. Wrodzona, niespecyficzna wrażliwość na sygnały podniecenia x
-c. Neurony lustrzane x
+b. Wrodzona, niespecyficzna wrażliwość na sygnały podnieceniax
+c. Neurony lustrzanex
 d. Twór siatkowaty w oku
 
 36. Prawa Yerkesa-Dodsona opisują zależność:
 
-a. Pomiędzy poziomem wykonania a stresem x
-b. Pomiędzy pobudzeniem organizmu a poziomem wykonania zadań x
+a. Pomiędzy poziomem wykonania a stresemx
+b. Pomiędzy pobudzeniem organizmu a poziomem wykonania zadańx
 c. Której nie da się zmierzyć w testach empirycznych
-d. Która ma charakter krzywoliniowy x
+d. Która ma charakter krzywoliniowyx
 
 37. Wg McLeana mózg składa się z 3 części stanowiących kolejne zdobycze ewolucyjne (wskaż prawdziwe):
 
-a. Najstarszy (mózg gadzi) zapewnia zabezpieczanie w pożywienie oraz możliwość wyrażania i odczuwania emocji x
-b. Średni wiekiem ewolucyjnym (mózg neossaków) zapewnia pojawienie się emocji oraz pogłębienie relacji matka-dziecko x
+a. Najstarszy (mózg gadzi) zapewnia zabezpieczanie w pożywienie oraz możliwość wyrażania i odczuwania emocjix
+b. Średni wiekiem ewolucyjnym (mózg neossaków) zapewnia pojawienie się emocji oraz pogłębienie relacji matka-dziecko 
 c. Najstarszy (mózg gadzi) zapewnia porozumiewanie się o charakterze werbalnym oraz emocje - efekt pobudzenia struktur werbalnych
 d. Średni wiekiem ewolucyjnym mózg paleossaków zapewnia porozumiewanie się o charakterze werbalnym oraz emocje - efkt pobudzenia struktur werbalnych
 
 38. Phineas Gage doznał w czasie pracy na kolei uszczerbku na zdrowiu polegającego na utracie mózgu. Po wypadku zaszły zmiany w jego zachowaniu polegające na:
 
-a. Utracie zdolności kontroli własnych działaś x
+a. Utracie zdolności kontroli własnych działaśx
 b. Utracie zdolności wykonywania działań matematycznych w pamięci i odliczania wspak
 c. Polepszeniu sprawności zapamiętywania informacji związanych z koleją
-d. Posługiwaniu się szpetnym językiem *przeklinanie* x
+d. Posługiwaniu się szpetnym językiem *przeklinanie*x
 
 39. Według Ekmana do emocji podstawowych zaliczamy:
 
-a. Złość i Wstręt x
+a. Złość i Wstrętx
 b. Zachwyt i Nostalgię
 c. Szczęście i Spełnienie
-d. Strach i Radość x
+d. Strach i Radośćx
 
 40. Kora mózgowa modyfikuje reakcje ciała migdałowatego
 
-a. Poprzez jedno połączenie neuronalne określane jako droga górna x
+a. Poprzez jedno połączenie neuronalne określane jako droga górna 
 b. Kora mózgowa nie modyfikuje reakcji ciała migdałowatego, natomiast ciało migdałowate modyfikuje funkcjonowanie kory
-c. Poprzez kilka połączeń neuronalnych przenoszących kolejne sygnały modyfikujące reakcje ciała migdałowatego
+c. Poprzez kilka połączeń neuronalnych przenoszących kolejne sygnały modyfikujące reakcje ciała migdałowategox
 d. Poprzez połączenia, które przebiegają przez wzgórze
 
 41. Według Zajonca jeśli mówimy o drogach powstawania emocji, to możemy mieć na myśli następujące sekwencje:
 
-a. Proces motoryczny - reakcja emocjonalna - identyfikacja cech x
-b. Proces sensoryczny - reakcja emocjonalna - rozpoznanie - identyfikacja cech
-c. Proces sensoryczny - identyfikacja cech - rozpoznanie - reakcja emocjonalna
-d. Proces sensoryczny - myślenie - identyfikacja cech - reakcja emocjonalna x
+a. Proces motoryczny - reakcja emocjonalna - identyfikacja cech
+b. Proces sensoryczny - reakcja emocjonalna - rozpoznanie - identyfikacja cechx
+c. Proces sensoryczny - identyfikacja cech - rozpoznanie - reakcja emocjonalnax
+d. Proces sensoryczny - myślenie - identyfikacja cech - reakcja emocjonalna
 
 42. Co odróżnia potrzeby typu "B" od potrzeb typu "D":
 
@@ -71,228 +71,11 @@ d. Potrzeby typu "D" w odróżnieniu od potrzeb typu "B" pojawiają się w trakc
 43. Do cech afektu pierwotnego zaliczamy:
 
 a. Specyficzność wartościowania
-b. Wysoką pewność własnych sądów x
-c. Trudność w werbalizacji x
-d. Wrażliwość na drobne różnice x
+b. Wysoką pewność własnychsądówx
+c. Trudność w werbalizacjix
+d. Wrażliwość na drobne różnice x1.
 
-1. Wskaż dane prawdziwe w odniesieniu do heterostatycznego mechanizmu motywacyjnego:
-
-a) Mechanizm ten powoduje wzrost apetytu na przyjemność wraz z jej doznawaniemx
-b) Mechanizm ten ma zadany punkt utrzymania, do którego dąży podwyższając lub obniżając wartość konkretnego parametru życiowego.
-c) Mechanizm ten występuje tylko u ludzi i naczelnychx
-d) Mechanizm ten oparty jest o wewnętrzne standardy wartościowania.
-
-2. Według starożytnych mądrości, gdzie powinien zabrać na randkę swoją potencjalną partnerkę Rzymianin, po to, żeby zmaksymalizować prawdopodobieństwo, że ona się w nim zakocha?
-
-a) Do świątyni
-b) Do łaźni
-c) Na walki gladiatorów z dzikimi zwierzętamix
-d) Na spacer w świetle księżyca
-
-3. Badani, w eksperymentach Zajonca dotyczących samego efektu ekspozycji, oglądali i oceniali:
-
-a) Zdjęcia twarzy neutralnych
-b) Zdjęcia twarzy wyrażających emocje
-c) Znaki w postaci ideogramów z dalekowschodniego alfabetux
-d) Znaki graficzne przypominające znaki drogowe
-
-4. Według modelu Bowera:
-
-a) Nastrój wpływa na pamięć tylko u osób chorych na depresjęx.
-b) Pozytywne informacje lepiej zapamiętujemy będąc w pozytywnym nastroju.
-c) Pozytywne informacje lepiej zapamiętujemy będąc pod wpływem stresu.
-d) Możemy mówić o zjawisku pamięci zależnej od nastrojux
-
-5. Według teorii atrybucyjnej emocje mają charakter:
-
-a) Preatrybucyjny
-b) Prebehawioralnyx
-c) Postatrybucyjny
-d) Postbehawioralnyx
-
-6. Podstawowy temat relacyjny w koncepcji Lazarusa:
-
-a) Stanowi konsekwencję pojawienia się konkretnej emocji
-b) Jest sekwencją ocen poznawczych prowadzących do konkretnej emocjix
-c) Jest jeden dla wszystkich emocji
-d) Różne sytuacje mogą wiązać się z tym samym tematem relacyjnymx
-
-7. Na ocenę poznawczą składają się wg. Lazarusa:
-
-a) Ocena pierwotnax
-b) Wartościowanie holistycznex
-c) Ocena wtórnax
-d) Zgodność ze standardem wartościowania
-
-8. Jak długo rozwija się złożoność emocjonalnych i uczuciowych doświadczeń ludzi?
-
-a) Przez całe życie możemy nabywać nowe doświadczenia emocjonalne i uczuciowex
-b) Do 25 roku życia
-c) Do 3 roku życia
-d) Do 1 roku życia
-
-9. Wg. Damasio składowymi świadomości prowadzącymi do jej wyłaniania się z procesów neuronalnych są:
-
-a) Jaźń metapoznawcza
-b) Jaźń rdzennax
-c) Protojaźńx
-d) Jaźń autobiograficznax
-
-10. Pobudzenie fizjologiczne towarzyszące silnym emocjom:
-
-a) Wywołuje pozytywny afekt
-b) Prowadzi do zawężenia pola uwagix
-c) Prowadzi do poszerzenia pola uwagi
-d) Zapewnia lepsze pamiętanie elementów znajdujących się w centrum pola percepcyjnegox
-
-11. Według modelu faz związku Wojciszke:
-
-a) Zaangażowanie jest najdłużej obecnym składnikiem związku trwającym aż do jego formalnego końca
-b) Namiętność jest składnikiem miłości trwającym aż do końca związku
-c) Intymność jest składnikiem po części emocjonalnym, po części uczuciowymx
-d) W związku pustym nie ma intymności, jest jedynie namiętność
-
-12. Teorie oceny poznawczej:
-
-a) Podkreślają rolę mechanizmów intelektualnych w reagowaniu emocjonalnymx
-b) Wyjaśniają dlaczego emocje mogą zależeć od kultury, w jakiej żyjemyx
-c) Postulują, że emocje danego rzędu mogą się ze sobą mieszać i tworzyć emocje wyższego rzędu
-d) Podkreślają, że intelekt nie zapewnia plastyczności i różnorodności emocji
-
-14. Motywacja człowieka do osiągnięcia równowagi poznawczej jest
-
-a) oparta o mechanizmy homeostatycznex
-b) nie zburza innych czynności realizowanych przez podmiotx
-c) zwykle prowadzi do redukcji rozbierznościx
-d) oparta o mechanizmy heterostatyczne
-
-15. Wg wzoru na motywacje (Hull) zależy ona od
-
-a) iloczynu popędu i nawykux
-b) sumy popędu i nawyku
-c) sumy wzmocnienia i nawyku
-d) iloczynu wzmocnienia i nawyku
-
-16. Paradygmat afektywnego poprzedzania wprowadzonydo praktyki badawczej i opisany przez Murphy i Zająca polegał na:
-
-a) prezentowanym osobom badanym przez bardzo krótki czas 4ms fotografii ludzi przeżywających odrazę, wstręt i smutek mających wprowadzać ich w określony stan wpływającyna ocenę boćców związanych z rozpoznawaniem emocji
-b) prezentowaniu osobom badanym przez bardzo krótki czas 4ms fotografii twarzy z wyraźną ekspresją emocji mających wprowadzić ich w określony stan wpływającyna ocenę boćców neutralnych w postaci chińskich ideogramówx
-c) prezentowaniu osobom badanym przez bardzo krótki czas 16ms słów mających wprowadzić ich w określony stan wpływający na ocenę bodźców neutralnych w postaci chińskich heksagramów
-d) prezentowaniu osobom badanym przez bardzo krótki czas 50ms słów mających wprowadzić ich w określony stan wpływający na ocenę bodźców neutralnych w postaci chińskich ideogramów
-
-17. W wojnie w Korei zaobserwowano, że wielu amerykańskich żołnierzy przetrzymywanych obozach w obozach jenieckich stawało się wrogami Ameryki. Działo się tak ponieważ:
-
-a) zabijano jeńców, którzy nie chcieli zmienić swoich poglądów
-b) podsuwano jeńcom deklaracje lojalnościowe, do których podpisu ich zmuszano i wysyłano je do USA za pośrednictwem ZSRR
-c) podsuwano jeńcom deklaracje lojalnościowe, które mogli podpisać lub nie po czym upubliczniano w obozie listy tych którzy nie podpisali
-d) wzbudzono w nich dystans poznawczyx 
-
-18. Definicja emocji sformuowana przez Nico frijda zawiera następujące elementy 
-
-a) wartościowaniex 
-b) uruchomienie gotowości do działaniax
-c) zmiany fizjologiczne
-d) odczuwanie subiektywnego stanux
-
-19. Badanie nad centralnością kompetencji komputerowych pokazało że
-
-a) ludzie nie zmieniają swojego zdania na temat w zależnościod swoich sukcesów, porażek na tym polu
-b) sukcesy na kursie komputerowymnasilają uznawanie tych kompetencji za centralnex
-c) samoocena bazuje na heterostatycznym mechaniźmie regulacjix
-d) mechanizmem budowania samooceny może być zmiana postrzegania konkretnej dziedziny jako ważnej/nieważnejx
-
-20. Standardy normatywne wg. Reykowskiego 
-
-a) są to standardy ewaluatywne o charakterze absolutnym i uniwersalnym (tzw. prencypi... coś tam)x 
-b) wywodzą sie z ustabilizowanych wspólnych dla społeczności normxx
-c) działają na zasadzie konformizmu- dobre jest to co jest zgodne z opinią lub wzoremx
-d) to wzorce ewaluatywne sprawiające że pozytywnie oceniane jest to co organizmowi sprzyja a negatywne to co szkodzi
-
-21. badania Josepha LeDoux nad warunkowaniem strachu
-
-a) dotyczyły warunkowania unikania bodźca awersyjnego u szczurówx
-b) dotyczyły uczenia ludzi o wysokim poziomie lęku reakcji warunkowej polegającej na zamykaniu powieki na dźwięk dzwonka zapowiadającego delikatny podmóch powietrza na powierzchnie gałki ocznej
-c) w wyniku uszkodzenia ciała migdałowatego szczury utraciły zdolność do nabywania reakcji warunkowej
-d) pokazały że lezja wzgórza nie upośledza zdolności szczurów do do warunkowaniax
-
-22. Jakie były konsekwencje pozytywnego afektu dla rozwiązania zadania wglądowego typu ,,problemu świecy,, ?
-
-a) pozytywny afekt skutkował zmniejszeniem ilości poprawnych odpowiedzi 
-b) pozytywny afekt skutkował zwiększeniem ilości poprawnych odpowiedzix
-c) poprawność wykonania w warunkach ze wzbudzonym pozytywnym afektem była porównywalna do warunków z zastosowaniem ułatwiającej ekspozycji zadaniax
-d) pozytywny afekt nie zmienił ilości poprawnych odpowiedzi a jedynie skrócił czas w jakim były one udzielane 
-
-23. behawiorystyczna koncepcja motywacji
-
-a) wyjasnia zachowania, odnocząc je do potrzeb
-b) jest oparta na badaniach empirycznychx
-c) czesto pozwala na opis zachowań w kategoriach matematycznych, za pomoca wzrówx
-d) kładzie nacisk na odnawialna egergię psychiczna , ktora jest zródlem zachowania
-
-24. biorąc pod uwagę trudnosc zachowania i atrakcyjnosc powodzenia, w jakich sytuacjach ludzie z najwiekszym prawdopopodobienstwem zdecyduja sie na podjecie wyzwania dajacego szansę na odniesieniu sukcesu?
-
-a) gdy zadanie jest proste istnieje duze prawdpodobienstwo sukcesu
-b) gdy zadanie jest skrajnie trudne i atrakcyjność powodzenia jest najwyzsza
-c) gdy zadanie jest umiarkowanie trudne co za tym idzie istnieja realne szanse na sukces
-d) kiedy atrakcyjnosc powodzenia jest we wzglednej rownowadze z trudnoscia zadaniax
-
-25. strategię przedziałową w przypadku stawiania celów charakteryzuje
-
-a) duza sztywnosc w realizacji celu
-b) mniejsza waga przykładania do szczegółow celux
-c) duza giętkość w realizacji celux
-d) łatwe rozpoczynanie i kończenie  aktywnosci i koncepcja eskspresywnego sprzężenia zwrotnego
-
-26. koncepcja ekspresywnego sprzęzenia zwrotnego
-
-a) dotyczy zmian w pracy ekspresywnej mimicznych mięśni twarzy i mięsni szkieletowych
-b) wyjaśnia dlaczego z dużą łatwościa rozumiemy wyrazy mimiczne innych ludzix
-c) dotyczy uwaznego sledzenia tego co dzieje sie z naszym celem
-d) nie znajduje zastosowania w sytuacjach interpersoalnych
-
-27. model iluzji afektu:
-
-a) wskazuje ze afekt w najwiekszym stopniu wpłynie na heurystyczne procesy poznawczex
-b) wyjaśnia dlaczego w pewnych sytuacjach emocje wpływają na nasze decyzje a w inncyh niex
-c) wskazuje ze afekt w najwiekszym stopniu wpłynie na analityczne procesy poznwczex
-d) sugeruje ze przy przetwarzaniu zmotywowanym  nie nastapi wpływ emocji na procesy poznawcze
-
-28. Implementacja intencji to proces:
-
-a) polegający na tworzeniu skojarzeń pomiędzy stanem obecnym a celemx
-b) będącym narzędziem pomocnym w wygenerwoaniu celów o charakterze punktowym
-c) przygotowujący na wystąpienie pewnych momentów krytycznych w realizacji zachowania
-d) będący formą wolicjonalnej kontroli motywacji
-
-29. Emocje o genezie refleksyjnej to:
-
-a) stany umysłu będące reakcją na otaczający świat
-b) emocje bazujące na standardach wartościowania 
-c) grupy emocji, w której skład wchodzą emocje homeostatyczne i hedonistyczne
-d) rodzaj emocji który możemy zaklasyfikować do kategorii uczuć 
-
-30. Miłość romantyczna to zjawisko afektywne,  w którym
-
-a) mamy do czynienia ze złożoną dynamiką stanów o charakterze emocjoalnym i uczuciowymx 
-b) możemy wyróżnić fazę będącą przejawem działania procesów poznawyczych nazywaną stanem zakochania
-c) możemy wyróżnić fazę będacą przejawem bezpośreniej reakcji na obiekt miłości nazywaną stanem zakochaniax
-d) dominuje intymność odpowiedzialna za afektywną reakcję na osobę w stosunku do której czujemy miłość
-
-31. Przemieszczanie to
-
-a) utożsamianie się z inną osobą
-b) mechanizm obronny ego służący poradzeniu sobie z sytuacjami wywołującymi negatywne emocjex
-c) rozładowanie stłumionej złości i frustracji na obiektach niezagrażającychx
-d) rozładowanie niezaspokojonych pragnień seksualnych przez zastępczą aktywność o charakterze nieseksualnym
-
-32. W jaki spośób możemy w badaniach naukowych manipulować stanem emocjonalnym osób badanych
-
-a) pokazując listy słów lub zdań nasyconych emocjonalniex
-b) prosząc o przybranie o przybranie określonego wyrazu twarzyx 
-c) prosząc o przypomnienie sobie pewnych wydarzeń z ich własnego życiax
-d) pokazując elektrycznie korę mózgową w tzw. obszarach układu nagrody
-
-1.Co odróżnia potrzeby typu B od potrzeb typu D?
+Co odróżnia potrzeby typu B od potrzeb typu D?
 
 a) Potrzeby typu D w odróżnieniu od potrzeb typu B oparte są o regulację homeostatycznąx
 b) Potrzeby typu B w odróżnieniu od potrzeb typu D pojawiają się w trakcie rozwoju pózniej i nie u wszystkich ludzix
@@ -338,7 +121,7 @@ d) wszystkie odpowiedzi są prawidłe
 
 a) program działania przed wystąpieniem pożądanego stanux
 b) wynik wzbudzenia potrzeby dominacji
-c) aktywność ukierunkowana na perspektywę zdobycia czegoś dla siebie w przyszłości
+c) aktywność ukierunkowana na perspektywę zdobycia czegoś dla siebie w przyszłościx
 d) proces wymagający antycypacjix
 e) żadne ze stwierdzen nie jest prawdziwe
  
@@ -670,7 +453,7 @@ a)     Tylko ludzi
 b)     Ludzi i zwierzątx
 c)     Tylko zwierząt
 d)     Tylko dzieci
-
+ 
 51. Badania nad skutecznością reklamy przeprowadzone przez firmę neuroidea dotyczące znaczenia mikroekspresji pokazały  że:
 
 a) Mikroekspresja emocji obserwatora wpływa na odbiór komunikatu reklamowego i jego skutecznośćx
@@ -725,4 +508,228 @@ a) niezależnością poznania i emocji
 b) zależnością poznania i emocji
 c) pierwotnością zjawisk afektywnych względem poznaniax
 d) pierwotności poznania względem zjawisk afektywnych
+
+1. Wskaż dane prawdziwe w odniesieniu do heterostatycznego mechanizmu motywacyjnego:
+
+a) Mechanizm ten powoduje wzrost apetytu na przyjemność wraz z jej doznawaniemx
+b) Mechanizm ten ma zadany punkt utrzymania, do którego dąży podwyższając lub obniżając wartość konkretnego parametru życiowego.
+c) Mechanizm ten występuje tylko u ludzi i naczelnychx
+d) Mechanizm ten oparty jest o wewnętrzne standardy wartościowaniax
+
+2. Według starożytnych mądrości, gdzie powinien zabrać na randkę swoją potencjalną partnerkę Rzymianin, po to, żeby zmaksymalizować prawdopodobieństwo, że ona się w nim zakocha?
+
+a) Do świątyni
+b) Do łaźni
+c) Na walki gladiatorów z dzikimi zwierzętamix
+d) Na spacer w świetle księżyca
+
+3. Badani, w eksperymentach Zajonca dotyczących samego efektu ekspozycji, oglądali i oceniali:
+
+a) Zdjęcia twarzy neutralnych
+b) Zdjęcia twarzy wyrażających emocje
+c) Znaki w postaci ideogramów z dalekowschodniego alfabetux
+d) Znaki graficzne przypominające znaki drogowe
+
+4. Według modelu Bowera:
+
+a) Nastrój wpływa na pamięć tylko u osób chorych na depresjęx
+b) Pozytywne informacje lepiej zapamiętujemy będąc w pozytywnym nastrojux
+c) Pozytywne informacje lepiej zapamiętujemy będąc pod wpływem stresu.
+d) Możemy mówić o zjawisku pamięci zależnej od nastrojux
+
+5. Według teorii atrybucyjnej emocje mają charakter:
+
+a) Preatrybucyjny
+b) Prebehawioralnyx
+c) Postatrybucyjnyx
+d) Postbehawioralny
+
+6. Podstawowy temat relacyjny w koncepcji Lazarusa:
+
+a) Stanowi konsekwencję pojawienia się konkretnej emocji
+b) Jest sekwencją ocen poznawczych prowadzących do konkretnej emocjix
+c) Jest jeden dla wszystkich emocji
+d) Różne sytuacje mogą wiązać się z tym samym tematem relacyjnymx
+
+7. Na ocenę poznawczą składają się wg. Lazarusa:
+
+a) Ocena pierwotnax
+b) Wartościowanie holistyczne
+c) Ocena wtórnax
+d) Zgodność ze standardem wartościowania
+
+8. Jak długo rozwija się złożoność emocjonalnych i uczuciowych doświadczeń ludzi?
+
+a) Przez całe życie możemy nabywać nowe doświadczenia emocjonalne i uczuciowex
+b) Do 25 roku życia
+c) Do 3 roku życia
+d) Do 1 roku życia
+
+9. Wg. Damasio składowymi świadomości prowadzącymi do jej wyłaniania się z procesów neuronalnych są:
+
+a) Jaźń metapoznawcza
+b) Jaźń rdzennax
+c) Protojaźńx
+d) Jaźń autobiograficznax
+
+10. Pobudzenie fizjologiczne towarzyszące silnym emocjom:
+
+a) Wywołuje pozytywny afekt
+b) Prowadzi do zawężenia pola uwagix
+c) Prowadzi do poszerzenia pola uwagi
+d) Zapewnia lepsze pamiętanie elementów znajdujących się w centrum pola percepcyjnegox
+
+11. Według modelu faz związku Wojciszke:
+
+a) Zaangażowanie jest najdłużej obecnym składnikiem związku trwającym aż do jego formalnego końcax
+b) Namiętność jest składnikiem miłości trwającym aż do końca związku
+c) Intymność jest składnikiem po części emocjonalnym, po części uczuciowymx
+d) W związku pustym nie ma intymności, jest jedynie namiętność
+
+12. Teorie oceny poznawczej:
+
+a) Podkreślają rolę mechanizmów intelektualnych w reagowaniu emocjonalnymx
+b) Wyjaśniają dlaczego emocje mogą zależeć od kultury, w jakiej żyjemyx
+c) Postulują, że emocje danego rzędu mogą się ze sobą mieszać i tworzyć emocje wyższego rzędu
+d) Podkreślają, że intelekt nie zapewnia plastyczności i różnorodności emocji
+
+13.Mechanizm motywacyjny odpowiada zaregulację 
+
+a) Samoocenyx
+b) potrzeby nowościx
+c) ekploracjix
+d) potrzeby bezpieczeństwax
+
+14. Motywacja człowieka do osiągnięcia równowagi poznawczej jest
+
+a) oparta o mechanizmy homeostatycznex
+b) nie zburza innych czynności realizowanych przez podmiot
+c) zwykle prowadzi do redukcji rozbierznościx
+d) oparta o mechanizmy heterostatyczne
+
+15. Wg wzoru na motywacje (Hull) zależy ona od
+
+a) iloczynu popędu i nawykux
+b) sumy popędu i nawyku
+c) sumy wzmocnienia i nawyku
+d) iloczynu wzmocnienia i nawyku
+
+16. Paradygmat afektywnego poprzedzania wprowadzonydo praktyki badawczej i opisany przez Murphy i Zająca polegał na:
+
+a) prezentowanym osobom badanym przez bardzo krótki czas 4ms fotografii ludzi przeżywających odrazę, wstręt i smutek mających wprowadzać ich w określony stan wpływającyna ocenę boćców związanych z rozpoznawaniem emocji
+b) prezentowaniu osobom badanym przez bardzo krótki czas 4ms fotografii twarzy z wyraźną ekspresją emocji mających wprowadzić ich w określony stan wpływającyna ocenę boćców neutralnych w postaci chińskich ideogramówx
+c) prezentowaniu osobom badanym przez bardzo krótki czas 16ms słów mających wprowadzić ich w określony stan wpływający na ocenę bodźców neutralnych w postaci chińskich heksagramów
+d) prezentowaniu osobom badanym przez bardzo krótki czas 50ms słów mających wprowadzić ich w określony stan wpływający na ocenę bodźców neutralnych w postaci chińskich ideogramów
+
+17. W wojnie w Korei zaobserwowano, że wielu amerykańskich żołnierzy przetrzymywanych obozach w obozach jenieckich stawało się wrogami Ameryki. Działo się tak ponieważ:
+
+a) zabijano jeńców, którzy nie chcieli zmienić swoich poglądów
+b) podsuwano jeńcom deklaracje lojalnościowe, do których podpisu ich zmuszano i wysyłano je do USA za pośrednictwem ZSRR
+c) podsuwano jeńcom deklaracje lojalnościowe, które mogli podpisać lub nie po czym upubliczniano w obozie listy tych którzy nie podpisali
+d) wzbudzono w nich dystans poznawczyx 
+
+18. Definicja emocji sformuowana przez Nico frijda zawiera następujące elementy 
+
+a) wartościowaniex 
+b) uruchomienie gotowości do działaniax
+c) zmiany fizjologiczne
+d) odczuwanie subiektywnego stanux
+
+19. Badanie nad centralnością kompetencji komputerowych pokazało że
+
+a) ludzie nie zmieniają swojego zdania na temat w zależnościod swoich sukcesów, porażek na tym polu
+b) sukcesy na kursie komputerowymnasilają uznawanie tych kompetencji za centralnex
+c) samoocena bazuje na heterostatycznym mechaniźmie regulacji
+d) mechanizmem budowania samooceny może być zmiana postrzegania konkretnej dziedziny jako ważnej/nieważnejx
+
+20. Standardy normatywne wg. Reykowskiego 
+
+a) są to standardy ewaluatywne o charakterze absolutnym i uniwersalnym (tzw. prencypi... coś tam)x 
+b) wywodzą sie z ustabilizowanych wspólnych dla społeczności normx
+c) działają na zasadzie konformizmu- dobre jest to co jest zgodne z opinią lub wzoremx
+d) to wzorce ewaluatywne sprawiające że pozytywnie oceniane jest to co organizmowi sprzyja a negatywne to co szkodzi
+
+21. badania Josepha LeDoux nad warunkowaniem strachu
+
+a) dotyczyły warunkowania unikania bodźca awersyjnego u szczurówx
+b) dotyczyły uczenia ludzi o wysokim poziomie lęku reakcji warunkowej polegającej na zamykaniu powieki na dźwięk dzwonka zapowiadającego delikatny podmóch powietrza na powierzchnie gałki ocznej
+c) w wyniku uszkodzenia ciała migdałowatego szczury utraciły zdolność do nabywania reakcji warunkowej
+d) pokazały że lezja wzgórza nie upośledza zdolności szczurów do do warunkowaniax
+
+22. Jakie były konsekwencje pozytywnego afektu dla rozwiązania zadania wglądowego typu ,,problemu świecy,, ?
+
+a) pozytywny afekt skutkował zmniejszeniem ilości poprawnych odpowiedzi 
+b) pozytywny afekt skutkował zwiększeniem ilości poprawnych odpowiedzix
+c) poprawność wykonania w warunkach ze wzbudzonym pozytywnym afektem była porównywalna do warunków z zastosowaniem ułatwiającej ekspozycji zadaniax
+d) pozytywny afekt nie zmienił ilości poprawnych odpowiedzi a jedynie skrócił czas w jakim były one udzielane 
+
+23. behawiorystyczna koncepcja motywacji
+
+a) wyjasnia zachowania, odnocząc je do potrzeb
+b) jest oparta na badaniach empirycznychx
+c) czesto pozwala na opis zachowań w kategoriach matematycznych, za pomoca wzrówx
+d) kładzie nacisk na odnawialna egergię psychiczna , ktora jest zródlem zachowania
+
+24. biorąc pod uwagę trudnosc zachowania i atrakcyjnosc powodzenia, w jakich sytuacjach ludzie z najwiekszym prawdopopodobienstwem zdecyduja sie na podjecie wyzwania dajacego szansę na odniesieniu sukcesu?
+
+a) gdy zadanie jest proste istnieje duze prawdpodobienstwo sukcesu
+b) gdy zadanie jest skrajnie trudne i atrakcyjność powodzenia jest najwyzsza
+c) gdy zadanie jest umiarkowanie trudne co za tym idzie istnieja realne szanse na sukcesx
+d) kiedy atrakcyjnosc powodzenia jest we wzglednej rownowadze z trudnoscia zadaniax
+
+25. strategię przedziałową w przypadku stawiania celów charakteryzuje
+
+a) duza sztywnosc w realizacji celu
+b) mniejsza waga przykładania do szczegółow celux
+c) duza giętkość w realizacji celux
+d) łatwe rozpoczynanie i kończenie  aktywnosci i koncepcja eskspresywnego sprzężenia zwrotnego
+
+26. koncepcja ekspresywnego sprzęzenia zwrotnego
+
+a) dotyczy zmian w pracy ekspresywnej mimicznych mięśni twarzy i mięsni szkieletowych
+b) wyjaśnia dlaczego z dużą łatwościa rozumiemy wyrazy mimiczne innych ludzi
+c) dotyczy uwaznego sledzenia tego co dzieje sie z naszym ciałemx
+d) nie znajduje zastosowania w sytuacjach interpersoalnych
+
+27. model infuzji afektu:
+
+a) wskazuje ze afekt w najwiekszym stopniu wpłynie na heurystyczne procesy poznawcze
+b) wyjaśnia dlaczego w pewnych sytuacjach emocje wpływają na nasze decyzje a w inncyh niex
+c) wskazuje ze afekt w najwiekszym stopniu wpłynie na analityczne procesy poznwczex
+d) sugeruje ze przy przetwarzaniu zmotywowanym  nie nastapi wpływ emocji na procesy poznawczex
+
+28. Implementacja intencji to proces:
+
+a) polegający na tworzeniu skojarzeń pomiędzy stanem obecnym a celemx
+b) będącym narzędziem pomocnym w wygenerwoaniu celów o charakterze punktowymx
+c) przygotowujący na wystąpienie pewnych momentów krytycznych w realizacji zachowaniax
+d) będący formą wolicjonalnej kontroli motywacji
+
+29. Emocje o genezie refleksyjnej to:
+
+a) stany umysłu będące reakcją na otaczający światx
+b) emocje bazujące na standardach wartościowaniax
+c) grupy emocji, w której skład wchodzą emocje homeostatyczne i hedonistyczne
+d) rodzaj emocji który możemy zaklasyfikować do kategorii uczućx 
+
+30. Miłość romantyczna to zjawisko afektywne,  w którym
+
+a) mamy do czynienia ze złożoną dynamiką stanów o charakterze emocjoalnym i uczuciowymx 
+b) możemy wyróżnić fazę będącą przejawem działania procesów poznawyczych nazywaną stanem zakochania
+c) możemy wyróżnić fazę będacą przejawem bezpośreniej reakcji na obiekt miłości nazywaną stanem zakochaniax
+d) dominuje intymność odpowiedzialna za afektywną reakcję na osobę w stosunku do której czujemy miłość
+
+31. Przemieszczanie to
+
+a) utożsamianie się z inną osobą
+b) mechanizm obronny ego służący poradzeniu sobie z sytuacjami wywołującymi negatywne emocjex
+c) rozładowanie stłumionej złości i frustracji na obiektach niezagrażającychx
+d) rozładowanie niezaspokojonych pragnień seksualnych przez zastępczą aktywność o charakterze nieseksualnym
+
+32. W jaki spośób możemy w badaniach naukowych manipulować stanem emocjonalnym osób badanych
+
+a) pokazując listy słów lub zdań nasyconych emocjonalniex
+b) prosząc o przybranie o przybranie określonego wyrazu twarzyx 
+c) prosząc o przypomnienie sobie pewnych wydarzeń z ich własnego życiax
+d) pobudzając elektrycznie korę mózgową w tzw. obszarach układu nagrodyx
 

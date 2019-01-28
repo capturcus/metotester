@@ -1,14 +1,14 @@
 export default class Questions { public static QUESTIONS = [
     {
-        "prompt": "﻿33. Czy po roku od poważnego wupadku możemy wrócić do wyjściowego poziomu szczęścia?", 
+        "prompt": "33. Czy po roku od poważnego wupadku możemy wrócić do wyjściowego poziomu szczęścia?", 
         "options": [
             [
-                "a. Tak, pod warunkiem braku problemów psychicznych ", 
-                true
+                "a. Tak, pod warunkiem braku problemów psychicznych", 
+                false
             ], 
             [
                 "b. Tak, badania wykazują, że ludzie z reguły w rok po wypadku są bardziej szczęśliwi niż w okresie przed wypadkiem", 
-                false
+                true
             ], 
             [
                 "c. Nie, trauma wypadku powoduje, że u większości ludzi obniżone poczucie zadowolenia z życia utrzymuje się przez około 7 lat", 
@@ -28,7 +28,7 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "b. Ból i przyjemność ", 
+                "b. Ból i przyjemność", 
                 true
             ], 
             [
@@ -49,11 +49,11 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "b. Wrodzona, niespecyficzna wrażliwość na sygnały podniecenia ", 
+                "b. Wrodzona, niespecyficzna wrażliwość na sygnały podniecenia", 
                 true
             ], 
             [
-                "c. Neurony lustrzane ", 
+                "c. Neurony lustrzane", 
                 true
             ], 
             [
@@ -66,11 +66,11 @@ export default class Questions { public static QUESTIONS = [
         "prompt": "36. Prawa Yerkesa-Dodsona opisują zależność:", 
         "options": [
             [
-                "a. Pomiędzy poziomem wykonania a stresem ", 
+                "a. Pomiędzy poziomem wykonania a stresem", 
                 true
             ], 
             [
-                "b. Pomiędzy pobudzeniem organizmu a poziomem wykonania zadań ", 
+                "b. Pomiędzy pobudzeniem organizmu a poziomem wykonania zadań", 
                 true
             ], 
             [
@@ -78,7 +78,7 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "d. Która ma charakter krzywoliniowy ", 
+                "d. Która ma charakter krzywoliniowy", 
                 true
             ]
         ]
@@ -87,12 +87,12 @@ export default class Questions { public static QUESTIONS = [
         "prompt": "37. Wg McLeana mózg składa się z 3 części stanowiących kolejne zdobycze ewolucyjne (wskaż prawdziwe):", 
         "options": [
             [
-                "a. Najstarszy (mózg gadzi) zapewnia zabezpieczanie w pożywienie oraz możliwość wyrażania i odczuwania emocji ", 
+                "a. Najstarszy (mózg gadzi) zapewnia zabezpieczanie w pożywienie oraz możliwość wyrażania i odczuwania emocji", 
                 true
             ], 
             [
-                "b. Średni wiekiem ewolucyjnym (mózg neossaków) zapewnia pojawienie się emocji oraz pogłębienie relacji matka-dziecko ", 
-                true
+                "b. Średni wiekiem ewolucyjnym (mózg neossaków) zapewnia pojawienie się emocji oraz pogłębienie relacji matka-dziecko", 
+                false
             ], 
             [
                 "c. Najstarszy (mózg gadzi) zapewnia porozumiewanie się o charakterze werbalnym oraz emocje - efekt pobudzenia struktur werbalnych", 
@@ -108,7 +108,7 @@ export default class Questions { public static QUESTIONS = [
         "prompt": "38. Phineas Gage doznał w czasie pracy na kolei uszczerbku na zdrowiu polegającego na utracie mózgu. Po wypadku zaszły zmiany w jego zachowaniu polegające na:", 
         "options": [
             [
-                "a. Utracie zdolności kontroli własnych działaś ", 
+                "a. Utracie zdolności kontroli własnych działaś", 
                 true
             ], 
             [
@@ -120,7 +120,7 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "d. Posługiwaniu się szpetnym językiem *przeklinanie* ", 
+                "d. Posługiwaniu się szpetnym językiem *przeklinanie*", 
                 true
             ]
         ]
@@ -129,7 +129,7 @@ export default class Questions { public static QUESTIONS = [
         "prompt": "39. Według Ekmana do emocji podstawowych zaliczamy:", 
         "options": [
             [
-                "a. Złość i Wstręt ", 
+                "a. Złość i Wstręt", 
                 true
             ], 
             [
@@ -141,7 +141,7 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "d. Strach i Radość ", 
+                "d. Strach i Radość", 
                 true
             ]
         ]
@@ -150,8 +150,8 @@ export default class Questions { public static QUESTIONS = [
         "prompt": "40. Kora mózgowa modyfikuje reakcje ciała migdałowatego", 
         "options": [
             [
-                "a. Poprzez jedno połączenie neuronalne określane jako droga górna ", 
-                true
+                "a. Poprzez jedno połączenie neuronalne określane jako droga górna", 
+                false
             ], 
             [
                 "b. Kora mózgowa nie modyfikuje reakcji ciała migdałowatego, natomiast ciało migdałowate modyfikuje funkcjonowanie kory", 
@@ -159,7 +159,7 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "c. Poprzez kilka połączeń neuronalnych przenoszących kolejne sygnały modyfikujące reakcje ciała migdałowatego", 
-                false
+                true
             ], 
             [
                 "d. Poprzez połączenia, które przebiegają przez wzgórze", 
@@ -171,20 +171,20 @@ export default class Questions { public static QUESTIONS = [
         "prompt": "41. Według Zajonca jeśli mówimy o drogach powstawania emocji, to możemy mieć na myśli następujące sekwencje:", 
         "options": [
             [
-                "a. Proces motoryczny - reakcja emocjonalna - identyfikacja cech ", 
-                true
+                "a. Proces motoryczny - reakcja emocjonalna - identyfikacja cech", 
+                false
             ], 
             [
                 "b. Proces sensoryczny - reakcja emocjonalna - rozpoznanie - identyfikacja cech", 
-                false
+                true
             ], 
             [
                 "c. Proces sensoryczny - identyfikacja cech - rozpoznanie - reakcja emocjonalna", 
-                false
+                true
             ], 
             [
-                "d. Proces sensoryczny - myślenie - identyfikacja cech - reakcja emocjonalna ", 
-                true
+                "d. Proces sensoryczny - myślenie - identyfikacja cech - reakcja emocjonalna", 
+                false
             ]
         ]
     }, 
@@ -217,672 +217,21 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "b. Wysoką pewność własnych sądów ", 
+                "b. Wysoką pewność własnychsądów", 
                 true
             ], 
             [
-                "c. Trudność w werbalizacji ", 
+                "c. Trudność w werbalizacji", 
                 true
             ], 
             [
-                "d. Wrażliwość na drobne różnice ", 
-                true
-            ]
-        ]
-    }, 
-    {
-        "prompt": "1. Wskaż dane prawdziwe w odniesieniu do heterostatycznego mechanizmu motywacyjnego:", 
-        "options": [
-            [
-                "a) Mechanizm ten powoduje wzrost apetytu na przyjemność wraz z jej doznawaniem", 
-                true
-            ], 
-            [
-                "b) Mechanizm ten ma zadany punkt utrzymania, do którego dąży podwyższając lub obniżając wartość konkretnego parametru życiowego.", 
-                false
-            ], 
-            [
-                "c) Mechanizm ten występuje tylko u ludzi i naczelnych", 
-                true
-            ], 
-            [
-                "d) Mechanizm ten oparty jest o wewnętrzne standardy wartościowania.", 
+                "d. Wrażliwość na drobne różnice x1.", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "2. Według starożytnych mądrości, gdzie powinien zabrać na randkę swoją potencjalną partnerkę Rzymianin, po to, żeby zmaksymalizować prawdopodobieństwo, że ona się w nim zakocha?", 
-        "options": [
-            [
-                "a) Do świątyni", 
-                false
-            ], 
-            [
-                "b) Do łaźni", 
-                false
-            ], 
-            [
-                "c) Na walki gladiatorów z dzikimi zwierzętami", 
-                true
-            ], 
-            [
-                "d) Na spacer w świetle księżyca", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "3. Badani, w eksperymentach Zajonca dotyczących samego efektu ekspozycji, oglądali i oceniali:", 
-        "options": [
-            [
-                "a) Zdjęcia twarzy neutralnych", 
-                false
-            ], 
-            [
-                "b) Zdjęcia twarzy wyrażających emocje", 
-                false
-            ], 
-            [
-                "c) Znaki w postaci ideogramów z dalekowschodniego alfabetu", 
-                true
-            ], 
-            [
-                "d) Znaki graficzne przypominające znaki drogowe", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "4. Według modelu Bowera:", 
-        "options": [
-            [
-                "a) Nastrój wpływa na pamięć tylko u osób chorych na depresjęx.", 
-                false
-            ], 
-            [
-                "b) Pozytywne informacje lepiej zapamiętujemy będąc w pozytywnym nastroju.", 
-                false
-            ], 
-            [
-                "c) Pozytywne informacje lepiej zapamiętujemy będąc pod wpływem stresu.", 
-                false
-            ], 
-            [
-                "d) Możemy mówić o zjawisku pamięci zależnej od nastroju", 
-                true
-            ]
-        ]
-    }, 
-    {
-        "prompt": "5. Według teorii atrybucyjnej emocje mają charakter:", 
-        "options": [
-            [
-                "a) Preatrybucyjny", 
-                false
-            ], 
-            [
-                "b) Prebehawioralny", 
-                true
-            ], 
-            [
-                "c) Postatrybucyjny", 
-                false
-            ], 
-            [
-                "d) Postbehawioralny", 
-                true
-            ]
-        ]
-    }, 
-    {
-        "prompt": "6. Podstawowy temat relacyjny w koncepcji Lazarusa:", 
-        "options": [
-            [
-                "a) Stanowi konsekwencję pojawienia się konkretnej emocji", 
-                false
-            ], 
-            [
-                "b) Jest sekwencją ocen poznawczych prowadzących do konkretnej emocji", 
-                true
-            ], 
-            [
-                "c) Jest jeden dla wszystkich emocji", 
-                false
-            ], 
-            [
-                "d) Różne sytuacje mogą wiązać się z tym samym tematem relacyjnym", 
-                true
-            ]
-        ]
-    }, 
-    {
-        "prompt": "7. Na ocenę poznawczą składają się wg. Lazarusa:", 
-        "options": [
-            [
-                "a) Ocena pierwotna", 
-                true
-            ], 
-            [
-                "b) Wartościowanie holistyczne", 
-                true
-            ], 
-            [
-                "c) Ocena wtórna", 
-                true
-            ], 
-            [
-                "d) Zgodność ze standardem wartościowania", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "8. Jak długo rozwija się złożoność emocjonalnych i uczuciowych doświadczeń ludzi?", 
-        "options": [
-            [
-                "a) Przez całe życie możemy nabywać nowe doświadczenia emocjonalne i uczuciowe", 
-                true
-            ], 
-            [
-                "b) Do 25 roku życia", 
-                false
-            ], 
-            [
-                "c) Do 3 roku życia", 
-                false
-            ], 
-            [
-                "d) Do 1 roku życia", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "9. Wg. Damasio składowymi świadomości prowadzącymi do jej wyłaniania się z procesów neuronalnych są:", 
-        "options": [
-            [
-                "a) Jaźń metapoznawcza", 
-                false
-            ], 
-            [
-                "b) Jaźń rdzenna", 
-                true
-            ], 
-            [
-                "c) Protojaźń", 
-                true
-            ], 
-            [
-                "d) Jaźń autobiograficzna", 
-                true
-            ]
-        ]
-    }, 
-    {
-        "prompt": "10. Pobudzenie fizjologiczne towarzyszące silnym emocjom:", 
-        "options": [
-            [
-                "a) Wywołuje pozytywny afekt", 
-                false
-            ], 
-            [
-                "b) Prowadzi do zawężenia pola uwagi", 
-                true
-            ], 
-            [
-                "c) Prowadzi do poszerzenia pola uwagi", 
-                false
-            ], 
-            [
-                "d) Zapewnia lepsze pamiętanie elementów znajdujących się w centrum pola percepcyjnego", 
-                true
-            ]
-        ]
-    }, 
-    {
-        "prompt": "11. Według modelu faz związku Wojciszke:", 
-        "options": [
-            [
-                "a) Zaangażowanie jest najdłużej obecnym składnikiem związku trwającym aż do jego formalnego końca", 
-                false
-            ], 
-            [
-                "b) Namiętność jest składnikiem miłości trwającym aż do końca związku", 
-                false
-            ], 
-            [
-                "c) Intymność jest składnikiem po części emocjonalnym, po części uczuciowym", 
-                true
-            ], 
-            [
-                "d) W związku pustym nie ma intymności, jest jedynie namiętność", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "12. Teorie oceny poznawczej:", 
-        "options": [
-            [
-                "a) Podkreślają rolę mechanizmów intelektualnych w reagowaniu emocjonalnym", 
-                true
-            ], 
-            [
-                "b) Wyjaśniają dlaczego emocje mogą zależeć od kultury, w jakiej żyjemy", 
-                true
-            ], 
-            [
-                "c) Postulują, że emocje danego rzędu mogą się ze sobą mieszać i tworzyć emocje wyższego rzędu", 
-                false
-            ], 
-            [
-                "d) Podkreślają, że intelekt nie zapewnia plastyczności i różnorodności emocji", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "14. Motywacja człowieka do osiągnięcia równowagi poznawczej jest", 
-        "options": [
-            [
-                "a) oparta o mechanizmy homeostatyczne", 
-                true
-            ], 
-            [
-                "b) nie zburza innych czynności realizowanych przez podmiot", 
-                true
-            ], 
-            [
-                "c) zwykle prowadzi do redukcji rozbierzności", 
-                true
-            ], 
-            [
-                "d) oparta o mechanizmy heterostatyczne", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "15. Wg wzoru na motywacje (Hull) zależy ona od", 
-        "options": [
-            [
-                "a) iloczynu popędu i nawyku", 
-                true
-            ], 
-            [
-                "b) sumy popędu i nawyku", 
-                false
-            ], 
-            [
-                "c) sumy wzmocnienia i nawyku", 
-                false
-            ], 
-            [
-                "d) iloczynu wzmocnienia i nawyku", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "16. Paradygmat afektywnego poprzedzania wprowadzonydo praktyki badawczej i opisany przez Murphy i Zająca polegał na:", 
-        "options": [
-            [
-                "a) prezentowanym osobom badanym przez bardzo krótki czas 4ms fotografii ludzi przeżywających odrazę, wstręt i smutek mających wprowadzać ich w określony stan wpływającyna ocenę boćców związanych z rozpoznawaniem emocji", 
-                false
-            ], 
-            [
-                "b) prezentowaniu osobom badanym przez bardzo krótki czas 4ms fotografii twarzy z wyraźną ekspresją emocji mających wprowadzić ich w określony stan wpływającyna ocenę boćców neutralnych w postaci chińskich ideogramów", 
-                true
-            ], 
-            [
-                "c) prezentowaniu osobom badanym przez bardzo krótki czas 16ms słów mających wprowadzić ich w określony stan wpływający na ocenę bodźców neutralnych w postaci chińskich heksagramów", 
-                false
-            ], 
-            [
-                "d) prezentowaniu osobom badanym przez bardzo krótki czas 50ms słów mających wprowadzić ich w określony stan wpływający na ocenę bodźców neutralnych w postaci chińskich ideogramów", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "17. W wojnie w Korei zaobserwowano, że wielu amerykańskich żołnierzy przetrzymywanych obozach w obozach jenieckich stawało się wrogami Ameryki. Działo się tak ponieważ:", 
-        "options": [
-            [
-                "a) zabijano jeńców, którzy nie chcieli zmienić swoich poglądów", 
-                false
-            ], 
-            [
-                "b) podsuwano jeńcom deklaracje lojalnościowe, do których podpisu ich zmuszano i wysyłano je do USA za pośrednictwem ZSRR", 
-                false
-            ], 
-            [
-                "c) podsuwano jeńcom deklaracje lojalnościowe, które mogli podpisać lub nie po czym upubliczniano w obozie listy tych którzy nie podpisali", 
-                false
-            ], 
-            [
-                "d) wzbudzono w nich dystans poznawczy", 
-                true
-            ]
-        ]
-    }, 
-    {
-        "prompt": "18. Definicja emocji sformuowana przez Nico frijda zawiera następujące elementy", 
-        "options": [
-            [
-                "a) wartościowanie", 
-                true
-            ], 
-            [
-                "b) uruchomienie gotowości do działania", 
-                true
-            ], 
-            [
-                "c) zmiany fizjologiczne", 
-                false
-            ], 
-            [
-                "d) odczuwanie subiektywnego stanu", 
-                true
-            ]
-        ]
-    }, 
-    {
-        "prompt": "19. Badanie nad centralnością kompetencji komputerowych pokazało że", 
-        "options": [
-            [
-                "a) ludzie nie zmieniają swojego zdania na temat w zależnościod swoich sukcesów, porażek na tym polu", 
-                false
-            ], 
-            [
-                "b) sukcesy na kursie komputerowymnasilają uznawanie tych kompetencji za centralne", 
-                true
-            ], 
-            [
-                "c) samoocena bazuje na heterostatycznym mechaniźmie regulacji", 
-                true
-            ], 
-            [
-                "d) mechanizmem budowania samooceny może być zmiana postrzegania konkretnej dziedziny jako ważnej/nieważnej", 
-                true
-            ]
-        ]
-    }, 
-    {
-        "prompt": "20. Standardy normatywne wg. Reykowskiego", 
-        "options": [
-            [
-                "a) są to standardy ewaluatywne o charakterze absolutnym i uniwersalnym (tzw. prencypi... coś tam)", 
-                true
-            ], 
-            [
-                "b) wywodzą sie z ustabilizowanych wspólnych dla społeczności normx", 
-                true
-            ], 
-            [
-                "c) działają na zasadzie konformizmu- dobre jest to co jest zgodne z opinią lub wzorem", 
-                true
-            ], 
-            [
-                "d) to wzorce ewaluatywne sprawiające że pozytywnie oceniane jest to co organizmowi sprzyja a negatywne to co szkodzi", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "21. badania Josepha LeDoux nad warunkowaniem strachu", 
-        "options": [
-            [
-                "a) dotyczyły warunkowania unikania bodźca awersyjnego u szczurów", 
-                true
-            ], 
-            [
-                "b) dotyczyły uczenia ludzi o wysokim poziomie lęku reakcji warunkowej polegającej na zamykaniu powieki na dźwięk dzwonka zapowiadającego delikatny podmóch powietrza na powierzchnie gałki ocznej", 
-                false
-            ], 
-            [
-                "c) w wyniku uszkodzenia ciała migdałowatego szczury utraciły zdolność do nabywania reakcji warunkowej", 
-                false
-            ], 
-            [
-                "d) pokazały że lezja wzgórza nie upośledza zdolności szczurów do do warunkowania", 
-                true
-            ]
-        ]
-    }, 
-    {
-        "prompt": "22. Jakie były konsekwencje pozytywnego afektu dla rozwiązania zadania wglądowego typu ,,problemu świecy,, ?", 
-        "options": [
-            [
-                "a) pozytywny afekt skutkował zmniejszeniem ilości poprawnych odpowiedzi", 
-                false
-            ], 
-            [
-                "b) pozytywny afekt skutkował zwiększeniem ilości poprawnych odpowiedzi", 
-                true
-            ], 
-            [
-                "c) poprawność wykonania w warunkach ze wzbudzonym pozytywnym afektem była porównywalna do warunków z zastosowaniem ułatwiającej ekspozycji zadania", 
-                true
-            ], 
-            [
-                "d) pozytywny afekt nie zmienił ilości poprawnych odpowiedzi a jedynie skrócił czas w jakim były one udzielane", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "23. behawiorystyczna koncepcja motywacji", 
-        "options": [
-            [
-                "a) wyjasnia zachowania, odnocząc je do potrzeb", 
-                false
-            ], 
-            [
-                "b) jest oparta na badaniach empirycznych", 
-                true
-            ], 
-            [
-                "c) czesto pozwala na opis zachowań w kategoriach matematycznych, za pomoca wzrów", 
-                true
-            ], 
-            [
-                "d) kładzie nacisk na odnawialna egergię psychiczna , ktora jest zródlem zachowania", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "24. biorąc pod uwagę trudnosc zachowania i atrakcyjnosc powodzenia, w jakich sytuacjach ludzie z najwiekszym prawdopopodobienstwem zdecyduja sie na podjecie wyzwania dajacego szansę na odniesieniu sukcesu?", 
-        "options": [
-            [
-                "a) gdy zadanie jest proste istnieje duze prawdpodobienstwo sukcesu", 
-                false
-            ], 
-            [
-                "b) gdy zadanie jest skrajnie trudne i atrakcyjność powodzenia jest najwyzsza", 
-                false
-            ], 
-            [
-                "c) gdy zadanie jest umiarkowanie trudne co za tym idzie istnieja realne szanse na sukces", 
-                false
-            ], 
-            [
-                "d) kiedy atrakcyjnosc powodzenia jest we wzglednej rownowadze z trudnoscia zadania", 
-                true
-            ]
-        ]
-    }, 
-    {
-        "prompt": "25. strategię przedziałową w przypadku stawiania celów charakteryzuje", 
-        "options": [
-            [
-                "a) duza sztywnosc w realizacji celu", 
-                false
-            ], 
-            [
-                "b) mniejsza waga przykładania do szczegółow celu", 
-                true
-            ], 
-            [
-                "c) duza giętkość w realizacji celu", 
-                true
-            ], 
-            [
-                "d) łatwe rozpoczynanie i kończenie  aktywnosci i koncepcja eskspresywnego sprzężenia zwrotnego", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "26. koncepcja ekspresywnego sprzęzenia zwrotnego", 
-        "options": [
-            [
-                "a) dotyczy zmian w pracy ekspresywnej mimicznych mięśni twarzy i mięsni szkieletowych", 
-                false
-            ], 
-            [
-                "b) wyjaśnia dlaczego z dużą łatwościa rozumiemy wyrazy mimiczne innych ludzi", 
-                true
-            ], 
-            [
-                "c) dotyczy uwaznego sledzenia tego co dzieje sie z naszym celem", 
-                false
-            ], 
-            [
-                "d) nie znajduje zastosowania w sytuacjach interpersoalnych", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "27. model iluzji afektu:", 
-        "options": [
-            [
-                "a) wskazuje ze afekt w najwiekszym stopniu wpłynie na heurystyczne procesy poznawcze", 
-                true
-            ], 
-            [
-                "b) wyjaśnia dlaczego w pewnych sytuacjach emocje wpływają na nasze decyzje a w inncyh nie", 
-                true
-            ], 
-            [
-                "c) wskazuje ze afekt w najwiekszym stopniu wpłynie na analityczne procesy poznwcze", 
-                true
-            ], 
-            [
-                "d) sugeruje ze przy przetwarzaniu zmotywowanym  nie nastapi wpływ emocji na procesy poznawcze", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "28. Implementacja intencji to proces:", 
-        "options": [
-            [
-                "a) polegający na tworzeniu skojarzeń pomiędzy stanem obecnym a celem", 
-                true
-            ], 
-            [
-                "b) będącym narzędziem pomocnym w wygenerwoaniu celów o charakterze punktowym", 
-                false
-            ], 
-            [
-                "c) przygotowujący na wystąpienie pewnych momentów krytycznych w realizacji zachowania", 
-                false
-            ], 
-            [
-                "d) będący formą wolicjonalnej kontroli motywacji", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "29. Emocje o genezie refleksyjnej to:", 
-        "options": [
-            [
-                "a) stany umysłu będące reakcją na otaczający świat", 
-                false
-            ], 
-            [
-                "b) emocje bazujące na standardach wartościowania", 
-                false
-            ], 
-            [
-                "c) grupy emocji, w której skład wchodzą emocje homeostatyczne i hedonistyczne", 
-                false
-            ], 
-            [
-                "d) rodzaj emocji który możemy zaklasyfikować do kategorii uczuć", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "30. Miłość romantyczna to zjawisko afektywne,  w którym", 
-        "options": [
-            [
-                "a) mamy do czynienia ze złożoną dynamiką stanów o charakterze emocjoalnym i uczuciowym", 
-                true
-            ], 
-            [
-                "b) możemy wyróżnić fazę będącą przejawem działania procesów poznawyczych nazywaną stanem zakochania", 
-                false
-            ], 
-            [
-                "c) możemy wyróżnić fazę będacą przejawem bezpośreniej reakcji na obiekt miłości nazywaną stanem zakochania", 
-                true
-            ], 
-            [
-                "d) dominuje intymność odpowiedzialna za afektywną reakcję na osobę w stosunku do której czujemy miłość", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "31. Przemieszczanie to", 
-        "options": [
-            [
-                "a) utożsamianie się z inną osobą", 
-                false
-            ], 
-            [
-                "b) mechanizm obronny ego służący poradzeniu sobie z sytuacjami wywołującymi negatywne emocje", 
-                true
-            ], 
-            [
-                "c) rozładowanie stłumionej złości i frustracji na obiektach niezagrażających", 
-                true
-            ], 
-            [
-                "d) rozładowanie niezaspokojonych pragnień seksualnych przez zastępczą aktywność o charakterze nieseksualnym", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "32. W jaki spośób możemy w badaniach naukowych manipulować stanem emocjonalnym osób badanych", 
-        "options": [
-            [
-                "a) pokazując listy słów lub zdań nasyconych emocjonalnie", 
-                true
-            ], 
-            [
-                "b) prosząc o przybranie o przybranie określonego wyrazu twarzy", 
-                true
-            ], 
-            [
-                "c) prosząc o przypomnienie sobie pewnych wydarzeń z ich własnego życia", 
-                true
-            ], 
-            [
-                "d) pokazując elektrycznie korę mózgową w tzw. obszarach układu nagrody", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "1.Co odróżnia potrzeby typu B od potrzeb typu D?", 
+        "prompt": "Co odróżnia potrzeby typu B od potrzeb typu D?", 
         "options": [
             [
                 "a) Potrzeby typu D w odróżnieniu od potrzeb typu B oparte są o regulację homeostatyczną", 
@@ -1020,7 +369,7 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "c) aktywność ukierunkowana na perspektywę zdobycia czegoś dla siebie w przyszłości", 
-                false
+                true
             ], 
             [
                 "d) proces wymagający antycypacji", 
@@ -2215,6 +1564,678 @@ export default class Questions { public static QUESTIONS = [
             [
                 "d) pierwotności poznania względem zjawisk afektywnych", 
                 false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "1. Wskaż dane prawdziwe w odniesieniu do heterostatycznego mechanizmu motywacyjnego:", 
+        "options": [
+            [
+                "a) Mechanizm ten powoduje wzrost apetytu na przyjemność wraz z jej doznawaniem", 
+                true
+            ], 
+            [
+                "b) Mechanizm ten ma zadany punkt utrzymania, do którego dąży podwyższając lub obniżając wartość konkretnego parametru życiowego.", 
+                false
+            ], 
+            [
+                "c) Mechanizm ten występuje tylko u ludzi i naczelnych", 
+                true
+            ], 
+            [
+                "d) Mechanizm ten oparty jest o wewnętrzne standardy wartościowania", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "2. Według starożytnych mądrości, gdzie powinien zabrać na randkę swoją potencjalną partnerkę Rzymianin, po to, żeby zmaksymalizować prawdopodobieństwo, że ona się w nim zakocha?", 
+        "options": [
+            [
+                "a) Do świątyni", 
+                false
+            ], 
+            [
+                "b) Do łaźni", 
+                false
+            ], 
+            [
+                "c) Na walki gladiatorów z dzikimi zwierzętami", 
+                true
+            ], 
+            [
+                "d) Na spacer w świetle księżyca", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "3. Badani, w eksperymentach Zajonca dotyczących samego efektu ekspozycji, oglądali i oceniali:", 
+        "options": [
+            [
+                "a) Zdjęcia twarzy neutralnych", 
+                false
+            ], 
+            [
+                "b) Zdjęcia twarzy wyrażających emocje", 
+                false
+            ], 
+            [
+                "c) Znaki w postaci ideogramów z dalekowschodniego alfabetu", 
+                true
+            ], 
+            [
+                "d) Znaki graficzne przypominające znaki drogowe", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "4. Według modelu Bowera:", 
+        "options": [
+            [
+                "a) Nastrój wpływa na pamięć tylko u osób chorych na depresję", 
+                true
+            ], 
+            [
+                "b) Pozytywne informacje lepiej zapamiętujemy będąc w pozytywnym nastroju", 
+                true
+            ], 
+            [
+                "c) Pozytywne informacje lepiej zapamiętujemy będąc pod wpływem stresu.", 
+                false
+            ], 
+            [
+                "d) Możemy mówić o zjawisku pamięci zależnej od nastroju", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "5. Według teorii atrybucyjnej emocje mają charakter:", 
+        "options": [
+            [
+                "a) Preatrybucyjny", 
+                false
+            ], 
+            [
+                "b) Prebehawioralny", 
+                true
+            ], 
+            [
+                "c) Postatrybucyjny", 
+                true
+            ], 
+            [
+                "d) Postbehawioralny", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "6. Podstawowy temat relacyjny w koncepcji Lazarusa:", 
+        "options": [
+            [
+                "a) Stanowi konsekwencję pojawienia się konkretnej emocji", 
+                false
+            ], 
+            [
+                "b) Jest sekwencją ocen poznawczych prowadzących do konkretnej emocji", 
+                true
+            ], 
+            [
+                "c) Jest jeden dla wszystkich emocji", 
+                false
+            ], 
+            [
+                "d) Różne sytuacje mogą wiązać się z tym samym tematem relacyjnym", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "7. Na ocenę poznawczą składają się wg. Lazarusa:", 
+        "options": [
+            [
+                "a) Ocena pierwotna", 
+                true
+            ], 
+            [
+                "b) Wartościowanie holistyczne", 
+                false
+            ], 
+            [
+                "c) Ocena wtórna", 
+                true
+            ], 
+            [
+                "d) Zgodność ze standardem wartościowania", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "8. Jak długo rozwija się złożoność emocjonalnych i uczuciowych doświadczeń ludzi?", 
+        "options": [
+            [
+                "a) Przez całe życie możemy nabywać nowe doświadczenia emocjonalne i uczuciowe", 
+                true
+            ], 
+            [
+                "b) Do 25 roku życia", 
+                false
+            ], 
+            [
+                "c) Do 3 roku życia", 
+                false
+            ], 
+            [
+                "d) Do 1 roku życia", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "9. Wg. Damasio składowymi świadomości prowadzącymi do jej wyłaniania się z procesów neuronalnych są:", 
+        "options": [
+            [
+                "a) Jaźń metapoznawcza", 
+                false
+            ], 
+            [
+                "b) Jaźń rdzenna", 
+                true
+            ], 
+            [
+                "c) Protojaźń", 
+                true
+            ], 
+            [
+                "d) Jaźń autobiograficzna", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "10. Pobudzenie fizjologiczne towarzyszące silnym emocjom:", 
+        "options": [
+            [
+                "a) Wywołuje pozytywny afekt", 
+                false
+            ], 
+            [
+                "b) Prowadzi do zawężenia pola uwagi", 
+                true
+            ], 
+            [
+                "c) Prowadzi do poszerzenia pola uwagi", 
+                false
+            ], 
+            [
+                "d) Zapewnia lepsze pamiętanie elementów znajdujących się w centrum pola percepcyjnego", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "11. Według modelu faz związku Wojciszke:", 
+        "options": [
+            [
+                "a) Zaangażowanie jest najdłużej obecnym składnikiem związku trwającym aż do jego formalnego końca", 
+                true
+            ], 
+            [
+                "b) Namiętność jest składnikiem miłości trwającym aż do końca związku", 
+                false
+            ], 
+            [
+                "c) Intymność jest składnikiem po części emocjonalnym, po części uczuciowym", 
+                true
+            ], 
+            [
+                "d) W związku pustym nie ma intymności, jest jedynie namiętność", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "12. Teorie oceny poznawczej:", 
+        "options": [
+            [
+                "a) Podkreślają rolę mechanizmów intelektualnych w reagowaniu emocjonalnym", 
+                true
+            ], 
+            [
+                "b) Wyjaśniają dlaczego emocje mogą zależeć od kultury, w jakiej żyjemy", 
+                true
+            ], 
+            [
+                "c) Postulują, że emocje danego rzędu mogą się ze sobą mieszać i tworzyć emocje wyższego rzędu", 
+                false
+            ], 
+            [
+                "d) Podkreślają, że intelekt nie zapewnia plastyczności i różnorodności emocji", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "13.Mechanizm motywacyjny odpowiada zaregulację", 
+        "options": [
+            [
+                "a) Samooceny", 
+                true
+            ], 
+            [
+                "b) potrzeby nowości", 
+                true
+            ], 
+            [
+                "c) ekploracji", 
+                true
+            ], 
+            [
+                "d) potrzeby bezpieczeństwa", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "14. Motywacja człowieka do osiągnięcia równowagi poznawczej jest", 
+        "options": [
+            [
+                "a) oparta o mechanizmy homeostatyczne", 
+                true
+            ], 
+            [
+                "b) nie zburza innych czynności realizowanych przez podmiot", 
+                false
+            ], 
+            [
+                "c) zwykle prowadzi do redukcji rozbierzności", 
+                true
+            ], 
+            [
+                "d) oparta o mechanizmy heterostatyczne", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "15. Wg wzoru na motywacje (Hull) zależy ona od", 
+        "options": [
+            [
+                "a) iloczynu popędu i nawyku", 
+                true
+            ], 
+            [
+                "b) sumy popędu i nawyku", 
+                false
+            ], 
+            [
+                "c) sumy wzmocnienia i nawyku", 
+                false
+            ], 
+            [
+                "d) iloczynu wzmocnienia i nawyku", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "16. Paradygmat afektywnego poprzedzania wprowadzonydo praktyki badawczej i opisany przez Murphy i Zająca polegał na:", 
+        "options": [
+            [
+                "a) prezentowanym osobom badanym przez bardzo krótki czas 4ms fotografii ludzi przeżywających odrazę, wstręt i smutek mających wprowadzać ich w określony stan wpływającyna ocenę boćców związanych z rozpoznawaniem emocji", 
+                false
+            ], 
+            [
+                "b) prezentowaniu osobom badanym przez bardzo krótki czas 4ms fotografii twarzy z wyraźną ekspresją emocji mających wprowadzić ich w określony stan wpływającyna ocenę boćców neutralnych w postaci chińskich ideogramów", 
+                true
+            ], 
+            [
+                "c) prezentowaniu osobom badanym przez bardzo krótki czas 16ms słów mających wprowadzić ich w określony stan wpływający na ocenę bodźców neutralnych w postaci chińskich heksagramów", 
+                false
+            ], 
+            [
+                "d) prezentowaniu osobom badanym przez bardzo krótki czas 50ms słów mających wprowadzić ich w określony stan wpływający na ocenę bodźców neutralnych w postaci chińskich ideogramów", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "17. W wojnie w Korei zaobserwowano, że wielu amerykańskich żołnierzy przetrzymywanych obozach w obozach jenieckich stawało się wrogami Ameryki. Działo się tak ponieważ:", 
+        "options": [
+            [
+                "a) zabijano jeńców, którzy nie chcieli zmienić swoich poglądów", 
+                false
+            ], 
+            [
+                "b) podsuwano jeńcom deklaracje lojalnościowe, do których podpisu ich zmuszano i wysyłano je do USA za pośrednictwem ZSRR", 
+                false
+            ], 
+            [
+                "c) podsuwano jeńcom deklaracje lojalnościowe, które mogli podpisać lub nie po czym upubliczniano w obozie listy tych którzy nie podpisali", 
+                false
+            ], 
+            [
+                "d) wzbudzono w nich dystans poznawczy", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "18. Definicja emocji sformuowana przez Nico frijda zawiera następujące elementy", 
+        "options": [
+            [
+                "a) wartościowanie", 
+                true
+            ], 
+            [
+                "b) uruchomienie gotowości do działania", 
+                true
+            ], 
+            [
+                "c) zmiany fizjologiczne", 
+                false
+            ], 
+            [
+                "d) odczuwanie subiektywnego stanu", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "19. Badanie nad centralnością kompetencji komputerowych pokazało że", 
+        "options": [
+            [
+                "a) ludzie nie zmieniają swojego zdania na temat w zależnościod swoich sukcesów, porażek na tym polu", 
+                false
+            ], 
+            [
+                "b) sukcesy na kursie komputerowymnasilają uznawanie tych kompetencji za centralne", 
+                true
+            ], 
+            [
+                "c) samoocena bazuje na heterostatycznym mechaniźmie regulacji", 
+                false
+            ], 
+            [
+                "d) mechanizmem budowania samooceny może być zmiana postrzegania konkretnej dziedziny jako ważnej/nieważnej", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "20. Standardy normatywne wg. Reykowskiego", 
+        "options": [
+            [
+                "a) są to standardy ewaluatywne o charakterze absolutnym i uniwersalnym (tzw. prencypi... coś tam)", 
+                true
+            ], 
+            [
+                "b) wywodzą sie z ustabilizowanych wspólnych dla społeczności norm", 
+                true
+            ], 
+            [
+                "c) działają na zasadzie konformizmu- dobre jest to co jest zgodne z opinią lub wzorem", 
+                true
+            ], 
+            [
+                "d) to wzorce ewaluatywne sprawiające że pozytywnie oceniane jest to co organizmowi sprzyja a negatywne to co szkodzi", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "21. badania Josepha LeDoux nad warunkowaniem strachu", 
+        "options": [
+            [
+                "a) dotyczyły warunkowania unikania bodźca awersyjnego u szczurów", 
+                true
+            ], 
+            [
+                "b) dotyczyły uczenia ludzi o wysokim poziomie lęku reakcji warunkowej polegającej na zamykaniu powieki na dźwięk dzwonka zapowiadającego delikatny podmóch powietrza na powierzchnie gałki ocznej", 
+                false
+            ], 
+            [
+                "c) w wyniku uszkodzenia ciała migdałowatego szczury utraciły zdolność do nabywania reakcji warunkowej", 
+                false
+            ], 
+            [
+                "d) pokazały że lezja wzgórza nie upośledza zdolności szczurów do do warunkowania", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "22. Jakie były konsekwencje pozytywnego afektu dla rozwiązania zadania wglądowego typu ,,problemu świecy,, ?", 
+        "options": [
+            [
+                "a) pozytywny afekt skutkował zmniejszeniem ilości poprawnych odpowiedzi", 
+                false
+            ], 
+            [
+                "b) pozytywny afekt skutkował zwiększeniem ilości poprawnych odpowiedzi", 
+                true
+            ], 
+            [
+                "c) poprawność wykonania w warunkach ze wzbudzonym pozytywnym afektem była porównywalna do warunków z zastosowaniem ułatwiającej ekspozycji zadania", 
+                true
+            ], 
+            [
+                "d) pozytywny afekt nie zmienił ilości poprawnych odpowiedzi a jedynie skrócił czas w jakim były one udzielane", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "23. behawiorystyczna koncepcja motywacji", 
+        "options": [
+            [
+                "a) wyjasnia zachowania, odnocząc je do potrzeb", 
+                false
+            ], 
+            [
+                "b) jest oparta na badaniach empirycznych", 
+                true
+            ], 
+            [
+                "c) czesto pozwala na opis zachowań w kategoriach matematycznych, za pomoca wzrów", 
+                true
+            ], 
+            [
+                "d) kładzie nacisk na odnawialna egergię psychiczna , ktora jest zródlem zachowania", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "24. biorąc pod uwagę trudnosc zachowania i atrakcyjnosc powodzenia, w jakich sytuacjach ludzie z najwiekszym prawdopopodobienstwem zdecyduja sie na podjecie wyzwania dajacego szansę na odniesieniu sukcesu?", 
+        "options": [
+            [
+                "a) gdy zadanie jest proste istnieje duze prawdpodobienstwo sukcesu", 
+                false
+            ], 
+            [
+                "b) gdy zadanie jest skrajnie trudne i atrakcyjność powodzenia jest najwyzsza", 
+                false
+            ], 
+            [
+                "c) gdy zadanie jest umiarkowanie trudne co za tym idzie istnieja realne szanse na sukces", 
+                true
+            ], 
+            [
+                "d) kiedy atrakcyjnosc powodzenia jest we wzglednej rownowadze z trudnoscia zadania", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "25. strategię przedziałową w przypadku stawiania celów charakteryzuje", 
+        "options": [
+            [
+                "a) duza sztywnosc w realizacji celu", 
+                false
+            ], 
+            [
+                "b) mniejsza waga przykładania do szczegółow celu", 
+                true
+            ], 
+            [
+                "c) duza giętkość w realizacji celu", 
+                true
+            ], 
+            [
+                "d) łatwe rozpoczynanie i kończenie  aktywnosci i koncepcja eskspresywnego sprzężenia zwrotnego", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "26. koncepcja ekspresywnego sprzęzenia zwrotnego", 
+        "options": [
+            [
+                "a) dotyczy zmian w pracy ekspresywnej mimicznych mięśni twarzy i mięsni szkieletowych", 
+                false
+            ], 
+            [
+                "b) wyjaśnia dlaczego z dużą łatwościa rozumiemy wyrazy mimiczne innych ludzi", 
+                false
+            ], 
+            [
+                "c) dotyczy uwaznego sledzenia tego co dzieje sie z naszym ciałem", 
+                true
+            ], 
+            [
+                "d) nie znajduje zastosowania w sytuacjach interpersoalnych", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "27. model infuzji afektu:", 
+        "options": [
+            [
+                "a) wskazuje ze afekt w najwiekszym stopniu wpłynie na heurystyczne procesy poznawcze", 
+                false
+            ], 
+            [
+                "b) wyjaśnia dlaczego w pewnych sytuacjach emocje wpływają na nasze decyzje a w inncyh nie", 
+                true
+            ], 
+            [
+                "c) wskazuje ze afekt w najwiekszym stopniu wpłynie na analityczne procesy poznwcze", 
+                true
+            ], 
+            [
+                "d) sugeruje ze przy przetwarzaniu zmotywowanym  nie nastapi wpływ emocji na procesy poznawcze", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "28. Implementacja intencji to proces:", 
+        "options": [
+            [
+                "a) polegający na tworzeniu skojarzeń pomiędzy stanem obecnym a celem", 
+                true
+            ], 
+            [
+                "b) będącym narzędziem pomocnym w wygenerwoaniu celów o charakterze punktowym", 
+                true
+            ], 
+            [
+                "c) przygotowujący na wystąpienie pewnych momentów krytycznych w realizacji zachowania", 
+                true
+            ], 
+            [
+                "d) będący formą wolicjonalnej kontroli motywacji", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "29. Emocje o genezie refleksyjnej to:", 
+        "options": [
+            [
+                "a) stany umysłu będące reakcją na otaczający świat", 
+                true
+            ], 
+            [
+                "b) emocje bazujące na standardach wartościowania", 
+                true
+            ], 
+            [
+                "c) grupy emocji, w której skład wchodzą emocje homeostatyczne i hedonistyczne", 
+                false
+            ], 
+            [
+                "d) rodzaj emocji który możemy zaklasyfikować do kategorii uczuć", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "30. Miłość romantyczna to zjawisko afektywne,  w którym", 
+        "options": [
+            [
+                "a) mamy do czynienia ze złożoną dynamiką stanów o charakterze emocjoalnym i uczuciowym", 
+                true
+            ], 
+            [
+                "b) możemy wyróżnić fazę będącą przejawem działania procesów poznawyczych nazywaną stanem zakochania", 
+                false
+            ], 
+            [
+                "c) możemy wyróżnić fazę będacą przejawem bezpośreniej reakcji na obiekt miłości nazywaną stanem zakochania", 
+                true
+            ], 
+            [
+                "d) dominuje intymność odpowiedzialna za afektywną reakcję na osobę w stosunku do której czujemy miłość", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "31. Przemieszczanie to", 
+        "options": [
+            [
+                "a) utożsamianie się z inną osobą", 
+                false
+            ], 
+            [
+                "b) mechanizm obronny ego służący poradzeniu sobie z sytuacjami wywołującymi negatywne emocje", 
+                true
+            ], 
+            [
+                "c) rozładowanie stłumionej złości i frustracji na obiektach niezagrażających", 
+                true
+            ], 
+            [
+                "d) rozładowanie niezaspokojonych pragnień seksualnych przez zastępczą aktywność o charakterze nieseksualnym", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "32. W jaki spośób możemy w badaniach naukowych manipulować stanem emocjonalnym osób badanych", 
+        "options": [
+            [
+                "a) pokazując listy słów lub zdań nasyconych emocjonalnie", 
+                true
+            ], 
+            [
+                "b) prosząc o przybranie o przybranie określonego wyrazu twarzy", 
+                true
+            ], 
+            [
+                "c) prosząc o przypomnienie sobie pewnych wydarzeń z ich własnego życia", 
+                true
+            ], 
+            [
+                "d) pobudzając elektrycznie korę mózgową w tzw. obszarach układu nagrody", 
+                true
             ]
         ]
     }
