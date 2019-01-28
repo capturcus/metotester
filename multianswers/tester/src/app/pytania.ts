@@ -225,7 +225,28 @@ export default class Questions { public static QUESTIONS = [
                 true
             ], 
             [
-                "d. Wrażliwość na drobne różnice x1. Wskaż dane prawdziwe w odniesieniu do heterostatycznego mechanizmu motywacyjnego:", 
+                "d. Wrażliwość na drobne różnice ", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "1. Wskaż dane prawdziwe w odniesieniu do heterostatycznego mechanizmu motywacyjnego:", 
+        "options": [
+            [
+                "a) Mechanizm ten powoduje wzrost apetytu na przyjemność wraz z jej doznawaniem", 
+                true
+            ], 
+            [
+                "b) Mechanizm ten ma zadany punkt utrzymania, do którego dąży podwyższając lub obniżając wartość konkretnego parametru życiowego.", 
+                false
+            ], 
+            [
+                "c) Mechanizm ten występuje tylko u ludzi i naczelnych", 
+                true
+            ], 
+            [
+                "d) Mechanizm ten oparty jest o wewnętrzne standardy wartościowania.", 
                 false
             ]
         ]
