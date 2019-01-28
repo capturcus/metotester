@@ -193,19 +193,19 @@ export default class Questions { public static QUESTIONS = [
         "options": [
             [
                 "a. Potrzeby typu \"D\" w odróżnieniu od potrzeb typu \"B\" oparte są o regulację homeostatyczną", 
-                false
+                true
             ], 
             [
-                "b. Potrzeby typu \"B\" w odróżnieniu od potrzeb typu \"D\" oparte są o regulację homeostatyczną ", 
-                true
+                "b. Potrzeby typu \"B\" w odróżnieniu od potrzeb typu \"D\" oparte są o regulację homeostatyczną", 
+                false
             ], 
             [
                 "c. Potrzeby typu \"B\" w odróżnieniu od potrzeb typu \"D\" pojawiają się w trakcie rozwoju później i nie u wszystkich ludzi", 
-                false
+                true
             ], 
             [
-                "d. Potrzeby typu \"D\" w odróżnieniu od potrzeb typu \"B\" pojawiają się w trakcie rozwoju później i nie u wszystkich ludzi ", 
-                true
+                "d. Potrzeby typu \"D\" w odróżnieniu od potrzeb typu \"B\" pojawiają się w trakcie rozwoju później i nie u wszystkich ludzi", 
+                false
             ]
         ]
     }, 
