@@ -1,2241 +1,2161 @@
 export default class Questions { public static QUESTIONS = [
     {
-        "prompt": "33. Czy po roku od poważnego wupadku możemy wrócić do wyjściowego poziomu szczęścia?", 
+        "prompt": "﻿1. Działania wykonane na materiałach:", 
         "options": [
             [
-                "a. Tak, pod warunkiem braku problemów psychicznych", 
-                false
+                "a) są obojętne dla uczenia się", 
+                true
             ], 
             [
-                "b. Tak, badania wykazują, że ludzie z reguły w rok po wypadku są bardziej szczęśliwi niż w okresie przed wypadkiem", 
-                true
+                "b) pogarszają efekty uczenia się", 
+                false
             ], 
             [
-                "c. Nie, trauma wypadku powoduje, że u większości ludzi obniżone poczucie zadowolenia z życia utrzymuje się przez około 7 lat", 
+                "c) zwiększają efekty uczenia się i ukierunkowują procesy uczenia się", 
                 false
             ], 
             [
-                "d. Nie, ponieważ trauma związana z wypadkiem trwale obniża satysfakcję z życia", 
+                "d)", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "34. Jakie doświadczenia emocjonalne możemy odnaleźć w postulowanej przez Damasio protojaźni?", 
+        "prompt": "2. Amnezja pourazowa odnosi się przede wszystkim do pamięci:", 
         "options": [
             [
-                "a. Miłość i nienawiść", 
+                "a) semantycznej", 
                 false
             ], 
             [
-                "b. Ból i przyjemność", 
+                "b) długotrwałej", 
                 true
             ], 
             [
-                "c. Radość i smutek", 
+                "c) obrazowej", 
                 false
             ], 
             [
-                "d. W protojaźni nie ma miejsca na emocje", 
+                "d) krótkotrwałej", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "35. Które z poniższych mechanizmów lub struktur mogą wywołać empatię emocjonalną?", 
+        "prompt": "3. Wpływ nowych doświadczeń na pamiętanie poprzednich nosi nazwę:", 
         "options": [
             [
-                "a. Wyuczona niechęć do innych ludzi", 
+                "a) transferu pozytywnego", 
                 false
             ], 
             [
-                "b. Wrodzona, niespecyficzna wrażliwość na sygnały podniecenia", 
-                true
+                "b) transferu zasad", 
+                false
             ], 
             [
-                "c. Neurony lustrzane", 
-                true
+                "c) interferencji proaktywnej", 
+                false
             ], 
             [
-                "d. Twór siatkowaty w oku", 
-                false
+                "d) interferencji tetroaktynwej", 
+                true
             ]
         ]
     }, 
     {
-        "prompt": "36. Prawa Yerkesa-Dodsona opisują zależność:", 
+        "prompt": "4. Kod semantyczny nie występuje:", 
         "options": [
             [
-                "a. Pomiędzy poziomem wykonania a stresem", 
+                "a) w pamięci ultrakrótkotrwałej", 
                 true
             ], 
             [
-                "b. Pomiędzy pobudzeniem organizmu a poziomem wykonania zadań", 
-                true
+                "b) w pamięci krótkotrwałej", 
+                false
             ], 
             [
-                "c. Której nie da się zmierzyć w testach empirycznych", 
+                "c) w zapamiętywaniu obrazów", 
                 false
             ], 
             [
-                "d. Która ma charakter krzywoliniowy", 
-                true
+                "d) w zapamiętywaniu zdarzeń", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "37. Wg McLeana mózg składa się z 3 części stanowiących kolejne zdobycze ewolucyjne (wskaż prawdziwe):", 
+        "prompt": "5. W rozwoju strategii pamięciowych", 
         "options": [
             [
-                "a. Najstarszy (mózg gadzi) zapewnia zabezpieczanie w pożywienie oraz możliwość wyrażania i odczuwania emocji", 
-                true
+                "a) strategie organizowania wyprzedza strategia powtarzania", 
+                false
             ], 
             [
-                "b. Średni wiekiem ewolucyjnym (mózg neossaków) zapewnia pojawienie się emocji oraz pogłębienie relacji matka-dziecko", 
-                false
+                "b) obserwujemy coraz lepsze doszacowanie strategii do rodzaju zadania pamięciowego", 
+                true
             ], 
             [
-                "c. Najstarszy (mózg gadzi) zapewnia porozumiewanie się o charakterze werbalnym oraz emocje - efekt pobudzenia struktur werbalnych", 
+                "c) strategie wewnętrzne wyprzedzają strategie zawiedzenia", 
                 false
             ], 
             [
-                "d. Średni wiekiem ewolucyjnym mózg paleossaków zapewnia porozumiewanie się o charakterze werbalnym oraz emocje - efkt pobudzenia struktur werbalnych", 
+                "d) posługiwanie się strategiami staje się coraz bardziej niezależne od rodzaju zadania pamięciowego", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "38. Phineas Gage doznał w czasie pracy na kolei uszczerbku na zdrowiu polegającego na utracie mózgu. Po wypadku zaszły zmiany w jego zachowaniu polegające na:", 
+        "prompt": "6. Michał nie zdał egzaminu z fizyki i nie pamięta pytania, na które nie odpowiedział. Fakt ten można wyjaśnić:", 
         "options": [
-            [
-                "a. Utracie zdolności kontroli własnych działaś", 
-                true
-            ], 
             [
-                "b. Utracie zdolności wykonywania działań matematycznych w pamięci i odliczania wspak", 
+                "a) efektem Zeigarnik", 
                 false
             ], 
             [
-                "c. Polepszeniu sprawności zapamiętywania informacji związanych z koleją", 
+                "b) efektem lampy błyskowej", 
                 false
             ], 
             [
-                "d. Posługiwaniu się szpetnym językiem *przeklinanie*", 
+                "c) tłumieniem", 
                 true
+            ], 
+            [
+                "d) prawem świeżości", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "39. Według Ekmana do emocji podstawowych zaliczamy:", 
+        "prompt": "7. Według koncepcji poziomów powtarzania Graika i Lockeara siła śladu pamięciowego zależy od:", 
         "options": [
             [
-                "a. Złość i Wstręt", 
-                true
+                "a) czasu analizy bodźca", 
+                false
             ], 
             [
-                "b. Zachwyt i Nostalgię", 
+                "b) cech bodźca", 
                 false
             ], 
             [
-                "c. Szczęście i Spełnienie", 
+                "c) czasu i rodzaju analizy bodźca", 
                 false
             ], 
             [
-                "d. Strach i Radość", 
+                "d) rodzaju dokonywanej analizy bodźca", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "40. Kora mózgowa modyfikuje reakcje ciała migdałowatego", 
+        "prompt": "8. Czas przechowywania informacji w pamięci ikonicznej jest:", 
         "options": [
             [
-                "a. Poprzez jedno połączenie neuronalne określane jako droga górna", 
+                "a) taki sam jak w pamięci echoicznej", 
                 false
             ], 
             [
-                "b. Kora mózgowa nie modyfikuje reakcji ciała migdałowatego, natomiast ciało migdałowate modyfikuje funkcjonowanie kory", 
+                "b) dłuższy niż w pamięci echoicznej", 
                 false
             ], 
             [
-                "c. Poprzez kilka połączeń neuronalnych przenoszących kolejne sygnały modyfikujące reakcje ciała migdałowatego", 
+                "c) krótszy niż w pamięci echoicznej", 
                 true
             ], 
             [
-                "d. Poprzez połączenia, które przebiegają przez wzgórze", 
+                "d) niemożliwy do określenia", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "41. Według Zajonca jeśli mówimy o drogach powstawania emocji, to możemy mieć na myśli następujące sekwencje:", 
+        "prompt": "9. Występowanie uczenia się utajonego", 
         "options": [
             [
-                "a. Proces motoryczny - reakcja emocjonalna - identyfikacja cech", 
+                "a) dowodzi uniwersalności prawa efektu", 
                 false
             ], 
             [
-                "b. Proces sensoryczny - reakcja emocjonalna - rozpoznanie - identyfikacja cech", 
+                "b) wskazuje na ograniczenia prawa efektu", 
                 true
             ], 
             [
-                "c. Proces sensoryczny - identyfikacja cech - rozpoznanie - reakcja emocjonalna", 
-                true
+                "c) dowodzi uniwersalności prawa efektu", 
+                false
             ], 
             [
-                "d. Proces sensoryczny - myślenie - identyfikacja cech - reakcja emocjonalna", 
+                "d) wskazuje na ograniczenia prawa świeżości", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "42. Co odróżnia potrzeby typu \"B\" od potrzeb typu \"D\":", 
+        "prompt": "10. Nazywanie przedmiotów spostrzeżeń obrazowych jest jednym z przejawów:", 
         "options": [
             [
-                "a. Potrzeby typu \"D\" w odróżnieniu od potrzeb typu \"B\" oparte są o regulację homeostatyczną", 
+                "a) dwojakiego charakteru ludzkiej percepcji", 
                 true
             ], 
             [
-                "b. Potrzeby typu \"B\" w odróżnieniu od potrzeb typu \"D\" oparte są o regulację homeostatyczną", 
+                "b) trudności w koncentracji uwagi", 
                 false
             ], 
             [
-                "c. Potrzeby typu \"B\" w odróżnieniu od potrzeb typu \"D\" pojawiają się w trakcie rozwoju później i nie u wszystkich ludzi", 
-                true
+                "c) patologii pamięci", 
+                false
             ], 
             [
-                "d. Potrzeby typu \"D\" w odróżnieniu od potrzeb typu \"B\" pojawiają się w trakcie rozwoju później i nie u wszystkich ludzi", 
+                "d) nadzwyczajnych zdolności jednostki", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "43. Do cech afektu pierwotnego zaliczamy:", 
+        "prompt": "11. Zjawisko maskowania wstecznego odnosi się do:", 
         "options": [
             [
-                "a. Specyficzność wartościowania", 
+                "a) pamięci semantycznej", 
                 false
             ], 
             [
-                "b. Wysoką pewność własnychsądów", 
+                "b) pamięci ultrakrótkotrwałej", 
                 true
             ], 
             [
-                "c. Trudność w werbalizacji", 
-                true
+                "c) pamięci krótkotrwałej", 
+                false
             ], 
             [
-                "d. Wrażliwość na drobne różnice x1.", 
+                "d) pamięci epizodycznej", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "Co odróżnia potrzeby typu B od potrzeb typu D?", 
+        "prompt": "12. Kryterium różnicowania transferu i proakcjii stanowi:", 
         "options": [
             [
-                "a) Potrzeby typu D w odróżnieniu od potrzeb typu B oparte są o regulację homeostatyczną", 
-                true
+                "a) siła wpływu wcześniejszego uczenia się na późniejsze", 
+                false
             ], 
             [
-                "b) Potrzeby typu B w odróżnieniu od potrzeb typu D pojawiają się w trakcie rozwoju pózniej i nie u wszystkich ludzi", 
+                "b) rodzaj kontrolowanego wskaźnika", 
                 true
+            ], 
+            [
+                "c) kierunek wpływu wcześniejszego uczenia na się późniejsze", 
+                false
             ], 
             [
-                "c) Potrzeby typu D w odróżnieniu od potrzeb typu B pojawiają się w trakcie rozwoju pózniej i nie u wszystkich ludzi", 
+                "d) rodzaj materiału wykorzystywanego w badaniu", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "2. Empatia emocjonalna przejawia się:", 
+        "prompt": "13. Charakterystyczne dla padaczki zaburzenie pamięci to:", 
         "options": [
-            [
-                "a) Reakcją fizjologiczną na widok cierpienia innych", 
-                true
-            ], 
             [
-                "b) Doświadczeniem cudzych emocji jako własnych", 
-                true
+                "a) amnezja pourazowa", 
+                false
             ], 
             [
-                "c) Następstwem określanym jako zarażanie się cudzymi emocjami", 
+                "b) niepamięć wydarzeń z okresu napadu", 
                 true
             ], 
             [
-                "d) Chęci pomocy osobie cierpiącej w wyniku dostrzeżenia jej sytuacji", 
+                "c) konfabulacja", 
                 false
             ], 
             [
-                "e) Dążeniem do kontaktu z ludzmi którzy doświadczają cierpienia", 
+                "d) zmniejszenie zakresu pamięci bezpośredniej", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "3.Stosowanie biofeedback opiera się na założeniu że:", 
+        "prompt": "14. Organizowanie treści w procesie uczenia się wiąże się z następstwami:", 
         "options": [
             [
-                "a) Ludzie mogą nauczyć się kontroli nad reakcjami wisceralnymi", 
-                true
+                "a) nie wywiera żadnego wpływu na efekty pamięciowe", 
+                false
             ], 
             [
-                "b) Otrzymywanie informacji zwrotnej na temat reakcji organizmu pomaga świadomie kontrolowac reakcje fizjologiczne organizmu", 
-                true
+                "b) utrudnia zrozumienie materiału", 
+                false
             ], 
             [
-                "c) Emocje mają wpływ na stan zdrowia", 
-                false
+                "c) zazwyczaj podwyższa efekty pamięciowe", 
+                true
             ], 
             [
-                "d) Organizm może odpowiadać reakcjami fizjologicznymi na wzbudzone emocje", 
+                "d) stanowi przeszkodę w trwałym pamiętaniu", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "4. Do źródeł standardów ewaluatywnych zalicza się (standardy oceniania)", 
+        "prompt": "15. W rozwoju warunkowania:", 
         "options": [
             [
-                "a) Reakcje afektywne", 
+                "a) związki pierwszosygnałowe wytwarzają się wcześniej niż związki długosygnałowe", 
                 true
             ], 
             [
-                "b) Oddziaływania społeczne", 
-                true
+                "b) związki hamulcowe wytwarzają się wcześniej niż związki pobudzeniowe", 
+                false
             ], 
             [
-                "c) Funkcjonowanie poznawcze", 
-                true
+                "c) związki oparte na odruchu orientacyjnego wytwarzane są wcześniej niż związki oparte na odruchu pokarmowym", 
+                false
             ], 
             [
-                "d) Żadna z tych odpowiedzi nie jest prawidłowa", 
+                "d)", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "5. Podstawę do identyfikowania się z innymi ludźmi mogą stanowić", 
+        "prompt": "16. Zgodnie z podejściem asocjacjonistycznym:", 
         "options": [
             [
-                "a) Mechanizmy popędowo podnietowe", 
+                "a) zapamiętywanie ma charakter strategiczny", 
                 false
             ], 
             [
-                "b) Stopień wyartykułowania pojęcia my", 
+                "b) zapamiętywanie polega na zapamiętywaniu elementów", 
                 false
             ], 
             [
-                "c) Standardy wartościowania", 
+                "c) trwałość śladu pamięciowego zależy od powtarzania", 
                 false
             ], 
             [
-                "d) Wszystkie odpowiedzi są prawidłowe", 
+                "d) prawidłowe b i c", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "6. Motywacja zadaniowa", 
+        "prompt": "17. Najszybsze efekty uczenia się są osiągane:", 
         "options": [
             [
-                "a) jest motywacją specyficznie ludzką", 
-                true
+                "a) niezależnie od poziomu aspiracji jednostki", 
+                false
             ], 
             [
-                "b) jest motywacją charakterystyczną dla ludzi i innych naczelnych", 
+                "b) przy niskich aspiracjach jednostki", 
                 false
             ], 
             [
-                "c) jest mechanizmem zaburzania równowagi", 
-                false
+                "c) przy umiarkowanych aspiracjach jednostki", 
+                true
             ], 
             [
-                "d) wszystkie odpowiedzi są prawidłe", 
+                "d) przy wysokich aspiracjach jednostki", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "7. Samokontrola prospektywna to", 
+        "prompt": "18. Prawo ćwiczenia informuje nas o tym, że:", 
         "options": [
-            [
-                "a) program działania przed wystąpieniem pożądanego stanu", 
-                true
-            ], 
             [
-                "b) wynik wzbudzenia potrzeby dominacji", 
+                "a) człowiek może nauczyć się wszystkiego", 
                 false
             ], 
             [
-                "c) aktywność ukierunkowana na perspektywę zdobycia czegoś dla siebie w przyszłości", 
+                "b) dzięki powtarzaniu zmniejsza się prawdopodobieństwo zapomnienia", 
                 true
             ], 
             [
-                "d) proces wymagający antycypacji", 
-                true
+                "c) dzięki powtarzaniu ulegają osłabieniu ślady pamięciowe", 
+                false
             ], 
             [
-                "e) żadne ze stwierdzen nie jest prawdziwe", 
+                "d) bez powtarzania nie można trwale zapamiętać", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "8. Motywacje transgresyjne powstają w wyniku dostrzeżenia rozbieżności pomiędzy", 
+        "prompt": "19. Hipoteza deficytów mediacyjnych odnosi się do:", 
         "options": [
             [
-                "a) popędem a podnietą", 
+                "a) rozwoju metapamięci", 
                 false
             ], 
             [
-                "b) podnietą a celem", 
+                "b) rozwoju strategii pamięciowych", 
                 true
             ], 
             [
-                "c) popędem a celem", 
+                "c) rozwoju kodowania", 
                 false
             ], 
             [
-                "d) stanem rzeczy a wyartykułowanym standardem", 
+                "d) rozwoju metapamięci i kodowania", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "9. Moralność zależy wyłącznie od", 
+        "prompt": "20. Zgodnie z teorią ACTJ. R. Andersona pamięć deklaratywna i proceduralna:", 
         "options": [
             [
-                "a) wychowania", 
-                false
+                "a) są powiązane poprzez pamięć operacyjną", 
+                true
             ], 
             [
-                "b) wzorców środowiskowych", 
+                "b) są tym samym rodzajem pamięci", 
                 false
             ], 
             [
-                "c) rozwoju intelektu", 
+                "c) są powiązane poprzez pamięć krótkotrwałą", 
                 false
             ], 
             [
-                "d) oceniania opartego o standardy", 
+                "d) nie mają powiązań", 
                 false
-            ], 
-            [
-                "e) żadne z powyższych zadań nie jest prawdziwe", 
-                true
             ]
         ]
     }, 
     {
-        "prompt": "10. Specyfiką altruizmu endocentrycznego jest", 
+        "prompt": "21. Które z poniższych twierdzeń jest fałszywe:", 
         "options": [
             [
-                "a) powiązanie interesu cudzego z interesem własnym podmiotu", 
-                true
+                "a) jeśli po uczeniu się następuje sen, ślady pamięciowe konsolidują się i nie dochodzi do hamowania retroaktywnego", 
+                false
             ], 
             [
-                "b) brak jakichkolwiek oczekiwań w związku z udzielaniem pomocy", 
-                false
+                "b) przeuczenie się jest niekorzystne, gdyż powoduje hamowanie retroaktywne", 
+                true
             ], 
             [
-                "c) brak koncentracji na sytuacji innej osoby", 
+                "c) podanie informacji o czynnikach sprzyja dalszemu uczeniu się", 
                 false
             ], 
             [
-                "d) działanie ze względu na oczekiwanie nagrody z zewnątrz", 
+                "d) stosowanie wzmocnień pozytywnych jest korzystniejsze niż stosowanie wzmocnień negatywnych", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "11. W teorii Darwina kluczowym pojęciem dotyczącym emocji jest pojęcie:", 
+        "prompt": "22. W warunkowaniu klasycznym:", 
         "options": [
             [
-                "a) autonomii funkcjonalnej", 
+                "a) występują procesy pośredniczące i wgląd", 
                 false
             ], 
             [
-                "b) ekspresji emocjonalnej", 
+                "b) nie występują procesy pośredniczące i wgląd", 
                 true
             ], 
             [
-                "c) afektów podprogowych", 
+                "c) nie występują procesy pośredniczące i występujące", 
                 false
             ], 
             [
-                "d) empatii poznawczej", 
+                "d) występują procesy pośredniczące i wgląd nie występuje", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "12.Natychmiastowe reakcje na bodźce zmysłowe możliwe są dzięki powiązaniom", 
+        "prompt": "23. Efekt Humpgreysa odnosi się do:", 
         "options": [
             [
-                "a) ciała migdałowatego z pniem mózgu", 
+                "a) następstw nieregularnego wzmocnienia", 
                 true
             ], 
             [
-                "b) pomiędzy prawą a lewą półkulą", 
+                "b) przebiegu zapominania w czasie", 
                 false
             ], 
             [
-                "c) ciała migdałowatego z korą mózgową", 
+                "c) roli informacji zwrotnej i czynnikach", 
                 false
             ], 
             [
-                "d) ciała migdałowatego z prawą półkulą", 
+                "d) motywacyjnej funkcji nagród i kar", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "13. Oatley i Jenkins (2003) wymieniają substancje chemiczne pośredniczące w powstawaniu emocji", 
+        "prompt": "24. Które z poniższych twierdzeń jest prawdziwe:", 
         "options": [
             [
-                "a) neuroprzekaźniki", 
-                true
+                "a) reminiscencja nie zależy od sposobu powtarzania", 
+                false
             ], 
             [
-                "b) hormony", 
-                true
+                "b) reminiscencja jest efektem powtarzania materiału częściami", 
+                false
             ], 
             [
-                "c) witaminy", 
-                false
+                "c) reminiscencja jest efektem uczenia się rozłożonego w czasie", 
+                true
             ], 
             [
-                "d) neuromodulatory", 
+                "d) reminiscencja występuje przede wszystkim w warunkach uczenia się skomasowanego", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "14.Zdaniem Damasio zachowania człowieka racjonalnego", 
+        "prompt": "25. Uniemożliwienie powtarzania materiału:", 
         "options": [
             [
-                "a) angażuja wyłącznie wyższe struktury nerwowe", 
+                "a) obniża bezpośrednie efekty pamięciowe", 
                 false
             ], 
             [
-                "b) są możliwe gdy są wzbudzone emocje", 
+                "b) obniża długotrwałe efekty pamięciowe", 
                 false
             ], 
             [
-                "c) wymagają udziału emocji", 
+                "c) obniża bezpośrednie i długotrwałe efekty pamięciowe", 
                 true
             ], 
             [
-                "d) wszystkie stwierdzenia są fałszywe", 
+                "d) nie obniża efektów pamięciowych", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "15.Wskaż stwierdzenia nieprawdziwe:", 
+        "prompt": "26. Cechą wspólną warunkowania klasycznego i instrumentalnego jest:", 
         "options": [
             [
-                "a) U człowieka wartościowanie ma zawsze charakter świadomy", 
+                "a) fakt powstawania nowych reakcji", 
                 true
             ], 
             [
-                "b) Reakcja afektywna może przebiegać bez jej odczucia", 
+                "b) bezpośrednie kojarzenie bodźców i reakcji", 
                 false
             ], 
             [
-                "c) Zachowania altruistyczne mogą być podejmowane bez oczekiwania nagrody dla siebie", 
+                "c) sposób wytwarzania reakcji", 
                 false
             ], 
             [
-                "d) Kazda motywacja to pragnienie osiągnięcia wyznaczonych celów", 
-                true
+                "d) trwałość zmian zachowania", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "16. Wskaż zdania prawdziwe dotyczące mózgu człowieka", 
+        "prompt": "27. Nagroda... zachowanie, po którym następuje. Co sprawia kara?", 
         "options": [
             [
-                "a) uszkodzenie prawej strony mózgu powoduje zaburzenia rozpoznawania emocji", 
-                true
-            ], 
-            [
-                "b) uszkodzenie prawej strony mózgu powoduje zaburzenia zdolności mowy", 
+                "a) osłabia zachowanie, po którym następuje", 
                 false
             ], 
             [
-                "c) przecięcie spoidła wielkiego powoduje odczuwanie tylko emocji pozytywnych albo tylko negatywnych", 
+                "b) znosi atrakcyjność czynu, po którym następuje", 
                 false
             ], 
             [
-                "d) spoidło wielkie to inaczej hipokamp - element układu limbicznego odpowiedzialny głównie za pamięć; drobna struktura nerwowa, umieszczona w płacie skroniowym kory mózgowej kresomózgowia. lewa półkula odpowiada za procesy emocjonalne", 
-                false
+                "c) hamuje okresowo zachowanie, po którym następuje", 
+                true
             ], 
             [
-                "e) prawa półkula odpowiada za procesy intuicyjne, wartościowanie automatyczne i system doświadczeniowy", 
-                true
+                "d) wzmacnia tendencje do wykonywania zachowania, po którym następuje", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "17.Zaznacz stwierdzenia prawdziwe", 
+        "prompt": "28. Co wykorzystuje się w nauczaniu programowym?", 
         "options": [
-            [
-                "a) Psychologia pozytywna to inaczej nauka o szczęściu", 
-                true
-            ], 
             [
-                "b) Polacy mają zdecydowanie niższy poziom poczucia szczęścia niż mieszkańcy innych  krajów Europy zachodniej (może, nie wiadomo czy b)", 
+                "a) warunkowanie klasyczne", 
                 false
             ], 
             [
-                "c) Wieksze poczucie szczescia zapewnia eudajmonistyczne niż hedonistyczne podejście do zycia", 
+                "b) warunkowanie instrumentalne", 
                 true
+            ], 
+            [
+                "c) psychologię postaci", 
+                false
             ], 
             [
-                "d) Wieksze poczucie szczescia zapewnia hedonistyczne niż eudajmonistyczne podejście do zycia", 
+                "d)", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "18. Wskaż stwierdzenia prawdziwe", 
+        "prompt": "29. Jakie części mózgu odpowiedzialne są za pamięć operacyjna?", 
         "options": [
             [
-                "a) każdą motywacje poprzedza jakieś wartościowanie", 
-                true
+                "a) płaty skroniowe", 
+                false
             ], 
             [
-                "b) tylko człowiek dysponuje zdolnością refleksyjnego wartościowania", 
+                "b) czołowe", 
                 true
             ], 
             [
-                "c) tylko u człowieka procesy psychiczne mają głównie charakter świadomy", 
+                "c) ciemieniowe", 
                 false
             ], 
             [
-                "d) gratyfikacja popędów wymaga oceny sytuacji", 
+                "d) potyliczne", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "19. Badania nad wykorzystaniem bodźców emocjonalnych w reklamie pokazały m. In.", 
+        "prompt": "30. Informacje podwójnie kodowane są:", 
         "options": [
             [
-                "a) Większe zmiany postaw w skutek stosowania bodźców emocjonalnych w reklamach społecznych niż komercyjnych", 
-                false
+                "a) łatwiej wydobywane", 
+                true
             ], 
             [
-                "b) Zmiany oceny produktu i osoby go reklamującej zależności od zmiany wielkości jej źrenic", 
-                true
+                "b) maskowane", 
+                false
             ], 
             [
-                "c) Możliwość wpływu bodźców których obecności w reklamie podmiot nie jest świadomy", 
-                true
+                "c) niemożliwe do wydobycia", 
+                false
             ], 
             [
-                "d) Nieskuteczność stosowanie bodźców skojarzonych z doznaniami erotycznymi", 
+                "d)", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "20. Paradygmat efektywnego poprzedzania opisany przez Murphy i Zajonca", 
+        "prompt": "31. Badania wykazały, że w eksperckości najważniejsze jest:", 
         "options": [
             [
-                "a) Jest metoda badania zależności pomiędzy doświadczeniami wczesno dziecięcymi a stopniem późniejszej dojrzałości emocjonalnej", 
-                false
+                "a) ćwiczenie", 
+                true
             ], 
             [
-                "b) Umożliwia badanie znaczenia kar w wychowaniu dla rozwoju dziecka", 
+                "b) talent", 
                 false
             ], 
             [
-                "c) Jest innym określeniem na tzw efekt ekspozycji", 
+                "c) tylko wybitne jednostki mogą wznieść się ku eksperckości", 
                 false
             ], 
             [
-                "d) Polega na stosowaniu krótkich czasów ekspozycji (4ms) fotografii twarzy z ekspresją emocji, po których osoba badana ma oceniać bodźce neutralne", 
-                true
+                "d)", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "21. Miłość to:", 
+        "prompt": "32. Do trwałego zapamiętywania niezbędne jest:", 
         "options": [
+            [
+                "a) wzgórze", 
+                false
+            ], 
             [
-                "a) Doświadczenie uniwersalne występujące we wszystkich kulturach", 
+                "b) hipokamp", 
                 true
             ], 
             [
-                "b) Może być kontrolowana w wyniku wytworzenia standardów aksjologicznych", 
+                "c) podwzgórze", 
                 false
             ], 
             [
-                "c) Ekspresje miłości są uwarunkowane kulturowo", 
-                true
+                "d) ciało migdałowate", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "33. Co możemy powiedzieć o dzieciach, które na polecenie zapamiętania słów powtarzają je?", 
+        "options": [
+            [
+                "a) że są upośledzone", 
+                false
             ], 
             [
-                "d) Hormonem powiązanym z uczuciem miłości jest oksytocyna", 
+                "b) mają rozwiniętą wrażliwość metapamięciową", 
                 true
             ], 
             [
-                "e) Miłość namiętna jest gwarancją sukcesu długotrwałych związków", 
+                "c) maja problem z percepcja", 
                 false
             ], 
             [
-                "f) Mężczyźni bardziej niż kobiety są skłonni wstąpić w związek małżeński z innych pobudek niż z miłości", 
+                "d)", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "22.Według teorii LeDoux", 
+        "prompt": "34. Cechy wspólne osób z nadzwyczajną pamięcią:", 
         "options": [
             [
-                "a) Reakcje emocjonalne mogą przebiegać drogą górną lub drogą dolną", 
+                "a) synestezja", 
                 true
             ], 
             [
-                "b) Droga dolna przebiega dołem kory, a droga górna w górnej warstwie kory", 
+                "b) poziom inteligencji", 
                 false
             ], 
             [
-                "c) Reakcje emocjonalne przebiegające drogą górną są szybsze gdyż tam mieści się ciało migdałowate", 
+                "c) brak wspólnych cech", 
                 false
-            ], 
-            [
-                "d) Droga dolna to droga od wzgórza bezpośrednio do ciała migdałowatego ( z pominięciem kory)", 
-                true
             ], 
             [
-                "e) Droga dolna to droga od wzgórza bezpośrednio do kory ( z pominięciem ciała migdałowatego)", 
+                "d)", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "23.Przykładami nieświadomych procesów emocjonalnych o charakterze automatycznym są", 
+        "prompt": "35. Metoda oszczędności jest:", 
         "options": [
             [
-                "a) Efekt ekspozycji", 
-                true
+                "a) jedną z metod badania reakcji odroczonych", 
+                false
             ], 
             [
-                "b) Procesy atrybucji - proces wnioskowania o przyczynach zachowań czyichś i własnych.", 
+                "b) jedną z metod badania procesów warunkowania", 
                 false
             ], 
             [
-                "c) Nieświadome uczenie kowariancji – nieświadome uczenie wiedzy proceduralnej", 
+                "c) bardzo czułą metodą pomiaru efektów uczenia się", 
                 true
             ], 
+            [
+                "d) metodą pomiaru zakresu pamięci bezpośredniej", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "36. Podział na pamięć epizodyczną i semantyczna odnosi się do:", 
+        "options": [
             [
-                "d) Iluzoryczna korelacji - Skłonność do dostrzegania związków czy korelacji między zdarzeniami, które w rzeczywistości nie są ze sobą związane", 
+                "a) pamięci długotrwałej", 
                 true
             ], 
             [
-                "e) Empatia poznawcza", 
+                "b) operacyjnej", 
                 false
             ], 
             [
-                "f) Żadne z powyższych zjawisk", 
+                "c) obrazkowej", 
                 false
+            ], 
+            [
+                "d) niedeklaratywnej", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "24.Wskaż zdania prawdziwe dotyczące mózgu człowieka", 
+        "prompt": "37. Zaburzenia pamięci w otępieniu starczym maja charakter:", 
         "options": [
-            [
-                "a) Prążkowie to najstarsza część mózgu", 
-                true
-            ], 
             [
-                "b) W prążkowiu znajduje się tzw. ciało migdałowate", 
+                "a) następujący", 
                 false
-            ], 
-            [
-                "c) Prążkowie to tzw. mózg gadzi", 
-                true
             ], 
             [
-                "d) Ciało migdałowate to tzw mózg gadzi", 
+                "b) przemijający", 
                 false
             ], 
             [
-                "e) Ciało migdałowate znajduje się w układzie limbicznym", 
-                true
+                "c) nawracający", 
+                false
             ], 
             [
-                "f) Ciało migdałowate odpowiada za rozpoznawanie emocji", 
+                "d) postępujący", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "25.Afekty pierwotne", 
+        "prompt": "38. Chwilowy brak przyrostów wprawy w uczeniu się jest nazywany:", 
         "options": [
             [
-                "a) Podlegają woli człowieka", 
+                "a) poziomem stabilizacji wprawy", 
                 false
             ], 
             [
-                "b) powodują wysoką pewnośc własnych sądów", 
-                true
+                "b) przyspieszeniem ujemnym", 
+                false
             ], 
             [
-                "c) Wiążą się z trudnościami w werbalizacji ich przyczyn", 
+                "c) zastojem", 
                 true
             ], 
             [
-                "d) Umożliwiają precyzyjne i trafne różnicowanie boźców", 
+                "d) przyspieszeniem dodatnim", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "26. Ph. Gage doznal uszkodzenia mózgu. Jakie były tego następstwa.", 
+        "prompt": "39. Objętość STM?", 
         "options": [
             [
-                "a) W skutek uszkodzenia prawego płata czołowego stracił zdolność mówienia", 
+                "a) nieograniczona", 
                 false
             ], 
             [
-                "b) W skutek ogólnego wstrząsu mózgu doznał amnezji wspomnień od początku życia do chwili wypadku", 
-                false
+                "b) 7+/-2 elementy", 
+                true
             ], 
             [
-                "c) Utracił zdolność do kontroli emocjonalnej i planowania działań", 
-                true
+                "c) 8+/-2 elementy", 
+                false
             ], 
             [
-                "d) Wystąpiły u niego wszystkie wyżej wymienione objawy", 
+                "d) kilka elementów", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "27. Podstawowe założenie socjologii to:", 
+        "prompt": "40. Gdy mówimy o szybkości zapamiętywania, trwałości, zakresie, wierności i gotowości pamięci traktujemy pamięć jako ….", 
         "options": [
             [
-                "a) Założenie o biologicznym pochodzeniu człowieka", 
+                "a) właściwość", 
                 true
             ], 
             [
-                "b) Podstawowym motywem rządzącym wszelkimi zachowaniami organizmów jest dążenie do rozpowszechniania własnych genów", 
-                true
+                "b) proces", 
+                false
             ], 
             [
-                "c) Wychowaniem społecznym można przezwyciężyć biologiczną naturę człowieka", 
+                "c) proces i właściwość", 
                 false
             ], 
             [
-                "d) Wszystkie stwierdzenia są prawdziwe", 
+                "d) żadne z powyższych", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "28.Które z teorii motywacji dotyczą tylko ludzi?", 
+        "prompt": "41. Czy cenniejsze nagrody dają lepsze wyniki?", 
         "options": [
+            [
+                "a. tak", 
+                false
+            ], 
             [
-                "a) Ewolucyjne teorie motywacji", 
+                "b. cenniejsze nagrody dają gorsze wyniki", 
                 false
             ], 
             [
-                "b) Psychodynamiczne teorie motywacji", 
+                "c. cenniejsze nagrody nie wpływają na to jak dobrze się uczymy materiału", 
                 true
             ], 
             [
-                "c) behawiorystyczne teorie motywacji", 
+                "d. mniej cenne nagrody wpływają na lepszy wynik długiego materiału", 
                 false
-            ], 
+            ]
+        ]
+    }, 
+    {
+        "prompt": "42. Jakie są najlepiej zapamiętywane wyobrażenia?", 
+        "options": [
             [
-                "d) humanistyczne teorie motywacji", 
+                "a. Interaktywne/Dziwaczne", 
                 true
+            ], 
+            [
+                "b. Interaktywne/Nie dziwaczne", 
+                false
             ], 
             [
-                "e) poznawcze teorie motywacji", 
+                "c. Nie interaktywne/Dziwaczne", 
                 false
             ], 
             [
-                "f) żadna z powyższych teorii motywacji nie dotyczy wyłącznie ludzi", 
+                "d. Nie interaktywne/Nie dziwaczne", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "29.Drugie prawo Yerkesa i Dodsona mówi że", 
+        "prompt": "43. Odtwarzanie pozytywnych wspomnień - w jakim nastroju lepsze?", 
         "options": [
             [
-                "a) Motywacje powstają w odpowiedzi na wzbudzone emocje", 
+                "a. negatywnym", 
                 false
             ], 
             [
-                "b) Między pobudzeniem a wykonaniem zadania jest związek krzywoliniowy", 
-                true
-            ], 
-            [
-                "c) Im trudniejsze zadanie tym poziom optymalnego pobudzenia jest niższy", 
-                true
+                "b. neutralnym", 
+                false
             ], 
             [
-                "d) Im łatwiejsze zadanie tym poziom optymalnego pobudzenia jest wyższy", 
+                "c. pozytywnym", 
                 true
             ], 
             [
-                "e) Wpływ pobudzenia na wykonanie zadania zależy od rodzaju emocji ( jej wartościowości)", 
+                "d. w nastroju “zdam sesję”", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "30.Sytuacja gdy człowiek jest ukierunkowany na realizację określonego celu to:", 
+        "prompt": "44. Wcześniejsze pierwsze wspomnienia u chłopców czy dziewczynek?", 
         "options": [
-            [
-                "a) Motywacja transgresyjna", 
-                false
-            ], 
             [
-                "b) stan teliczny", 
+                "a. u dziewczynek", 
                 true
             ], 
             [
-                "c) Stan parateliczny", 
+                "b. u chłopców", 
                 false
             ], 
             [
-                "d) Stan autoteliczny", 
+                "c. u dziewczynek i chłopców tak samo wcześnie", 
                 false
             ], 
             [
-                "e) Motywacja golistyczna", 
+                "d. nie zbadano tego", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "31. Zaznacz zdania prawdziwe dotyczące relacji motywacji wewnętrznej i zewnętrznej", 
+        "prompt": "45. Czy wyniki w testach pośrednich są takie same dla dzieci i dorosłych?", 
         "options": [
             [
-                "a) Motywacja wewnętrzna prowadzi do lepszego wykonania zadania niż motywacja zewnętrzna", 
+                "a. tak", 
                 true
             ], 
             [
-                "b) Wprowadzanie nagrody pieniężnej może wzmocnić wcześniejsze wewnętrzne zainteresowanie zadaniem ale proces ten jest krótkotrwały", 
-                true
+                "b. nie", 
+                false
             ], 
             [
-                "c) Oczekiwanie nagrody pieniężnej powoduje wzmocnienie motywacji wewnętrznej", 
+                "c. nie wiem", 
                 false
             ], 
             [
-                "d) Nieoczekiwana nagroda pieniężna ( w przeciwieństwie do oczekiwanej) powoduje przesunięcie motywacji wewnętrznej na zewnętrzną", 
+                "d. trudno powiedzieć", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "32. Zgodnie z klasyfikacją potrzeb Obuchowskiego", 
+        "prompt": "46. Czy wyniki w testach pośrednich są takie same u amnestyków i ludzi zdrowych?", 
         "options": [
             [
-                "a) Potrzeby dzielą się na powszechne i indywidualne", 
+                "a. tak", 
                 true
             ], 
             [
-                "b) Potrzeby dzielą się na biologiczne i indywidualne (typowo ludzkie)", 
+                "b. nie", 
                 false
             ], 
             [
-                "c) Do potrzeb powszechnych należy potrzeby fizjologiczne, orientacyjne, seksualne i dystansu psychicznego", 
-                true
+                "c. nie wiem", 
+                false
             ], 
             [
-                "d) Do potrzeb powszechnych należą potrzeby miłości osiągnięć i szcześcia.", 
+                "d. trudno powiedzieć", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "33.Tym co wyróżnia człowieka wśród zwierząt jest:", 
+        "prompt": "47. Czy Efekt Prousta jest zaburzeniem", 
         "options": [
             [
-                "a) Empatia emocjonalna", 
+                "a. jest zaburzeniem związanym z węchem", 
                 false
             ], 
             [
-                "b) Refleksyjny system wartościowania", 
+                "b. dotyczy pamięci węchowej", 
                 true
             ], 
             [
-                "c) Autonomia funkcjonalna", 
+                "c. dotyczy pamięci wszystkich zmysłów", 
                 false
-            ], 
-            [
-                "d) Standardy oceniania – standardy ewaluatywne", 
-                true
             ], 
             [
-                "e) Empatia poznawcza", 
-                true
+                "d. jest zaburzeniem związanym z wszystkimi zmysłami", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "34. Afekty to atrybuty emocji które:", 
+        "prompt": "48. Prawo efektu:", 
         "options": [
             [
-                "a) Mają charakter holistyczny", 
+                "a. wzmacnia reakcje pożądane", 
                 true
             ], 
             [
-                "b) Zawsze przejawiają się silnymi odczuciami", 
+                "b. wzmacnia reakcje niepożądane", 
                 false
             ], 
             [
-                "c) Mają zawsze charakter nieświadomy", 
-                true
+                "c. zostało nazwane przez Pawłowa", 
+                false
             ], 
             [
-                "d) Są trudne do samokontroli", 
+                "d. zostało nazwane przez Thorndike’a", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "35. Nurt psychologii humanistycznej przeciwstawił się traktowaniu człowieka jako istoty", 
+        "prompt": "49. Etapy nabywania umiejętności", 
         "options": [
             [
-                "a) Egoistycznej", 
-                true
-            ], 
-            [
-                "b) Bezwolnej", 
-                true
+                "a. etap poznawczy, asocjacyjny, deklaratywny", 
+                false
             ], 
             [
-                "c) Zdolnej do samokontroli", 
+                "b. etap poznawczy, asocjacyjny,  kompilacyjny,", 
                 false
             ], 
             [
-                "d) Sterowanej wyłącznie odruchami (może, nie wiadomo,czy d też)", 
-                true
+                "c. etap deklaratywny, asocjacyjny, poznawczy", 
+                false
             ], 
             [
-                "e) Sterowanej wyłącznie popędami", 
+                "d. etap deklaratywny, asocjacyjny, autonomiczny", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "36. Empatia poznawcza różni się od empatii emocjonalnej tym że", 
+        "prompt": "50. 3 główne strategie zapamiętywania - powtarzanie, elaboracja, organizowanie", 
         "options": [
             [
-                "a) Nie wymaga decentracji", 
+                "a. powtarzanie, elaboracja", 
                 false
             ], 
             [
-                "b) Wymaga syntonii", 
+                "b. elaboracja, organizowanie,", 
                 false
             ], 
             [
-                "c) Nie wymaga bezpośredniego kontaktu z drugą osobą", 
+                "c. elaboracja, powtarzanie, organizowanie", 
                 true
             ], 
             [
-                "d) Wymaga zaangażowania intelektu", 
-                true
+                "d. powtarzanie, organizowanie", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "37. Uszkodzenie płatów czołowych upośledza:", 
+        "prompt": "51. Podział pamięci może być ze względu na:", 
         "options": [
             [
-                "a) Wartościowanie intelektualne", 
+                "a. zamiar", 
                 true
             ], 
             [
-                "b) Afekty pierwotne", 
+                "b. przedmiot", 
                 true
-            ], 
-            [
-                "c) Zdolności samokontroli", 
-                false
             ], 
             [
-                "d) System moralny", 
+                "c. podmiot", 
                 false
             ], 
             [
-                "e) Emocje wyższe", 
+                "d. funkcje", 
                 true
-            ], 
-            [
-                "f) Żadna z odpowiedzi nie jest prawdziwa", 
-                false
             ]
         ]
     }, 
     {
-        "prompt": "38. Do grupy emocji podstawowych wg Ekmana zaliczamy", 
+        "prompt": "52. Podział pamięci ze względu na zamiar:", 
         "options": [
-            [
-                "a) Strach i zaskoczenie", 
-                true
-            ], 
             [
-                "b) Radość i dumę", 
+                "a. automatyczna i nieautomatyczna", 
                 false
             ], 
             [
-                "c) Radość i smutek", 
-                true
+                "b. celowa i mimowolna", 
+                false
             ], 
             [
-                "d) Złość i wstręt", 
+                "c. zamierzona i niezamierzona", 
                 true
             ], 
             [
-                "e) Zazdrość i ciekawość", 
+                "d. celowa i niezamierzona", 
                 false
-            ], 
-            [
-                "f) Wszystkie z wyżej wymienionych emocji", 
-                false
             ]
         ]
     }, 
     {
-        "prompt": "39.Teorie emocji pierwotnych ze wskazaniem ich listy były formułowane przez:", 
+        "prompt": "53. Ze względu na udział woli pamięć dzieli się:", 
         "options": [
             [
-                "a) Zajonca i Plutchika", 
-                false
-            ], 
-            [
-                "b) Darwina i Ekmana", 
-                false
+                "a. dowolną i mimowolną", 
+                true
             ], 
             [
-                "c) Freuda i Ekmana", 
+                "b. automatyczną i nieautomatyczną", 
                 false
-            ], 
-            [
-                "d) Plutchika i Ekmana", 
-                true
             ], 
             [
-                "e) Zajonca i Isen", 
+                "c. zamierzoną i niezamierzoną", 
                 false
             ], 
             [
-                "f) Zajonca i Ekmana", 
+                "d. kontrolowaną i niekontrolowaną", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "40. Plutchik jest autorem kołowego modelu", 
+        "prompt": "54. Z jakiego rodzaju pamięci korzysta pamięć operacyjna?", 
         "options": [
             [
-                "a) Diad emocji pierwotnych", 
+                "a) z pamięci długotrwałej", 
                 true
             ], 
             [
-                "b) Struktury wartości uznawanych w różnych kulturach świata", 
+                "b) z pamięci krótkotrwałej", 
                 false
             ], 
             [
-                "c) kołowego modelu motywacji pierwotnych", 
+                "c) z pamięci ultrakrótkotrwałej", 
                 false
             ], 
             [
-                "d) Modelu emocji zgodnie z którym emocje wtórne są mieszankami emocji pierwotnych", 
-                true
+                "d) z pamięci sensorycznej", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "41. Utajone emocje charakteryzują się", 
+        "prompt": "55. Pamięć krótkotrwałą można przedłużyć poprzez:", 
         "options": [
             [
-                "a) Brakiem następstw behawioralnych", 
+                "a) przypominanie", 
                 false
             ], 
             [
-                "b) Automatycznym wzbudzaniem", 
+                "b) powtarzanie", 
                 true
             ], 
             [
-                "c) Automatycznym wpływem na zachowanie", 
-                true
+                "c) kodowanie", 
+                false
             ], 
             [
-                "d) Odczuwaniem wzbudzonej emocji", 
+                "d) kopiowanie", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "42. W paradygmacie afektywnego poprzedzania stosuje się", 
+        "prompt": "56. Odporność śladu pamięciowego na działanie czynników zewnętrznych jest przypisywana pamięci….", 
         "options": [
             [
-                "a) Jawne nieznane bodźce neutralne", 
+                "a. krótkotrwałej", 
                 false
             ], 
             [
-                "b) Jawne bodźce dobrze znane", 
-                false
+                "b. długotrwałej", 
+                true
             ], 
             [
-                "c) Podprogowe bodźce neutralne", 
+                "c. deklaratywnej", 
                 false
             ], 
             [
-                "d) Podprogowe bodźce o wyraźnym znaczeniu afektywnym", 
-                true
+                "d. epizodycznej", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "43. wskaźnikami fizjologicznymi emocji są", 
+        "prompt": "57. Informacje o pojedynczych zdarzeniach przechowywane są w pamięci…", 
         "options": [
-            [
-                "a) EEG, EWG i ruchy gałek ocznych - neurologiczne EWG", 
-                false
-            ], 
             [
-                "b) fMRI, EEG, PET, GSR i ruchy gałek ocznych - fMRI - neuro", 
+                "a. epizodycznej", 
                 true
             ], 
             [
-                "c) fMRI, PET, ZMET, GSR iruchy gałek ocznych - tym bardziej neuro", 
-                false
+                "b. autobiograficznej", 
+                true
             ], 
             [
-                "d) ruchy gałek ocznych, analiza głosu i MMCG", 
+                "c. proceduralnej", 
                 false
             ], 
             [
-                "e) wszystkie odpowiedzi są fałszywe", 
-                false
+                "d. deklaratywnej", 
+                true
             ]
         ]
     }, 
     {
-        "prompt": "44. Model Censydiam to:", 
+        "prompt": "58. Czy pamięć autobiograficzna to to samo co pamięć epizodyczna?", 
         "options": [
             [
-                "a)     kolowy model emocji oparty o badania międzykulturowe", 
+                "a. tak", 
                 false
             ], 
             [
-                "b)     model motywacji konsumenckich", 
+                "b. nie", 
                 true
             ], 
             [
-                "c)     zakłada że człowiek jest świadomy motywacji leżących u podstaw własnych zachowań", 
+                "c. nie mogę sobie przypomnieć", 
                 false
-            ], 
-            [
-                "d)     zakłada że część motywacji człowieka może być nieświadoma (nie wiadomo, czy też d)", 
-                true
             ], 
             [
-                "e)     punktem wyjścia jest teoria Freuda (oś pionowa) i Adlera (oś pozioma)", 
+                "d. zdecydowanie tak", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "45.Kto był zwolennikiem poglądu że afekt powstaje zawsze na bazie procesów poznawczych", 
+        "prompt": "59. Zaznacz prawdziwe twierdzenia dotyczące pamięci prospektywnej:", 
         "options": [
             [
-                "a) Richard Lazarus", 
+                "a) to pamięć odnosząca się do przyszłych zdarzeń", 
                 true
             ], 
             [
-                "b) Robert Zając - Poznanie NIE ZAWSZE MUSI poprzedzać emocje i NIEPRAWDA, że nie ma emocji bez poznania.", 
-                false
+                "b) pamięć prospektywną koduje się intencjonalnie", 
+                true
             ], 
             [
-                "c) Nico Frijda", 
+                "c) to pamięć odnosząca się do przeszłych zdarzeń", 
                 false
             ], 
             [
-                "d) Karol Darwin", 
+                "d) pamięć krótkotrwała", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "46. Która z definicji oddaje znaczenie określenia „emocje podstawowe”", 
+        "prompt": "60. Czy pamięć prospektywna przechowuje informacje o znaczeniu słów?", 
         "options": [
             [
-                "a) Emocje pojawiające się najwcześniej w życiu człowieka (do 2 roku życia)", 
+                "a) nie, przechowuje tylko obrazy", 
                 false
-            ], 
-            [
-                "b) Sa to emocje niezmienne kulturowo", 
-                true
             ], 
             [
-                "c) Emocje wspólne dla ludzi i wszystkich zwierząt", 
+                "b) tak, przechowuje też obrazy", 
                 false
             ], 
             [
-                "d) Emocje przekazywane poprzez kontakty społeczne", 
+                "c) tak, przechowuje tylko informacje o znaczeniu słów", 
                 false
             ], 
             [
-                "e) Emocje o wrodzonym biologicznym mechanizmie", 
+                "d) nie, nie przechowuje informacji o znaczeniu słów", 
                 true
-            ], 
-            [
-                "f) Żedna z tych definicji nie jest prawdziwa", 
-                false
             ]
         ]
     }, 
     {
-        "prompt": "47. Zaznacz zdania prawdziwe dotyczące relacji motywacji wewnętrznej i zewnętrznej", 
+        "prompt": "61. Pamięć fleszowa:", 
         "options": [
-            [
-                "a)     Wprowadzenie jakiejkolwiek nagrody zewnętrznej powoduje obniżenie motywacji wewnętrznej", 
-                false
-            ], 
             [
-                "b)     Obniżenie motywacji wewnętrznej zależy od rodzaju nagrody: występuje w przypadku nagród o charakterze sterującym ale nie informacyjnym", 
+                "a) najważniejszym dla niej czynnikiem jest nowość i znaczenie dla dalszego życia jednostki lub dla historii", 
                 true
             ], 
             [
-                "c)     Obniżenie motywacji wewnętrznej zależy od rodzaju nagrody: występuje w przypadku kar ale nie nagród", 
-                false
+                "b) dotyczy wyjątkowo wyrazistych i autentycznych dla osoby wspomnień", 
+                true
             ], 
             [
-                "d)     Jedyną gwarancją sukcesu i wysokich osiągnięć jest motywacja wewnętrzna ?", 
+                "c) jest to pamięć krótkotrwała", 
                 false
             ], 
             [
-                "e)     Osoby kierowane motywacją zewnętrzną są bardziej egoistyczne i są gotowe podejmować działania niemoralne ?", 
-                false
+                "d) zwana jest “efektem lampy błyskowej”", 
+                true
             ]
         ]
     }, 
     {
-        "prompt": "48. Teoria Jamesa Langego", 
+        "prompt": "62. Czy pamięć ikoniczna to obraz następczy?", 
         "options": [
-            [
-                "a) To inaczej fizjologiczna teoria uczuć", 
-                false
-            ], 
             [
-                "b) to inaczej obwodowa teoria uczuć (uczuć czy emocji? Nie wiadomo)", 
+                "a) tak", 
                 false
             ], 
             [
-                "c) to inaczej talamiczna teoria uczuć", 
-                false
+                "b) nie", 
+                true
             ], 
             [
-                "d) zakłada że emocje są wyłącznie poznawczymi zdarzeniami", 
-                false
+                "c) dobre pytanie", 
+                true
             ], 
             [
-                "e) emocje pojawiają się wyłącznie w wyniku interpretacji", 
+                "d) to pamięć sensoryczna", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "49. Dwuczynnikowa teoria emocji to:", 
+        "prompt": "63. Pamięć ekologiczna:", 
         "options": [
             [
-                "a) Teoria Cannona i Barda", 
+                "a) jest badana w warunkach sztucznych", 
                 false
             ], 
             [
-                "b) Teoria Schachtera i Singera", 
-                true
+                "b) dotyczy postaw ekologicznych", 
+                false
             ], 
             [
-                "c) Zakłada współwystępowanie emocji pozytywnych i negatywnych", 
+                "c) jest badana w warunkach ekologicznych", 
                 false
             ], 
             [
-                "d) Zakłada interakcję procesów wewnątrz organizmu z informacjami docierającymi z zewnątrz", 
+                "d) jest badana w warunkach naturalnych", 
                 true
-            ], 
-            [
-                "e) Zakłada interakcję czynników poznawczych i afektywnych w powstawaniu emocji?", 
-                false
             ]
         ]
     }, 
     {
-        "prompt": "50. Pobudki hedonistyczne oddziałują na zachowania", 
+        "prompt": "64. Efekt coctail party:", 
         "options": [
             [
-                "a)     Tylko ludzi", 
+                "a) pamięć semantyczna", 
                 false
             ], 
             [
-                "b)     Ludzi i zwierząt", 
+                "b) pamięć echoiczna", 
                 true
             ], 
             [
-                "c)     Tylko zwierząt", 
+                "c) pamięć deklaratywna", 
                 false
             ], 
             [
-                "d)     Tylko dzieci", 
+                "d) pamięć ruchowa", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "51. Badania nad skutecznością reklamy przeprowadzone przez firmę neuroidea dotyczące znaczenia mikroekspresji pokazały  że:", 
+        "prompt": "65. Czy pamięć ikoniczna to obraz następczy?", 
         "options": [
             [
-                "a) Mikroekspresja emocji obserwatora wpływa na odbiór komunikatu reklamowego i jego skuteczność", 
-                true
+                "a) tak", 
+                false
             ], 
             [
-                "b) Mikroekspresji wyrażane przez aktorkę reklamy (odzwierciedlające przeżywane przez nią emocje ) wpłynęły na odbiór całej reklamy zgodny z wyrażaną emocją", 
+                "b) nie", 
                 true
             ], 
             [
-                "c) Zwerbalizowanie emocji wyrażanej nieświadomie przez aktorkę reklamy powoduje zniwelowanie wpływu emocji na odbiór reklamy", 
-                false
+                "c) dobre pytanie", 
+                true
             ], 
             [
-                "d) Wszystkie trzy powyższe punkty są prawdziwe", 
-                false
+                "d) to pamięć sensoryczna", 
+                true
             ]
         ]
     }, 
     {
-        "prompt": "52. Istotą człowieczeństwa jest", 
+        "prompt": "66. Pamięć ekologiczna:", 
         "options": [
             [
-                "a) kierowanie się w życiu standardami", 
-                true
+                "a) jest badana w warunkach sztucznych", 
+                false
             ], 
             [
-                "b) pełne panowanie nad własnymi emocjami", 
+                "b) dotyczy postaw ekologicznych", 
                 false
             ], 
             [
-                "c) pełna kontrola popędów", 
+                "c) jest badana w warunkach ekologicznych", 
                 false
             ], 
             [
-                "d) umiejętność odejścia od motywacji wyłącznie hedonistycznej", 
+                "d) jest badana w warunkach naturalnych", 
                 true
-            ], 
-            [
-                "e) wszystkie odpowiedzi są prawdziwe", 
-                false
             ]
         ]
     }, 
     {
-        "prompt": "53. Badaczami którzy wnieśli wiele do badań nad emocjami i ich wpływem na funkcjonowanie poznawcze, m.in. proces podejmowania decyzji, kreatywność, ocenianie, gotowość do pomagania itp.", 
+        "prompt": "67. Habituacja", 
         "options": [
             [
-                "a) Alice Isen", 
-                true
+                "a) polega na ciągłym, nieustannym powtarzaniu", 
+                false
             ], 
             [
-                "b) Robert Zajonc", 
+                "b) jest zjawiskiem neurologicznym", 
                 true
             ], 
             [
-                "c) Robert Plutchlik", 
+                "c) powstaje w odpowiedzi na wielokrotne powtarzanie bodźca niosącego ważną informację", 
                 false
-            ], 
-            [
-                "d) Norbert Schwartz", 
-                true
             ], 
             [
-                "e) Gerald Clore", 
+                "d) to stopniowe zanikanie reakcji na bodziec", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "54. Pozytywny wzorzec motywacji to", 
+        "prompt": "68. Sposób na leczenie fobii:", 
         "options": [
             [
-                "a) Przewaga motywacji osiągnięć nad motywacją do unikania porażek", 
+                "a) przez zastosowanie warunkowania klasycznego", 
                 true
             ], 
             [
-                "b) Większy upór w dążeniu do celu", 
+                "b) systematyczna desentyzacja", 
                 true
             ], 
             [
-                "c) Tendencja do wybierania zadań bardzo łatwych albo bardzo trudnych", 
+                "c) przez zastosowanie warunkowania instrumentalnego", 
                 false
             ], 
             [
-                "d) Mniejsza odporność na niepowodzenia i kłopoty związane z wykonaniem działania", 
+                "d) nie ma sposobów na leczenie fobii, szczególnie tych związanych z sesją i egzaminami", 
                 false
-            ], 
-            [
-                "e) Przewaga motywacji pozytywnej nad negatywną", 
-                true
-            ], 
-            [
-                "f) Motywacja której towarzyszą w większym stopniu emocje pozytywne niż negatywne", 
-                true
             ]
         ]
     }, 
     {
-        "prompt": "55.Wskaż stwierdzenia prawdziwe dotyczące zjawiska poszukiwania wrażeń", 
+        "prompt": "69. Jakie systemy pamięciowe odpowiadają za efekt świeżości i efekt pierwszeństwa?", 
         "options": [
             [
-                "a) To cecha występująca u wszystkich ludzi, której natężenie zależy od wzorców wychowania -  indywidualnie zróżnicowana potrzeba zmiennych", 
+                "a) efekt świeżości związany jest z pamięcią krótkotrwałą, a pierwszeństwa z długotrwałą", 
                 true
-            ], 
-            [
-                "b) Poszukiwanie wrażeń jest typowym przykładem motywacji hedonistycznej", 
-                false
             ], 
             [
-                "c) Badaczem, który badał to zjawisko jest Zuckerman", 
+                "b) efekt świeżości związany jest z pamięcią krótkotrwałą, a pierwszeństwa z długotrwałą", 
                 true
             ], 
             [
-                "d) Badaczem, który badał to zjawisko jest Csikszentmlhalyi", 
+                "c) efekt świeżości związany jest z pamięcią ultrakrótkotrwałą, a pierwszeństwa z krótkotrwałą", 
                 false
             ], 
             [
-                "e) Test badający to zjawisko opiera się na czterech wymiarach 1) poszukiwanie grozy i przygód 2)poszukiwanie przeżyć 3) rozhamowanie 4)podatność na nudę", 
+                "d) efekt świeżości związany jest z pamięcią długotrwałą, a pierwszeństwa z długotrwałą", 
                 true
-            ], 
-            [
-                "f) Test badajacy to zjawisko opiera się na trzech wymiarach 1)poszukiwanie przygód 2)poszukiwanie doznań seksualnych 3)poszukiwanie nowych znajomości.", 
-                false
             ]
         ]
     }, 
     {
-        "prompt": "56. Według koncepcji emocji Lazarusa proces oceny pierwotnej nie obejmuje:", 
+        "prompt": "70. Potęgowe prawo uczenia:", 
         "options": [
             [
-                "a) oceny spójności celu – stwierdzenie, czy dane zdarzenie zbliża jednostkę do celu, czy też ją oddala", 
-                false
+                "a) opisuje wpływ powtarzania na uczenie się", 
+                true
             ], 
             [
-                "b) oceny adekwatności celu – czy cos jest dla jednostki szkodliwe lub pożyteczne", 
+                "b) mówi, że wraz z wzrastającą liczbą powtórzeń zwiększa się liczba błędów", 
                 false
             ], 
             [
-                "c) oceny odpowiedzialności – w jakim stopniu podmiot jest w stanie kontrolować dana sytuacjęc", 
-                false
+                "c) opisuje wpływ powtórzeń na czas wykonywania danej czynności", 
+                true
             ], 
             [
-                "d) oceny rodzaju zaangażowania ego", 
-                false
+                "d) opisuje funkcję potęgową", 
+                true
             ]
         ]
     }, 
     {
-        "prompt": "57. Wykazanie istnienia bezpośredniego połączenia nerwowego między siatkówką a podwzgórzem przemawia za:", 
+        "prompt": "71. Zapominanie wiedzy szkolnej w badaniach Bahricka:", 
         "options": [
             [
-                "a) niezależnością poznania i emocji", 
+                "a) krzywa przybierała podobny kształt jak krzywa zapominania Ebbinghausa", 
                 false
             ], 
             [
-                "b) zależnością poznania i emocji", 
+                "b) krzywa jest krzywą logarytmiczną", 
                 false
             ], 
             [
-                "c) pierwotnością zjawisk afektywnych względem poznania", 
+                "c) zapominanie jest największe na początku", 
                 true
             ], 
             [
-                "d) pierwotności poznania względem zjawisk afektywnych", 
-                false
+                "d) następowało zapominanie przez ok. 3 lata, następnie stan wiedzy stabilizował się", 
+                true
             ]
         ]
     }, 
     {
-        "prompt": "1. Wskaż dane prawdziwe w odniesieniu do heterostatycznego mechanizmu motywacyjnego:", 
+        "prompt": "72. Prawo Yerkesa-Dodsona:", 
         "options": [
-            [
-                "a) Mechanizm ten powoduje wzrost apetytu na przyjemność wraz z jej doznawaniem", 
-                true
-            ], 
             [
-                "b) Mechanizm ten ma zadany punkt utrzymania, do którego dąży podwyższając lub obniżając wartość konkretnego parametru życiowego.", 
+                "a) im wyższa motywacja, tym lepsze wyniki w zadaniu", 
                 false
             ], 
             [
-                "c) Mechanizm ten występuje tylko u ludzi i naczelnych", 
+                "b) ma charakter krzywoliniowy", 
                 true
+            ], 
+            [
+                "c) drugie prawo głosi, że przy trudnych zadaniach potrzebne jest dużo motywacji", 
+                false
             ], 
             [
-                "d) Mechanizm ten oparty jest o wewnętrzne standardy wartościowania", 
+                "d) przedstawia relację między trudnością zadania, a motywacją", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "2. Według starożytnych mądrości, gdzie powinien zabrać na randkę swoją potencjalną partnerkę Rzymianin, po to, żeby zmaksymalizować prawdopodobieństwo, że ona się w nim zakocha?", 
+        "prompt": "73. Przeuczenie:", 
         "options": [
             [
-                "a) Do świątyni", 
-                false
+                "a) ma charakter krzywej potęgowej", 
+                true
             ], 
             [
-                "b) Do łaźni", 
+                "b) przeuczenie jest zjawiskiem negatywnym", 
                 false
             ], 
             [
-                "c) Na walki gladiatorów z dzikimi zwierzętami", 
+                "c) mierzy się od 0, do 100%", 
                 true
             ], 
             [
-                "d) Na spacer w świetle księżyca", 
-                false
+                "d) im wyższy poziom, tym trwalsze zapamiętywanie", 
+                true
             ]
         ]
     }, 
     {
-        "prompt": "3. Badani, w eksperymentach Zajonca dotyczących samego efektu ekspozycji, oglądali i oceniali:", 
+        "prompt": "74. Żeby być mnemonistą trzeba (wysokiej inteligencji...., ćwiczenia)", 
         "options": [
             [
-                "a) Zdjęcia twarzy neutralnych", 
+                "a) być inteligentnym i oczytanym człowiekiem", 
                 false
             ], 
             [
-                "b) Zdjęcia twarzy wyrażających emocje", 
+                "b) skończyć studia na kierunku psychologia na Uniwersytecie Warszawskim", 
                 false
             ], 
             [
-                "c) Znaki w postaci ideogramów z dalekowschodniego alfabetu", 
+                "c) posiadać większe niż zwykły człowiek rezerwy pamięci krótkotrwałej", 
                 true
             ], 
             [
-                "d) Znaki graficzne przypominające znaki drogowe", 
-                false
+                "d) posiadać pamięć ekspercką", 
+                true
             ]
         ]
     }, 
     {
-        "prompt": "4. Według modelu Bowera:", 
+        "prompt": "75. Profesorowie i profesorki lepiej pamiętają ................. niż ................... studentów", 
         "options": [
             [
-                "a) Nastrój wpływa na pamięć tylko u osób chorych na depresję", 
-                true
+                "a) nazwiska, imiona", 
+                false
             ], 
             [
-                "b) Pozytywne informacje lepiej zapamiętujemy będąc w pozytywnym nastroju", 
-                true
+                "b) imiona, nazwiska", 
+                false
             ], 
             [
-                "c) Pozytywne informacje lepiej zapamiętujemy będąc pod wpływem stresu.", 
+                "c) twarze, nazwiska", 
                 false
             ], 
             [
-                "d) Możemy mówić o zjawisku pamięci zależnej od nastroju", 
+                "d) nazwiska, twarze", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "5. Według teorii atrybucyjnej emocje mają charakter:", 
+        "prompt": "76. W jakim wieku ludzie najlepiej pamiętają?", 
         "options": [
             [
-                "a) Preatrybucyjny", 
+                "a) Ok. 25 r.ż", 
                 false
-            ], 
-            [
-                "b) Prebehawioralny", 
-                true
-            ], 
-            [
-                "c) Postatrybucyjny", 
-                true
             ], 
-            [
-                "d) Postbehawioralny", 
-                false
-            ]
-        ]
-    }, 
-    {
-        "prompt": "6. Podstawowy temat relacyjny w koncepcji Lazarusa:", 
-        "options": [
             [
-                "a) Stanowi konsekwencję pojawienia się konkretnej emocji", 
+                "b) Ok. 12 r.ż.", 
                 false
             ], 
             [
-                "b) Jest sekwencją ocen poznawczych prowadzących do konkretnej emocji", 
+                "c) Ok. 18 r.ż.", 
                 true
             ], 
             [
-                "c) Jest jeden dla wszystkich emocji", 
+                "d) Ok. 30 r.ż", 
                 false
-            ], 
-            [
-                "d) Różne sytuacje mogą wiązać się z tym samym tematem relacyjnym", 
-                true
             ]
         ]
     }, 
     {
-        "prompt": "7. Na ocenę poznawczą składają się wg. Lazarusa:", 
+        "prompt": "77. Jakiej grupy wiekowej dotyczy zjawisko reminescencji?", 
         "options": [
             [
-                "a) Ocena pierwotna", 
+                "a) Okresu dzieciństwa", 
                 true
             ], 
             [
-                "b) Wartościowanie holistyczne", 
+                "b) Okresu dorosłości", 
                 false
             ], 
             [
-                "c) Ocena wtórna", 
+                "c) Okresu starości", 
                 true
             ], 
             [
-                "d) Zgodność ze standardem wartościowania", 
+                "d) Zjawisko reminiscencji zostało obalone", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "8. Jak długo rozwija się złożoność emocjonalnych i uczuciowych doświadczeń ludzi?", 
+        "prompt": "78. Efekt fałszywej sławy:", 
         "options": [
             [
-                "a) Przez całe życie możemy nabywać nowe doświadczenia emocjonalne i uczuciowe", 
-                true
+                "a) Czujemy się sławni, jeśli przebywamy ze sławnymi osobami (stąd popularność zdjęć z nimi)", 
+                false
             ], 
             [
-                "b) Do 25 roku życia", 
+                "b) Podświadomie wiemy, że ktoś zasługuje na to, żeby być sławnym", 
                 false
             ], 
             [
-                "c) Do 3 roku życia", 
+                "c) W opowieściach prezentujemy siebie, jako centrum wydarzeń", 
                 false
             ], 
             [
-                "d) Do 1 roku życia", 
-                false
+                "d) Słyszymy o kimś w warunkach niepełnej uwagi i uważamy za znanego", 
+                true
             ]
         ]
     }, 
     {
-        "prompt": "9. Wg. Damasio składowymi świadomości prowadzącymi do jej wyłaniania się z procesów neuronalnych są:", 
+        "prompt": "79. Zasada specyficzności kodowania:", 
         "options": [
             [
-                "a) Jaźń metapoznawcza", 
+                "a) dotyczy teorii energii psychoenergistycznej sformułowanej przez Endela Tulvinga", 
                 false
             ], 
             [
-                "b) Jaźń rdzenna", 
+                "b) każde wspomnienie jest rejestrowane w pamięci w sposób unikatowy", 
                 true
             ], 
             [
-                "c) Protojaźń", 
+                "c) sformułowana przez Endela Tulvinga teoria ekforii synergistycznej", 
                 true
             ], 
             [
-                "d) Jaźń autobiograficzna", 
+                "d) po co poszłam do kuchni?", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "10. Pobudzenie fizjologiczne towarzyszące silnym emocjom:", 
+        "prompt": "80. Automatyzacja to:", 
         "options": [
             [
-                "a) Wywołuje pozytywny afekt", 
-                false
+                "a) proces, który ogranicza zaangażowanie poznawcze", 
+                true
             ], 
             [
-                "b) Prowadzi do zawężenia pola uwagi", 
+                "b) proces, który jest trudny do przerwania", 
                 true
             ], 
             [
-                "c) Prowadzi do poszerzenia pola uwagi", 
+                "c) proces, który świadomie możemy łatwo przerwać", 
                 false
             ], 
             [
-                "d) Zapewnia lepsze pamiętanie elementów znajdujących się w centrum pola percepcyjnego", 
+                "d) proces, który pozwala na wykonywanie innych czynności w tym samym momencie", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "11. Według modelu faz związku Wojciszke:", 
+        "prompt": "81. Metoda pamiętam-wiem:", 
         "options": [
             [
-                "a) Zaangażowanie jest najdłużej obecnym składnikiem związku trwającym aż do jego formalnego końca", 
-                true
+                "a) dotyczy świadomości autonoetycznej w pamięci semantycznej", 
+                false
             ], 
             [
-                "b) Namiętność jest składnikiem miłości trwającym aż do końca związku", 
+                "b) używa się jej do badania pamięci semantycznej (pamiętam) i epizodycznej (wiem)", 
                 false
             ], 
             [
-                "c) Intymność jest składnikiem po części emocjonalnym, po części uczuciowym", 
+                "c) dotyczy pamięci semantycznej (wiem) i epizodycznej (pamiętam)", 
                 true
             ], 
             [
-                "d) W związku pustym nie ma intymności, jest jedynie namiętność", 
+                "d) dotyczy świadomości autonoetycznej (wiem) i noetycznej (pamiętam)", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "12. Teorie oceny poznawczej:", 
+        "prompt": "82. Czy wspomnienia z dzieciństwa to pamięć semantyczna?", 
         "options": [
             [
-                "a) Podkreślają rolę mechanizmów intelektualnych w reagowaniu emocjonalnym", 
-                true
+                "a) Nie, jeśli nie pamiętamy dokładnie", 
+                false
             ], 
             [
-                "b) Wyjaśniają dlaczego emocje mogą zależeć od kultury, w jakiej żyjemy", 
+                "b) Tak", 
                 true
             ], 
             [
-                "c) Postulują, że emocje danego rzędu mogą się ze sobą mieszać i tworzyć emocje wyższego rzędu", 
+                "c) Nie", 
                 false
             ], 
             [
-                "d) Podkreślają, że intelekt nie zapewnia plastyczności i różnorodności emocji", 
+                "d) W zależności od tego, czy pamiętamy na podstawie opowiadań innych", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "13.Mechanizm motywacyjny odpowiada zaregulację", 
+        "prompt": "83. Procedura Deese’a, Roedigera i McDermott (DRM):", 
         "options": [
             [
-                "a) Samooceny", 
-                true
+                "a) Eksperyment polegający na dokańczaniu słów słowami, które wcześniej usłyszało się w rozmowie", 
+                false
             ], 
             [
-                "b) potrzeby nowości", 
+                "b) Eksperyment, gdzie badanemu wydawało się, że słyszał słowo, które należy do tej samej kategorii słów, które usłyszał wcześniej", 
                 true
             ], 
             [
-                "c) ekploracji", 
+                "c) “Igła w stogu siana”", 
                 true
             ], 
             [
-                "d) potrzeby bezpieczeństwa", 
-                true
+                "d) Eksperyment, w którym badani muszą zapamiętać jak najwięcej sylab", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "14. Motywacja człowieka do osiągnięcia równowagi poznawczej jest", 
+        "prompt": "84. Model SPI Tulvinga :", 
         "options": [
             [
-                "a) oparta o mechanizmy homeostatyczne", 
-                true
+                "a) Wszystkie informacje przechowywane są w jednym magazynie", 
+                false
             ], 
             [
-                "b) nie zburza innych czynności realizowanych przez podmiot", 
+                "b)Wydobywanie jest zależne", 
                 false
             ], 
             [
-                "c) zwykle prowadzi do redukcji rozbierzności", 
+                "c) Jest modelem hierarchicznym", 
                 true
             ], 
             [
-                "d) oparta o mechanizmy heterostatyczne", 
-                false
+                "d) Kodowanie na charakter seryjny, a przechowywanie - równoległy", 
+                true
             ]
         ]
     }, 
     {
-        "prompt": "15. Wg wzoru na motywacje (Hull) zależy ona od", 
+        "prompt": "85. Otępienie:", 
         "options": [
             [
-                "a) iloczynu popędu i nawyku", 
-                true
+                "a) mam po uczeniu się tak dużej ilości materiału", 
+                false
             ], 
             [
-                "b) sumy popędu i nawyku", 
-                false
+                "b) występuje w zespołach z uszkodzeniem struktur podkorowych", 
+                true
             ], 
             [
-                "c) sumy wzmocnienia i nawyku", 
+                "c) układu limbicznego", 
                 false
             ], 
             [
-                "d) iloczynu wzmocnienia i nawyku", 
-                false
+                "d) polega przede wszystkim na osłabieniu funkcji wykonawczych w zakresie pamięci operacyjnej", 
+                true
             ]
         ]
     }, 
     {
-        "prompt": "16. Paradygmat afektywnego poprzedzania wprowadzonydo praktyki badawczej i opisany przez Murphy i Zająca polegał na:", 
+        "prompt": "86. Co to jest wrażliwość metapamięciowa?", 
         "options": [
             [
-                "a) prezentowanym osobom badanym przez bardzo krótki czas 4ms fotografii ludzi przeżywających odrazę, wstręt i smutek mających wprowadzać ich w określony stan wpływającyna ocenę boćców związanych z rozpoznawaniem emocji", 
+                "a) Świadomość, że własna pamięć ma swoje ograniczenia", 
                 false
             ], 
             [
-                "b) prezentowaniu osobom badanym przez bardzo krótki czas 4ms fotografii twarzy z wyraźną ekspresją emocji mających wprowadzić ich w określony stan wpływającyna ocenę boćców neutralnych w postaci chińskich ideogramów", 
-                true
+                "b) Zapamiętywanie zamierzone", 
+                false
             ], 
             [
-                "c) prezentowaniu osobom badanym przez bardzo krótki czas 16ms słów mających wprowadzić ich w określony stan wpływający na ocenę bodźców neutralnych w postaci chińskich heksagramów", 
-                false
+                "c) Świadomość tego, kiedy należy podejmować intencjonalne wysiłki, aby zapamiętać lub przypomnieć sobie", 
+                true
             ], 
             [
-                "d) prezentowaniu osobom badanym przez bardzo krótki czas 50ms słów mających wprowadzić ich w określony stan wpływający na ocenę bodźców neutralnych w postaci chińskich ideogramów", 
+                "d) Wrażliwość na wspomnienia autobiograficzne", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "17. W wojnie w Korei zaobserwowano, że wielu amerykańskich żołnierzy przetrzymywanych obozach w obozach jenieckich stawało się wrogami Ameryki. Działo się tak ponieważ:", 
+        "prompt": "87. Eksperyment Kintscha i Buschke:", 
         "options": [
             [
-                "a) zabijano jeńców, którzy nie chcieli zmienić swoich poglądów", 
-                false
+                "a) dotyczyły badań nad STM i LTM", 
+                true
             ], 
             [
-                "b) podsuwano jeńcom deklaracje lojalnościowe, do których podpisu ich zmuszano i wysyłano je do USA za pośrednictwem ZSRR", 
+                "b) podczas zapamiętywania homonimów, pomyłki pojawiały się w LTM (kodowaniu opartym na brzmieniu)", 
                 false
             ], 
             [
-                "c) podsuwano jeńcom deklaracje lojalnościowe, które mogli podpisać lub nie po czym upubliczniano w obozie listy tych którzy nie podpisali", 
-                false
+                "c) podczas zapamiętywania synonimów, pomyłki pojawiały się w LTM (kodowaniu opartym na znaczeniu)", 
+                true
             ], 
             [
-                "d) wzbudzono w nich dystans poznawczy", 
+                "d) podczas zapamiętywania homonimów, pomyłki pojawiały się w STM (kodowaniu opartym na brzmieniu)", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "18. Definicja emocji sformuowana przez Nico frijda zawiera następujące elementy", 
+        "prompt": "88. Jak Paivio określa kodowanie?", 
         "options": [
             [
-                "a) wartościowanie", 
-                true
+                "a) Sensoryczne", 
+                false
             ], 
             [
-                "b) uruchomienie gotowości do działania", 
-                true
+                "b) Ciągłych wzmocnień", 
+                false
             ], 
             [
-                "c) zmiany fizjologiczne", 
+                "c) Wielomagazynowe", 
                 false
             ], 
             [
-                "d) odczuwanie subiektywnego stanu", 
+                "d) Analogowe-obrazowe z werbalizowaniem i z kodem", 
                 true
             ]
         ]
     }, 
     {
-        "prompt": "19. Badanie nad centralnością kompetencji komputerowych pokazało że", 
+        "prompt": "89. Teoria ekforii synergistycznej", 
         "options": [
-            [
-                "a) ludzie nie zmieniają swojego zdania na temat w zależnościod swoich sukcesów, porażek na tym polu", 
-                false
-            ], 
             [
-                "b) sukcesy na kursie komputerowymnasilają uznawanie tych kompetencji za centralne", 
+                "a) polega na współdziałaniu informacji zakodowanej w śladzie pamięciowym z informacją zawartą we wskazówce do odtwarzania", 
                 true
             ], 
             [
-                "c) samoocena bazuje na heterostatycznym mechaniźmie regulacji", 
+                "b) to inaczej nieświadomy plagiat", 
                 false
             ], 
             [
-                "d) mechanizmem budowania samooceny może być zmiana postrzegania konkretnej dziedziny jako ważnej/nieważnej", 
+                "c) stworzona przez Tulvinga", 
                 true
+            ], 
+            [
+                "d) stworzona przez Skinnera", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "20. Standardy normatywne wg. Reykowskiego", 
+        "prompt": "90. Jakie choroby i jakie elementy mózgu powodują otępienie:", 
         "options": [
             [
-                "a) są to standardy ewaluatywne o charakterze absolutnym i uniwersalnym (tzw. prencypi... coś tam)", 
+                "a) Alzheimer, podkorowe", 
                 true
             ], 
             [
-                "b) wywodzą sie z ustabilizowanych wspólnych dla społeczności norm", 
+                "b) Choroba Parkinsona, istota czarna", 
                 true
             ], 
             [
-                "c) działają na zasadzie konformizmu- dobre jest to co jest zgodne z opinią lub wzorem", 
+                "c) Pląsawica Huntingtona, prążkowie", 
                 true
             ], 
             [
-                "d) to wzorce ewaluatywne sprawiające że pozytywnie oceniane jest to co organizmowi sprzyja a negatywne to co szkodzi", 
+                "d) zespół Downa, trisomnia chromosomu 21", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "21. badania Josepha LeDoux nad warunkowaniem strachu", 
+        "prompt": "91. Alzheimer jest związany z:", 
         "options": [
             [
-                "a) dotyczyły warunkowania unikania bodźca awersyjnego u szczurów", 
-                true
+                "a) urazem pnia mózgu", 
+                false
             ], 
             [
-                "b) dotyczyły uczenia ludzi o wysokim poziomie lęku reakcji warunkowej polegającej na zamykaniu powieki na dźwięk dzwonka zapowiadającego delikatny podmóch powietrza na powierzchnie gałki ocznej", 
-                false
+                "b) degeneracją kory", 
+                true
             ], 
             [
-                "c) w wyniku uszkodzenia ciała migdałowatego szczury utraciły zdolność do nabywania reakcji warunkowej", 
+                "c) nadreaktywnością obszarów korowych", 
                 false
             ], 
             [
-                "d) pokazały że lezja wzgórza nie upośledza zdolności szczurów do do warunkowania", 
-                true
+                "d) naruszeniem ciała migdałowatego", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "22. Jakie były konsekwencje pozytywnego afektu dla rozwiązania zadania wglądowego typu ,,problemu świecy,, ?", 
+        "prompt": "92. Puirsumetr", 
         "options": [
             [
-                "a) pozytywny afekt skutkował zmniejszeniem ilości poprawnych odpowiedzi", 
+                "a) Bada umiejętności motoryczne", 
                 false
             ], 
             [
-                "b) pozytywny afekt skutkował zwiększeniem ilości poprawnych odpowiedzi", 
-                true
+                "b) Bada pamięć krótkotrwałą", 
+                false
             ], 
             [
-                "c) poprawność wykonania w warunkach ze wzbudzonym pozytywnym afektem była porównywalna do warunków z zastosowaniem ułatwiającej ekspozycji zadania", 
-                true
+                "c) Bada skutki amnezji dziecięcej", 
+                false
             ], 
             [
-                "d) pozytywny afekt nie zmienił ilości poprawnych odpowiedzi a jedynie skrócił czas w jakim były one udzielane", 
-                false
+                "d) Bada umiejętności sensomotoryczne", 
+                true
             ]
         ]
     }, 
     {
-        "prompt": "23. behawiorystyczna koncepcja motywacji", 
+        "prompt": "93. Efekt kontekstu jest ważniejszy w rozpoznawaniu, niż w reprodukcji?", 
         "options": [
             [
-                "a) wyjasnia zachowania, odnocząc je do potrzeb", 
+                "a)Prawda", 
                 false
             ], 
             [
-                "b) jest oparta na badaniach empirycznych", 
+                "b)Fałsz", 
                 true
-            ], 
+            ]
+        ]
+    }, 
+    {
+        "prompt": "94. Najlepsza metoda na nauczenie się sensomotoryczne to powtarzanie", 
+        "options": [
             [
-                "c) czesto pozwala na opis zachowań w kategoriach matematycznych, za pomoca wzrów", 
+                "a) Prawda", 
                 true
             ], 
             [
-                "d) kładzie nacisk na odnawialna egergię psychiczna , ktora jest zródlem zachowania", 
+                "b) Fałsz", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "24. biorąc pod uwagę trudnosc zachowania i atrakcyjnosc powodzenia, w jakich sytuacjach ludzie z najwiekszym prawdopopodobienstwem zdecyduja sie na podjecie wyzwania dajacego szansę na odniesieniu sukcesu?", 
+        "prompt": "95. Amnezja dziecięca w interpretacji psychoanalitycznej:", 
         "options": [
             [
-                "a) gdy zadanie jest proste istnieje duze prawdpodobienstwo sukcesu", 
+                "a) amnezja wynika z niedojrzałości mózgu", 
                 false
             ], 
             [
-                "b) gdy zadanie jest skrajnie trudne i atrakcyjność powodzenia jest najwyzsza", 
+                "b) polega na tym, że wczesne doświadczenia nie są rejestrowane wcale albo ich ślady są bardzo nietrwałe", 
                 false
             ], 
             [
-                "c) gdy zadanie jest umiarkowanie trudne co za tym idzie istnieja realne szanse na sukces", 
+                "c) polega na tym, że wspomnienia z wczesnego dzieciństwa ulegają wyparciu", 
                 true
             ], 
             [
-                "d) kiedy atrakcyjnosc powodzenia jest we wzglednej rownowadze z trudnoscia zadania", 
-                true
+                "d) jeśli ktoś jej doświadczył to wspomnienia pojawiły się dopiero po ukształtowaniu się pojęcia “Ja”", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "25. strategię przedziałową w przypadku stawiania celów charakteryzuje", 
+        "prompt": "96. O czym świadczy zjawisko końca języka?", 
         "options": [
             [
-                "a) duza sztywnosc w realizacji celu", 
-                false
+                "a) O istnienie pamięci jawnej i utajonej", 
+                true
             ], 
             [
-                "b) mniejsza waga przykładania do szczegółow celu", 
-                true
+                "b) O szybkim zapominaniu", 
+                false
             ], 
             [
-                "c) duza giętkość w realizacji celu", 
-                true
+                "c) O małej motywacji do przypomnienia", 
+                false
             ], 
             [
-                "d) łatwe rozpoczynanie i kończenie  aktywnosci i koncepcja eskspresywnego sprzężenia zwrotnego", 
+                "d) O szybkim wygasaniu w LTS", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "26. koncepcja ekspresywnego sprzęzenia zwrotnego", 
+        "prompt": "97. Testy pamięci bezpośredniej odnoszą się do......", 
         "options": [
             [
-                "a) dotyczy zmian w pracy ekspresywnej mimicznych mięśni twarzy i mięsni szkieletowych", 
+                "a) Pamięci epizodycznej", 
                 false
             ], 
             [
-                "b) wyjaśnia dlaczego z dużą łatwościa rozumiemy wyrazy mimiczne innych ludzi", 
+                "b) Pamięci utajonej", 
                 false
             ], 
             [
-                "c) dotyczy uwaznego sledzenia tego co dzieje sie z naszym ciałem", 
+                "c) pamięci jawnej", 
                 true
             ], 
             [
-                "d) nie znajduje zastosowania w sytuacjach interpersoalnych", 
+                "d) Pamięci proceduralnej", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "27. model infuzji afektu:", 
+        "prompt": "98. Zaburzenia pamięci w otępieniu mają charakter.....", 
         "options": [
             [
-                "a) wskazuje ze afekt w najwiekszym stopniu wpłynie na heurystyczne procesy poznawcze", 
+                "a) przejściowy", 
                 false
             ], 
             [
-                "b) wyjaśnia dlaczego w pewnych sytuacjach emocje wpływają na nasze decyzje a w inncyh nie", 
+                "b) stały", 
                 true
             ], 
             [
-                "c) wskazuje ze afekt w najwiekszym stopniu wpłynie na analityczne procesy poznwcze", 
+                "c) związany z uszkodzeniem części płata skroniowego", 
                 true
             ], 
             [
-                "d) sugeruje ze przy przetwarzaniu zmotywowanym  nie nastapi wpływ emocji na procesy poznawcze", 
-                true
+                "d) związany z uszkodzeniem części płata potylicznego", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "28. Implementacja intencji to proces:", 
+        "prompt": "99. Przy zespole pourazowym.....", 
         "options": [
             [
-                "a) polegający na tworzeniu skojarzeń pomiędzy stanem obecnym a celem", 
-                true
+                "a) Amnezja następcza jest krótsza niż wsteczna", 
+                false
             ], 
             [
-                "b) będącym narzędziem pomocnym w wygenerwoaniu celów o charakterze punktowym", 
+                "b) Amnezja wsteczna jest krótsza niż następcza", 
                 true
             ], 
             [
-                "c) przygotowujący na wystąpienie pewnych momentów krytycznych w realizacji zachowania", 
-                true
+                "c) Amnezja następcza nie występuje", 
+                false
             ], 
             [
-                "d) będący formą wolicjonalnej kontroli motywacji", 
+                "d) Amnezja wsteczna nie występuje", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "29. Emocje o genezie refleksyjnej to:", 
+        "prompt": "100. W celu konsumpcji miąższu orzecha kokosowego", 
         "options": [
             [
-                "a) stany umysłu będące reakcją na otaczający świat", 
-                true
+                "a) XD", 
+                false
             ], 
             [
-                "b) emocje bazujące na standardach wartościowania", 
+                "b) Należy rozbić twardą łupinę", 
                 true
             ], 
             [
-                "c) grupy emocji, w której skład wchodzą emocje homeostatyczne i hedonistyczne", 
+                "c) XDDD", 
                 false
             ], 
             [
-                "d) rodzaj emocji który możemy zaklasyfikować do kategorii uczuć", 
-                true
+                "d) xdddd", 
+                false
             ]
         ]
     }, 
     {
-        "prompt": "30. Miłość romantyczna to zjawisko afektywne,  w którym", 
+        "prompt": "101. Jeżeli dziecko widzi obrazki i je nazywa, to jest to przejaw..........", 
         "options": [
             [
-                "a) mamy do czynienia ze złożoną dynamiką stanów o charakterze emocjoalnym i uczuciowym", 
-                true
+                "a)", 
+                false
             ], 
             [
-                "b) możemy wyróżnić fazę będącą przejawem działania procesów poznawyczych nazywaną stanem zakochania", 
+                "b)", 
                 false
             ], 
             [
-                "c) możemy wyróżnić fazę będacą przejawem bezpośreniej reakcji na obiekt miłości nazywaną stanem zakochania", 
-                true
+                "c)", 
+                false
             ], 
             [
-                "d) dominuje intymność odpowiedzialna za afektywną reakcję na osobę w stosunku do której czujemy miłość", 
-                false
+                "d) obrazowo-słownego charakteru ludzkiej percepcji", 
+                true
             ]
         ]
     }, 
     {
-        "prompt": "31. Przemieszczanie to", 
+        "prompt": "102. Zaznacz zdanie prawdziwe:", 
         "options": [
             [
-                "a) utożsamianie się z inną osobą", 
+                "a) rozpoznawanie jest zawsze lepsze od reprodukcji", 
                 false
             ], 
             [
-                "b) mechanizm obronny ego służący poradzeniu sobie z sytuacjami wywołującymi negatywne emocje", 
+                "b) reprodukcja może być lepsza (efektywniejsza) od rozpoznawania", 
                 true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "103. Transfer ogólny to inaczej transfer:", 
+        "options": [
+            [
+                "a) transfer sensoryczno-motoryczny", 
+                false
             ], 
             [
-                "c) rozładowanie stłumionej złości i frustracji na obiektach niezagrażających", 
-                true
+                "b) transfer zasad", 
+                false
+            ], 
+            [
+                "c) transfer specyficzny", 
+                false
             ], 
             [
-                "d) rozładowanie niezaspokojonych pragnień seksualnych przez zastępczą aktywność o charakterze nieseksualnym", 
+                "d) transfer niespecyficzny", 
                 false
             ]
         ]
     }, 
     {
-        "prompt": "32. W jaki spośób możemy w badaniach naukowych manipulować stanem emocjonalnym osób badanych", 
+        "prompt": "104. Niższy wskaźnik hamowania retroaktywnego u osób z ___ inteligencją.", 
         "options": [
             [
-                "a) pokazując listy słów lub zdań nasyconych emocjonalnie", 
+                "a) wyższą", 
                 true
             ], 
             [
-                "b) prosząc o przybranie o przybranie określonego wyrazu twarzy", 
-                true
+                "b) niższą", 
+                false
             ], 
             [
-                "c) prosząc o przypomnienie sobie pewnych wydarzeń z ich własnego życia", 
-                true
+                "c) średnią", 
+                false
             ], 
             [
-                "d) pobudzając elektrycznie korę mózgową w tzw. obszarach układu nagrody", 
-                true
+                "d) inteligencja nie jest najważniejsza", 
+                false
             ]
         ]
     }

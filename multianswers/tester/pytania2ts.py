@@ -65,5 +65,7 @@ with io.open("pytania.txt", "r", encoding="utf-8") as f:
             "options": options,
         })
 
+print("questions: " + str(len(questions)))
+
 with io.open("src/app/pytania.ts", "w", encoding="utf-8") as f:
     f.write(unicode("export default class Questions { public static QUESTIONS = " + json.dumps(questions, indent=4).decode("unicode-escape")+";}"))
